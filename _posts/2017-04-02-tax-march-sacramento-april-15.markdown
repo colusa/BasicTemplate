@@ -1,6 +1,8 @@
 ---
 title: Tax March Sacramento - April 15
 date: 2017-04-02 00:53:00 -07:00
+categories:
+- action
 ---
 
 Indivisible Colusa is joining the Tax March Sacramento to demand that President Trump release his tax returns and bring transparency to his business dealings. Plan to join us and stay tuned for info on meet up points, carpools, and a sign-making party.
