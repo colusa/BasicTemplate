@@ -1,7 +1,7 @@
 ---
 title: ACA Repeal Defeated
 date: 2017-04-01 22:32:00 -07:00
-main-image: "/uploads/3rd%20District%20Oppose%20AHCA.JPG"
+main-image: "/uploads/3rd%20District%20Oppose%20AHCA-36a848.JPG"
 ---
 
 We did it! 
