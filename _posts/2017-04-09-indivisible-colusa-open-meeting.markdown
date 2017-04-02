@@ -6,6 +6,9 @@ categories:
 event-start-date: 2017-04-09 15:00:00 -07:00
 event-end-date: 2017-04-09 16:30:00 -07:00
 Location: Location to be announced
+RSVP-link: https://actionnetwork.org/events/indivisible-colusa-general-meeting?source=direct_link&
 ---
 
-Come to our open meeting to learn about the Indivisible movement, and join with other Colusa County residents to plan Congressional office visits, coordinate phone calls, and more. We focus on encouraging our Members of Congress in the Senate and House to represent us, not Trump. If we stand together, indivisible, we will win. Welcome to the resistance! 
+Come to our open meeting to learn about the Indivisible movement, and join with other Colusa County residents to plan Congressional office visits, coordinate phone calls, and more. We focus on encouraging our Members of Congress in the Senate and House to represent us, not Trump. 
+
+If we stand together, indivisible, we will win. Welcome to the resistance! 
