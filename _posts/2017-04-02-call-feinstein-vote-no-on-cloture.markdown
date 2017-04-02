@@ -7,7 +7,7 @@ tags:
 - Gorsuch
 - Feinstein
 - Supreme Court
-call-script-text: Here's a [script and backgrounder](https://www.indivisibleguide.com/resources-2/2017/2/7/combat-donald-trumps-arch-conservative-scotus-pick)
+call-script-text: Here's a [script and explaine](https://www.indivisibleguide.com/resources-2/2017/2/7/combat-donald-trumps-arch-conservative-scotus-pick)r
   if you'd like more info.
 ---
 
