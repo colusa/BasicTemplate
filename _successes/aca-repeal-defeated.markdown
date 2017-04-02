@@ -10,7 +10,7 @@ position: 0
 main-image: "/uploads/3rd%20District%20Oppose%20AHCA-36a848.JPG"
 ---
 
-We did it! We stopped Congress from enacting a highly unpopular bill to "repeal & replace" the Affordable Care Act (also known as Obamacare).
+We did it! We stopped Congress from gutting the Affordable Care Act (also known as Obamacare). Under Trump and Ryan's highly unpopular bill, 24 million people would have lost health insurance.   
 
 CA District 3 residents -- your calls, letters and emails made a difference. 
 
