@@ -1,6 +1,6 @@
 ---
 title: Colusa County Sheriff's Office - Community Meeting
-date: 2017-04-01 23:38:00 -07:00
+date: 2017-04-02 09:30:00 -07:00
 categories:
 - event
 event-start-date: 2017-04-11 18:30:00 -07:00
