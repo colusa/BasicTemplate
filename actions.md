@@ -7,7 +7,7 @@ layout: actions
 
 **SHOW UP
 
-**Follow the Money – Tax March Sacramento!
+Follow the Money – Tax March Sacramento!**
 
 Indivisible Colusa is joining the Tax March Sacramento to demand that President Trump release his tax returns and bring transparency to his business dealings. Plan to join us and stay tuned for info on meet up points, carpools, and a sign-making party.
 
