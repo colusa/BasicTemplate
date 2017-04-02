@@ -33,7 +33,7 @@ layout: becomeAMember
 
 We are residents of the Colusa County, CA area who are dedicated to peacefully resisting the Trump agenda through civic action, working through our own Members of US Congress. 
 
-Our independent group is affiliated with the national Indivisible movement. We follow the described in the [Indivisible Guide](http://www.indivisibleguide.com). 
+Our independent group is affiliated with the national Indivisible movement. We follow the approach to civic action described in the [Indivisible Guide](http://www.indivisibleguide.com). 
 
 Everyone who lives in the Colusa County area and agrees with the following principles is welcome to join our group: 
 
