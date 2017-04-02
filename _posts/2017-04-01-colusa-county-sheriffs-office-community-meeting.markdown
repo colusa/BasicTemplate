@@ -5,7 +5,7 @@ categories:
 - event
 event-start-date: 2017-04-11 18:30:00 -07:00
 event-end-date: 2017-04-11 19:30:00 -07:00
-Location: Arbuckle Fire Dept., 506 Lucas St, Arbuckle, California 95912
+Location: Arbuckle Fire Dept., 506 Lucas St, Arbuckle
 RSVP-link: https://www.facebook.com/events/106357553217801/
 ---
 
