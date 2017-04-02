@@ -9,9 +9,9 @@ Location: Arbuckle Fire Dept., 506 Lucas St, Arbuckle, California 95912
 RSVP-link: https://www.facebook.com/events/106357553217801/
 ---
 
-The Colusa County Sheriff’s Office will be holding a community meeting on Tuesday, April 11, 2017 at 6:30 PM at the Arbuckle Fire Department to discuss topics of importance with the community.
+The Colusa County Sheriff’s Office will be holding a community meeting on Tuesday, April 11, 2017 at 6:30 PM in Arbuckle to discuss topics of importance with the community.
 
-They're also holding community meetings in 
+They're also holding community meetings in: 
 * Stonyford, March 28
 * Grimes, April 4
 * Princeton, April 18
