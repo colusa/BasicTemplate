@@ -3,6 +3,8 @@ title: Indivisible Colusa Open Meeting
 date: 2017-04-02 09:00:00 -07:00
 categories:
 - event
+is featured: true
+main-image: "/uploads/IndivisibleColusaSquare.jpg"
 event-start-date: 2017-04-09 15:00:00 -07:00
 event-end-date: 2017-04-09 16:30:00 -07:00
 Location: Williams - Location to be announced
