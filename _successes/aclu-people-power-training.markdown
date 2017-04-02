@@ -5,7 +5,7 @@ tags:
 - ICE
 - immigration
 - civil rights
-position: 3
+position: 2
 main-image: "/uploads/IMG_0735.JPG"
 ---
 
