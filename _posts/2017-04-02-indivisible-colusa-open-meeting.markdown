@@ -5,7 +5,7 @@ categories:
 - event
 event-start-date: 2017-04-09 15:00:00 -07:00
 event-end-date: 2017-04-09 16:30:00 -07:00
-Location: Location to be announced
+Location: Williams - Location to be announced
 RSVP-link: https://www.facebook.com/events/1807594152893780/
 ---
 
