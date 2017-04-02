@@ -6,5 +6,6 @@ categories:
 event-start-date: 2017-05-07 15:00:00 -07:00
 event-end-date: 2017-05-07 16:30:00 -07:00
 Location: Location to be announced
+RSVP-link: https://www.facebook.com/events/671671389700832/
 ---
 
