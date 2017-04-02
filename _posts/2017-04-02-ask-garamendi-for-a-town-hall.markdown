@@ -8,7 +8,7 @@ tags:
 - garamendi
 ---
 
-It’s time to #ReclaimRecess again! Congress will be on recess for a full two weeks - April 10-21. That’s when our reps should be making time to hear from us face to face. 
+It’s time to #ReclaimRecess again! Congress will be on recess for a full two weeks - April 8-23. That’s when our reps should be making time to hear from us face to face. 
 
 Call to ask that Rep. Garamendi hold a town hall (or several) while the House is out of session.
 
