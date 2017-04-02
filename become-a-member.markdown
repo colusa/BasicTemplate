@@ -40,8 +40,8 @@ Everyone who lives in the Colusa County area and agrees with the following princ
 1. Resist Trump's agenda. We believe Trump's agenda is divisive, racist, authoritarian and corrupt, and it must be stopped.
 2. Focus on local, defensive congressional
 advocacy. We demand that our own local Members of Congress serve as our voice in Washington, DC. 
-3. Embrace progressive values. We model inclusion, respect, fairness and non-violence in all of our actions. 
+3. Embrace progressive values. We model inclusion, respect, fairness and nonviolence in all of our actions. 
 
-Indivisible Colusa is non-partisan. Our members come from all kinds of backgrounds. We are citizens and noncitizens. Most importantly, we are all patriots that want the best for our country and are willing to work for it.
+Indivisible Colusa is nonpartisan. Our members come from all kinds of backgrounds. We are citizens and noncitizens. Most importantly, we are all patriots that want the best for our country and are willing to work for it.
 
 **All are welcome.**
