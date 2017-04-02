@@ -1,6 +1,8 @@
 ---
 title: Colusa County Sheriff's Office - Community Meeting
 date: 2017-04-01 23:38:00 -07:00
+categories:
+- event
 event-start-date: 2017-04-11 18:30:00 -07:00
 event-end-date: 2017-04-11 19:30:00 -07:00
 Location: Arbuckle Fire Dept., 506 Lucas St, Arbuckle, California 95912
