@@ -33,15 +33,15 @@ layout: becomeAMember
 
 We are residents of the Colusa County, CA area who are dedicated to peacefully resisting the Trump agenda through civic action, working through our own Members of US Congress. 
 
-Our independent group is affiliated with the national Indivisible movement. We follow the strategies outlined at IndivisibleGuide.com. 
+Our independent group is affiliated with the national Indivisible movement. We follow the described in the [Indivisible Guide](http://www.indivisibleguide.com). 
 
 Everyone who lives in the Colusa County area and agrees with the following principles is welcome to join our group: 
 
 1. Resist Trump's agenda. We believe Trump's agenda is divisive, racist, authoritarian and corrupt, and it must be stopped.
-2. Focus on local, defensive congressional a
+2. Focus on local, defensive congressional
 advocacy. We demand that our own local Members of Congress serve as our voice in Washington, DC. 
 3. Embrace progressive values. We model inclusion, respect, fairness and non-violence in all of our actions. 
 
-Members of Indivisible Colusa come from all kinds of backgrounds and political persuasions. We are citizens and noncitizens. Most importantly, we are all patriots that want the best for our country and are willing to work for it.
+Indivisible Colusa is non-partisan. Our members come from all kinds of backgrounds. We are citizens and noncitizens. Most importantly, we are all patriots that want the best for our country and are willing to work for it.
 
 **All are welcome.**
