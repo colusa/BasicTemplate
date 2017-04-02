@@ -7,8 +7,8 @@ tags:
 - Gorsuch
 - Feinstein
 - Supreme Court
-call-script-text: Here's a [script and explainer](https://www.indivisibleguide.com/resources-2/2017/2/7/combat-donald-trumps-arch-conservative-scotus-pick)
-  if you'd like more info.
+call-script-text: 'If you''d like more info, here''s a call script and explainer:
+  [www.indivisibleguide.com/resources-2/2017/2/7/combat-donald-trumps-arch-conservative-scotus-pick](http://www.indivisibleguide.com/resources-2/2017/2/7/combat-donald-trumps-arch-conservative-scotus-pick)'
 ---
 
 Call Senator Feinstein to oppose Gorsuch’s nomination to the U.S. Supreme Court. 
