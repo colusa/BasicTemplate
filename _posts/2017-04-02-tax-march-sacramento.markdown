@@ -1,6 +1,10 @@
 ---
 title: Tax March Sacramento
 date: 2017-04-02 14:13:00 -07:00
+categories:
+- event
+tags:
+- tax march
 event-start-date: 2017-04-15 11:30:00 -07:00
 event-end-date: 2017-04-15 14:30:00 -07:00
 Location: |-
