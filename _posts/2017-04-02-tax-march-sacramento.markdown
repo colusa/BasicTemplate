@@ -7,9 +7,7 @@ tags:
 - tax march
 event-start-date: 2017-04-15 11:30:00 -07:00
 event-end-date: 2017-04-15 14:30:00 -07:00
-Location: |-
-  Southside Park Downtown Sacramento
-  2115 6th St, Sacramento
+Location: Southside Park, 2115 6th St, Sacramento
 RSVP-link: https://www.facebook.com/events/1218030518281457/
 ---
 
