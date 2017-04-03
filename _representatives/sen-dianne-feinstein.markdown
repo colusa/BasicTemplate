@@ -2,10 +2,12 @@
 title: Senator Dianne Feinstein
 date: 2017-02-03 17:58:00 -08:00
 phone-numbers:
-  SF Office: "(213) 894-5000"
-  DC Office: "(202) 224-3553"
-  Sacramento Office: "(916) 448-2787"
+  SF office: "(415) 393-0707"
+  DC office: "(202) 224-3841"
+  Fresno office: " (559) 485-7430"
+  Los Angeles office: "(310) 914-7300"
+  San Diego office: " (619) 231-9712"
 website: https://www.feinstein.senate.gov/public/
 ---
 
-
+If you can't get through to the SF office, try the other offices.
