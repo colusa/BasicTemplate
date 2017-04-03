@@ -3,7 +3,7 @@ title: Indivisible Colusa members standing up for health care for all
 date: 2017-04-02 22:03:00 -07:00
 tags:
 - health care
-position: 2
+position: 3
 main-image: "/uploads/IC%20members.jpg"
 ---
 
