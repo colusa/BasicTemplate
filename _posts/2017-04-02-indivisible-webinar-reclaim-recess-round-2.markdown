@@ -1,5 +1,5 @@
 ---
-title: 'Indivisible Webinar: Reclaim Recess Round 2'
+title: "Indivisible Webinar: \nReclaim Recess Round 2"
 date: 2017-04-02 10:35:00 -07:00
 categories:
 - event
