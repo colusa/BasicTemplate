@@ -19,4 +19,4 @@ They're also holding community meetings in:
 
 These meetings are being held to better understand and address the problems that affect the everyday lives of the residents of Colusa County. Sheriff’s Office personnel and other local Government agencies will be in attendance to help answer any questions you may have. 
 
-More info: https://www.facebook.com/colusacountysheriff/
+More info: [https://www.facebook.com/colusacountysheriff/](https://www.facebook.com/colusacountysheriff/)
