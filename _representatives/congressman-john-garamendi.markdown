@@ -4,7 +4,7 @@ date: 2017-04-01 22:45:00 -07:00
 main-image: "/uploads/Garamendi.jpg"
 phone-numbers:
 - Davis office: "(530) 753-5301"
-  DC office: "(202) 225-1880"
+  Washington, DC office: "(202) 225-1880"
   Yuba City office: "(530) 329-8865"
   Fairfield office: "(707) 438-1822"
 website: http://garamendi.house.gov/
