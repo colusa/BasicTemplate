@@ -13,4 +13,4 @@ Come to our open meeting to learn about the Indivisible movement, and join with 
 
 If we stand together, indivisible, we will win. Welcome to the resistance! 
 
-**[More info & RSVP](https://actionnetwork.org/events/indivisible-colusa-general-meeting?source=direct_link&) **
+**[More info & RSVP](https://actionnetwork.org/events/indivisible-colusa-general-meeting?source=direct_link&)**
