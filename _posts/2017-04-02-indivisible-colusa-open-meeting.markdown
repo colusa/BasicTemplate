@@ -4,7 +4,6 @@ date: 2017-04-02 09:31:00 -07:00
 categories:
 - event
 is featured: false
-main-image: "/uploads/IndivisibleColusaSquare.jpg"
 event-start-date: 2017-04-09 15:00:00 -07:00
 event-end-date: 2017-04-09 16:30:00 -07:00
 Location: Williams - Location to be announced
@@ -14,4 +13,4 @@ Come to our open meeting to learn about the Indivisible movement, and join with 
 
 If we stand together, indivisible, we will win. Welcome to the resistance! 
 
-**More info & RSVP: [www.facebook.com/events/1807594152893780/](https://www.facebook.com/events/1807594152893780/)**
+**[More info & RSVP](https://actionnetwork.org/events/indivisible-colusa-general-meeting?source=direct_link&) **
