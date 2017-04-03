@@ -2,7 +2,7 @@
 title: Woodland Senior Roundtable with Rep. Garamendi
 date: 2017-04-01 23:32:00 -07:00
 categories:
-- events
+- event
 tags:
 - garamendi
 - seniors
