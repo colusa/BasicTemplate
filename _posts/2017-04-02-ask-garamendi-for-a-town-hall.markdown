@@ -10,7 +10,7 @@ tags:
 
 It’s time to #ReclaimRecess again! Congress will be on recess for a full two weeks - April 8-23. That’s when our reps should be making time to hear from us face to face. 
 
-Call to ask that Rep. Garamendi hold a town hall (or several) while the House is out of session.
+Call to ask that Congressman Garamendi hold a town hall (or several) in District 3 while the House is out of session.
 
 Davis office: 530-753-5301
 Washington DC office: 202-225-1880
