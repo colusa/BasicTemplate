@@ -1,5 +1,5 @@
 ---
-title: Thank Sen. Feinstein for Voting No on Gorsuch
+title: Thank Sen. Feinstein for voting no on Gorsuch
 date: 2017-04-02 10:39:00 -07:00
 categories:
 - action
