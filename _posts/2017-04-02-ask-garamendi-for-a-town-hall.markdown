@@ -1,5 +1,5 @@
 ---
-title: Ask Garamendi for a town hall
+title: Ask Rep. Garamendi for a town hall
 date: 2017-04-02 10:36:00 -07:00
 categories:
 - action
