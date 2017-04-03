@@ -20,4 +20,4 @@ Case workers will be standing by to help constituents with their Social Security
 
 Everyone is welcome - you don't have to be a senior. 
 
-[More info](http://garamendi.house.gov/event/yuba-city-senior-roundtable): http://garamendi.house.gov/event/yuba-city-senior-roundtable
+[More info](http://garamendi.house.gov/event/yuba-city-senior-roundtable)
