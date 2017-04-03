@@ -1,6 +1,6 @@
 ---
 title: Yuba City Senior Roundtable with Rep. Garamendi
-date: 2017-04-02 22:35:00 -07:00
+date: 2017-04-01 23:35:00 -07:00
 categories:
 - event
 tags:
