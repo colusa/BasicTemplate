@@ -9,7 +9,7 @@ position: 2
 main-image: "/uploads/IMG_0735.JPG"
 ---
 
-Indivisible Colusa attended an ACLU People Power training in February in Woodland. Thousands of these trainings took place at the same time in living rooms and community spaces across the country. 
+Indivisible Colusa attended an ACLU People Power training in March in Woodland. Thousands of these trainings took place at the same time in living rooms and community spaces across the country. 
 
 We learned about our rights to protest, how to respond if ICE comes to the door, and questions to ask local police chiefs and sheriffs about their engagement with immigration officials.
 
