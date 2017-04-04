@@ -9,6 +9,6 @@ Help grow the local Indivisible movement. Download and print our flyer and share
 
 You can also ask local businesses to post it and you can hand it out at places of worship and other community gathering places. 
 
-Print it from home in color or black and white, or ask us to provide you with color copies - just [let us know](mailto:indivisiblecolusa@gmail.com)how many you need. 
+Print it from home in color or black and white, or ask us to provide you with color copies - [send us an email](mailto:indivisiblecolusa@gmail.com) and let us know how many you need. 
 
-**Download: [IndivisibleColusa Flyer_4-17.pdf](/uploads/IndivisibleColusa%20Flyer_4-17.pdf)**
+**Download: [Indivisible Colusa Flyer.pdf](/uploads/Indivisible%20Colusa%20Flyer.pdf)**
