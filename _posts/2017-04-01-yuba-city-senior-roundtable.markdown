@@ -11,13 +11,12 @@ tags:
 - veterans
 event-start-date: 2017-04-19 10:30:00 -07:00
 event-end-date: 2017-04-19 00:00:00 -07:00
-Location: 777 Ainsley Ave, Yuba City
+Location: Yuba City Senior Center, 777 Ainsley Ave, Yuba City
+RSVP-link: http://garamendi.house.gov/event/yuba-city-senior-roundtable
 ---
 
-Congressman Garamendi is hosting a series of senior conversations throughout the 3rd District focused on the concerns of local seniors. On April 19th, Congressman Garamendi will be at the Yuba City Senior Center on 777 Ainsley Avenue from 10:30 am-12:00 pm. 
+Congressman Garamendi is hosting a series of senior conversations throughout the 3rd District focused on the concerns of local seniors. On April 19, Congressman Garamendi will be at the Yuba City Senior Center from 10:30 am-12:00 pm. He will be hosting Senior Roundtables in Woodland and Clearlake Oaks on April 20.
 
 Case workers will be standing by to help constituents with their Social Security, Medicare, and VA claims. Congressman Garamendi will also be discussing legislation he’s introducing to expand Medicare coverage, create new cost of living standards for Social Security, and safeguard crucial protections that you rely on. 
 
-Everyone is welcome - you don't have to be a senior. 
-
-[More info](http://garamendi.house.gov/event/yuba-city-senior-roundtable)
+Everyone is welcome - you don't have to be a senior.
