@@ -8,7 +8,7 @@ tags:
 - april recess
 event-start-date: 2017-04-04 18:00:00 -07:00
 Location: Webinar
-RSVP-link: www.indivisibleguide.com/reclaim-recess-round-2
+RSVP-link: https://www.indivisibleguide.com/reclaim-recess-round-2
 ---
 
 During the February congressional recess, more than 100,000 people showed up for town halls across the country and helped save health insurance for 24 million Americans. What can we accomplish this time?
