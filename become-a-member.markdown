@@ -42,6 +42,6 @@ Everyone who lives in the Colusa County area and agrees with the following princ
 advocacy. We demand that our own local Members of Congress serve as our voice in Washington, DC. 
 3. Embrace progressive values. We model inclusion, respect, fairness and nonviolence in all of our actions. 
 
-Indivisible Colusa is nonpartisan. Our members come from all kinds of backgrounds. We are citizens and noncitizens. Most importantly, we are all patriots that want the best for our country and are willing to work for it.
+Indivisible Colusa is nonpartisan. Our members come from all kinds of backgrounds. We are citizens and noncitizens. Most importantly, we are all patriots who want the best for our country and are willing to work for it.
 
 **All are welcome.**
