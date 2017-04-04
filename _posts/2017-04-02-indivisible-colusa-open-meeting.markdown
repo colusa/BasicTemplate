@@ -14,5 +14,5 @@ Come to our open meeting to learn about the Indivisible movement, and join with 
 
 If we stand together, indivisible, we will win. Welcome to the resistance! 
 
-On April 9, our agenda includes making plans for participating in upcoming marches and other events and connecting with our Members of Congress during the April congressional recess. 
+Our April 9 meeting agenda includes making plans for participating in upcoming marches and other events and connecting with our Members of Congress during the April congressional recess. 
 
