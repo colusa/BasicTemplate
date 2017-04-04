@@ -14,6 +14,6 @@ Come to our open meeting to learn about the Indivisible movement, and join with 
 
 Our April 9 meeting agenda includes making plans for participating in upcoming marches and other events and connecting with our Members of Congress during the April congressional recess. 
 
-We're meeting at McDonald's in Williams this time while we search for a better meeting place. Look for Jen wearing a red baseball cap with the words "Nevertheless she persisted."
+We're meeting at McDonald's in Williams this time while we search for a better meeting place. Look for Jen wearing a red baseball cap with the words "Nevertheless she persisted." If you plan to order food, please arrive 15 minutes early. 
 
 If we stand together, indivisible, we will win. Welcome to the resistance! 
