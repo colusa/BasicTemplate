@@ -5,7 +5,7 @@ categories:
 - action
 ---
 
-Help grow the local Indivisible movement. Download and print our flyer and share it with friends, family and coworkers who might be interested in joining us. 
+Help grow the local Indivisible movement. Download and print Indivisible Colusa's flyer and share it with friends, family and coworkers who might be interested in joining us. 
 
 You can also ask local businesses to post it and you can hand it out at places of worship and other community gathering places. 
 
