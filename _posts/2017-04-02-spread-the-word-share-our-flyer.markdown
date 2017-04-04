@@ -5,10 +5,10 @@ categories:
 - action
 ---
 
-We encourage you to download and print [IndivisibleColusa Flyer_4-17.pdf](/uploads/IndivisibleColusa%20Flyer_4-17.pdf) to help grow the local Indivisible movement. 
+Help grow the local Indivisible movement. Download and print our flyer and share it with friends, family and coworkers who might be interested in joining us. 
 
-Share it with friends, family and coworkers who might be interested in joining us. You can also ask local businesses to post it and hand it out at places of worship and other community gathering places. 
+You can also ask local businesses to post it and you can hand it out at places of worship and other community gathering places. 
 
-You can print it in color or black and white from a home printer, or we can give you color copies - just [let us know how many you need](mailto:indivisiblecolusa.com). 
+Print it from home in color or black and white, or as us to provide you with color copies - just [let us know how many you need](mailto:indivisiblecolusa.com). 
 
-**Download the flyer**[IndivisibleColusa Flyer_4-17.pdf](/uploads/IndivisibleColusa%20Flyer_4-17.pdf)
+**Download: [IndivisibleColusa Flyer_4-17.pdf](/uploads/IndivisibleColusa%20Flyer_4-17.pdf)**
