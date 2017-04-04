@@ -12,13 +12,12 @@ tags:
 - veterans
 event-start-date: 2017-04-20 10:00:00 -07:00
 event-end-date: 2017-04-20 11:30:00 -07:00
-Location: 2001 East St., Woodland
+Location: Woodland Community and Senior Center, 2001 East St., Woodland
+RSVP-link: http://garamendi.house.gov/event/woodland-senior-roundtable
 ---
 
-Congressman Garamendi is hosting a series of senior conversations throughout the 3rd District focused on the concerns of local seniors. On April 20th, Congressman Garamendi will be at the Woodland Community and Senior on 2001 East St. from 10:30 am-12:00 pm. 
+Congressman Garamendi is hosting a series of senior conversations throughout the 3rd District focused on the concerns of local seniors. On April 20, Congressman Garamendi will be at the Woodland Community and Senior Center on 2001 East St. from 10:30 am-12:00 pm. He will also host Senior Roundtables in Yuba City on April 19 and Clearlake Oaks on April 20 (1:30-3:00pm).
 
 Case workers will be standing by to help constituents with their Social Security, Medicare, and VA claims. Congressman Garamendi will also be discussing legislation he’s introducing to expand Medicare coverage, create new cost of living standards for Social Security, and safeguard crucial protections that you rely on. 
 
 This event is free and open to the public. Everyone is welcome, not just seniors. 
-
-[More info](http://garamendi.house.gov/event/woodland-senior-roundtable)
