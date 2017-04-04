@@ -6,7 +6,7 @@ categories:
 event-start-date: 2017-04-11 18:30:00 -07:00
 event-end-date: 2017-04-11 19:30:00 -07:00
 Location: Arbuckle Fire Dept., 506 Lucas St, Arbuckle
-RSVP-link: https://www.facebook.com/colusacountysheriff/
+RSVP-link: https://www.facebook.com/events/106357553217801/
 ---
 
 The Colusa County Sheriff’s Office will be holding a community meeting on Tuesday, April 11, 2017 at 6:30 PM in Arbuckle to discuss topics of importance with the community.
