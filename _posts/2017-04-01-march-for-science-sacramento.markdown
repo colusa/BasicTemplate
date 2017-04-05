@@ -12,8 +12,8 @@ Location: Capitol Mall, Sacramento
 RSVP-link: https://www.facebook.com/events/1788453908141585/
 ---
 
-Science protects the health of our communities, the safety of our families, the education of our children, the foundation of our economy and jobs, and the future we all want to live in and preserve for coming generations. 
+Indivisible Colusa members are going to the March for Science - Sacramento on Earth Day (April 22). The March for Science will be massive public celebration of science and the enormous public service it provides in our democracy, our economy, and in all our daily lives.
 
-We speak up now - and on April 22 we march in communities all around the world - because all of these values are currently at risk.
+If you live in Colusa County, let's carpool and march for science together! Some of us will be driving from Arbuckle. We may also have members going from Williams and Colusa. [Send us an email ](mailto:indivisiblecolusa@gmail.com)if you're interested in carpooling and we'll work out the carpooling details. 
 
-**​When science is threatened, so is the society that scientists uphold and protect. Join the March for Science on Earth Day, April 22.**
+Don't forget a sign!
