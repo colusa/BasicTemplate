@@ -11,8 +11,8 @@ Location: Southside Park, 2115 6th St, Sacramento
 RSVP-link: https://www.facebook.com/events/1218030518281457/
 ---
 
-Throughout the presidential campaign, Donald Trump promised that he would release his tax returns "later." Then, just a few days after Trump assumed office, his top adviser, Kellyanne Conway, said that he wouldn't release his tax returns ever, because the American people "don't care." We're here to say that we do care.
+Indivisible Colusa members are going to the Tax March Sacramento to demand that Donald Trump come clean about his business dealings, financial ties and conflicts of interest. 
 
-**On Saturday, April 15, join us in Sacramento** - and in other cities across the country - to march and show Donald Trump that he owes us transparency. 
+If you live in Colusa County, let's carpool and march together! Some of us will be driving from Arbuckle. We may also have members going from Williams and Colusa. [Send us an email](mailto:indivisiblecolusa@gmail.com) if you're interested in carpooling and we'll work out the details. 
 
-Join us to demand protection from corruption.
+Don't forget a sign!
