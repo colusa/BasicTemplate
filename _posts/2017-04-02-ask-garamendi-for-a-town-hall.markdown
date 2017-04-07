@@ -11,9 +11,3 @@ tags:
 It’s time to #ReclaimRecess again! Congress will be on recess for a full two weeks - April 8-23. That’s when our reps should be making time to hear from us face to face.
 
 Call to ask that Congressman Garamendi hold a town hall (or several) in District 3 while the House is out of session.
-
-Davis office: 530-753-5301
-Washington DC office: 202-225-1880
-Yuba City office: 530-329-8865
-Fairfield office: 707-438-1822
-![Garamendi invitation2.jpg](/uploads/Garamendi%20invitation2.jpg)
