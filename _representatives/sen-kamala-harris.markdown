@@ -1,6 +1,7 @@
 ---
 title: Senator Kamala Harris
 date: 2017-02-03 18:01:00 -08:00
+position: 2
 main-image: "/uploads/karris.jpg"
 phone-numbers:
   Sacramento office: "(916) 448-2787"

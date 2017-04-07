@@ -1,6 +1,7 @@
 ---
 title: Senator Dianne Feinstein
 date: 2017-02-03 17:58:00 -08:00
+position: 1
 phone-numbers:
   San Francisco office: "(415) 393-0707"
   Washington, DC office: "(202) 224-3841"
