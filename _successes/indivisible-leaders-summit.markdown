@@ -1,6 +1,6 @@
 ---
 title: Indivisible Leaders Summit
-date: 2017-04-09 13:48:00 -07:00
+date: 2017-02-01 13:48:00 -08:00
 main-image: "/uploads/IMG_0851.JPG"
 ---
 
