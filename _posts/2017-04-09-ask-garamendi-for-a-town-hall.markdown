@@ -16,7 +16,7 @@ It is no exaggeration to say that ICE agents are now terrorizing our communities
 
 ### WE STAND INDIVISIBLE WITH IMMIGRANTS
 
-Trump won’t stop terrorizing immigrants on his own — it is up to all of us to stop him. Fighting back on these attacks remains a top priority for Indivisible groups across the country, and especially for Indivisible groups such as ours that have large immigrant populations. 
+Trump won’t stop terrorizing immigrants on his own — it is up to all of us to stop him. Fighting back on these attacks is a top priority for Indivisible groups across the country, and especially for Indivisible groups such as ours that have large immigrant populations. 
 
 We strongly believe that all of Trump’s anti-immigrant policies can be stopped by Congress. To this end, Indivisible Colusa members are urging Congressman Garamendi to hold an Immigration Town Hall in April in Colusa County or Yuba County. 
 
