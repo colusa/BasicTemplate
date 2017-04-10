@@ -20,6 +20,6 @@ Trump won’t stop terrorizing immigrants on his own — it is up to all of us t
 
 We strongly believe that all of Trump’s anti-immigrant policies can be stopped by Congress. To this end, Indivisible Colusa members are urging Congressman Garamendi to hold an Immigration Town Hall in April in Colusa County or Yuba County. 
 
-We have many questions and concerns about how Trump's attack on immigrants is affecting our families, friends, neighbors and coworkers. It is urgent that we hear directly from our Congressman about what he is doing to protect families from being torn apart and to protect democracy from this aspiring tyrant. 
+We have many questions and concerns about how Trump's attack on immigrants is affecting our families, friends, neighbors and coworkers. **It is urgent that we hear directly from our Congressman about what he is doing to protect families from being torn apart and to protect democracy from this aspiring tyrant.** 
 
 For more information, [read this explainer](https://www.indivisibleguide.com/resource/response-to-immigration-raids-and-other-attacks-against-immigrants-and-refugees/) about how we can fight to protect immigrants, refugees and our democracy.
