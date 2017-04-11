@@ -1,6 +1,6 @@
 ---
 title: Indivisible Colusa Open Meeting
-date: 2017-04-01 22:00:00 -07:00
+date: 2017-03-15 00:00:00 -07:00
 categories:
 - event
 event-start-date: 2017-05-07 15:00:00 -07:00
