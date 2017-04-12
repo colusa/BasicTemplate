@@ -13,6 +13,6 @@ Location: San Francisco Scottish Rite Masonic Center, 2850 19th Avenue (corner o
 RSVP-link: https://www.eventbrite.com/e/san-francisco-town-hall-with-senator-dianne-feinstein-tickets-33503512909
 ---
 
-### SOLD OUT
+SOLD OUT
 
 Please join Senator Dianne Feinstein for a discussion on the critical issues facing our country.
