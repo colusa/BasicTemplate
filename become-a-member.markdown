@@ -31,7 +31,6 @@ mailchimp-form-embed: "<!-- Begin MailChimp Signup Form -->\n<link href=\"//cdn-
 layout: becomeAMember
 ---
 
-![US flag.png](/uploads/US%20flag.png)
 We are residents of the Colusa County, CA area who are dedicated to peacefully resisting the Trump agenda through civic action, working through our own Members of US Congress. 
 
 Our independent group is affiliated with the national Indivisible movement. We follow the approach to civic action described in the [Indivisible Guide](http://www.indivisibleguide.com). 
@@ -45,3 +44,4 @@ Everyone who lives in the Colusa County area and agrees with the following princ
 Indivisible Colusa is nonpartisan. Our members come from all kinds of backgrounds. We are citizens and noncitizens. Most importantly, we are all patriots who want the best for our country and are willing to work for it.
 
 **All are welcome.**
+![US flag.png](/uploads/US%20flag.png)
