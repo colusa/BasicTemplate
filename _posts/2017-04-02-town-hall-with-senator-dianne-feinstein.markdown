@@ -1,6 +1,11 @@
 ---
 title: Town Hall with Senator Dianne Feinstein
 date: 2017-04-02 08:58:00 -07:00
+categories:
+- EVENT
+tags:
+- FEINSTEIN
+- town hall
 event-start-date: 2017-04-17 11:00:00 -07:00
 event-end-date: 2017-04-17 12:00:00 -07:00
 Location: San Francisco Scottish Rite Masonic Center, 2850 19th Avenue (corner of
