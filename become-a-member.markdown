@@ -38,9 +38,8 @@ Our independent group is affiliated with the national Indivisible movement. We f
 Everyone who lives in the Colusa County area and agrees with the following principles is welcome to join our group: 
 
 1. Resist Trump's agenda. We believe Trump's agenda is divisive, racist, authoritarian and corrupt, and it must be stopped.
-2. Focus on local, defensive congressional
-advocacy. We demand that our own local Members of Congress serve as our voice in Washington, DC. 
-3. Embrace progressive values. We model inclusion, respect, fairness and nonviolence in all of our actions. 
+2. Focus on local, defensive congressional advocacy. We demand that our three Members of Congress (Senators Feinstein and Harris, Rep. Garamendi) serve as our voice in Washington, DC. 
+3. Respect one another. We model inclusion, compassion, fairness and nonviolence in all of our actions. 
 
 Indivisible Colusa is nonpartisan. Our members come from all kinds of backgrounds. We are citizens and noncitizens. Most importantly, we are all patriots who want the best for our country and are willing to work for it.
 
