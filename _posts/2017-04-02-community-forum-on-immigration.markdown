@@ -1,6 +1,6 @@
 ---
 title: Know Your Rights - Community Forum on Immigration
-date: 2017-04-09 22:17:00 -07:00
+date: 2017-04-02 09:29:00 -07:00
 categories:
 - event
 tags:
