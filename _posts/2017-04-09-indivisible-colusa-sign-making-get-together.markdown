@@ -1,6 +1,8 @@
 ---
 title: Indivisible Colusa sign-making get-together
 date: 2017-04-09 10:28:00 -07:00
+categories:
+- event
 event-start-date: 2017-04-13 17:00:00 -07:00
 event-end-date: 2017-04-13 18:00:00 -07:00
 Location: Arbuckle
