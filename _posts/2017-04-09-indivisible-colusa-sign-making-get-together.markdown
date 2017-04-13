@@ -1,5 +1,5 @@
 ---
-title: Indivisible Colusa sign-making get-together
+title: Indivisible Colusa sign-making social
 date: 2017-04-09 10:28:00 -07:00
 categories:
 - event
