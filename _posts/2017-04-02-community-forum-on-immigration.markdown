@@ -7,9 +7,11 @@ tags:
 - immigration
 event-start-date: 2017-04-17 18:00:00 -07:00
 event-end-date: 2017-04-17 20:00:00 -07:00
-Location: UC Davis School of Law, Kalmanovitz Appellate Courtroom, Room 1001, Davis
-RSVP-link: https://law.ucdavis.edu/news/event.aspx?id=4389
+Location: UC Davis School of Law, King Hall, Room 1001 (400 Mrak Hall Drive, Davis)
+RSVP-link: https://www.facebook.com/events/437122309959330/
 ---
+
+Hosted by Yolo Justice and Action Network. 
 
 Senator Bill Dodd will host a “Know Your Rights” community forum on immigration at UC Davis School of Law on Davis on Monday, April 17. This free event is co-hosted by Assemblymember Cecilia Aguiar-Curry. 
 
