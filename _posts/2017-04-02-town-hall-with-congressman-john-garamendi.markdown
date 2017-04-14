@@ -1,5 +1,5 @@
 ---
-title: Town hall with Congressman John Garamendi
+title: 3rd district town hall with Congressman John Garamendi
 date: 2017-04-02 20:59:00 -07:00
 categories:
 - event
@@ -8,7 +8,7 @@ tags:
 - town hall
 event-start-date: 2017-04-19 18:00:00 -07:00
 event-end-date: 2017-04-19 19:30:00 -07:00
-Location: Williams High School, 260 11th St, Williams, CA 95987
+Location: Williams High School, 260 11th St, Williams
 RSVP-link: https://www.facebook.com/events/1658384851135661/
 ---
 
