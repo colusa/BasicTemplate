@@ -1,5 +1,5 @@
 ---
-title: Attend Rep. Garamendi's town hall in Colusa County
+title: 'Spread the word: Rep. Garamendi is holding a town hall in Colusa County'
 date: 2017-04-13 23:41:00 -07:00
 categories:
 - action
@@ -12,7 +12,7 @@ Location: Williams High School, 260 11th St., Williams, CA 95987
 RSVP-link: https://www.facebook.com/events/1658384851135661/
 ---
 
-Please join U.S. Congressman John Garamendi for a conversation about critical issues facing the 3rd District and our country. 
+Please join U.S. Congressman John Garamendi for a town hall conversation about critical issues facing the 3rd District and our country. 
 
 And please share this event widely with District 3 constituents. It's a great opportunity to hear directly from our Congressman about what's going on in Washington DC.
 
