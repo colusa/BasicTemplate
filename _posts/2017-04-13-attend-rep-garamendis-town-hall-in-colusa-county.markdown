@@ -9,7 +9,6 @@ tags:
 event-start-date: 2017-04-19 18:00:00 -07:00
 event-end-date: 2017-04-19 19:30:00 -07:00
 Location: Williams High School, 260 11th St., Williams, CA 95987
-RSVP-link: https://www.facebook.com/events/1658384851135661/
 ---
 
 Please join U.S. Congressman John Garamendi for a town hall conversation about critical issues facing the 3rd District and our country. 
@@ -19,3 +18,6 @@ And please share this event widely with District 3 constituents. It's a great op
 This event is free and open to the public. 
 
 Indivisible Colusa is proud to join Indivisible Yuba-Sutter, Indivisible Yolo, Democracy Winters, Indivisible Fairfield and Indivisible Vacaville in co-sponsoring this town hall.
+
+Details: https://www.facebook.com/events/1658384851135661/
+or email [indivisiblecolusa@gmail.com](mailto:indivisiblecolusa@gmail.com)
