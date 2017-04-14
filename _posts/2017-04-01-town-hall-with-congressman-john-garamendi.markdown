@@ -1,6 +1,6 @@
 ---
 title: 3rd district town hall with Congressman John Garamendi
-date: 2017-04-01 11:33:00 -07:00
+date: 2017-04-01 23:33:00 -07:00
 categories:
 - event
 tags:
