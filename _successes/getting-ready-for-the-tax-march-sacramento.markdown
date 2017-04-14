@@ -3,6 +3,7 @@ title: Getting ready for the Tax March Sacramento
 date: 2017-04-14 00:08:00 -07:00
 tags:
 - tax march
+position: 0
 main-image: "/uploads/Tax%20march%20signs.JPG"
 ---
 

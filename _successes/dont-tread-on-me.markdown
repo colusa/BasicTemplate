@@ -5,7 +5,7 @@ tags:
 - travel ban
 - wall
 - protests
-position: 5
+position: 7
 main-image: "/uploads/IMG_0468%20(2).JPG"
 ---
 
