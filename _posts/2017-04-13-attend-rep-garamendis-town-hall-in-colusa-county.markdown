@@ -19,5 +19,5 @@ This event is free and open to the public.
 
 Indivisible Colusa is proud to join Indivisible Yuba-Sutter, Indivisible Yolo, Democracy Winters, Indivisible Fairfield and Indivisible Vacaville in co-sponsoring this town hall.
 
-Details: https://www.facebook.com/events/1658384851135661/
+Details: [facebook.com/events/1658384851135661/](https://www.facebook.com/events/1658384851135661/)
 or email [indivisiblecolusa@gmail.com](mailto:indivisiblecolusa@gmail.com)
