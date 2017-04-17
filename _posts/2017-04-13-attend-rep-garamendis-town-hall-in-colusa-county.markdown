@@ -1,5 +1,5 @@
 ---
-title: 'Join Us: Town Hall with Rep. Garamendi in Colua County'
+title: 'Join Us: Town Hall with Rep. Garamendi in Colusa County'
 date: 2017-04-13 23:41:00 -07:00
 categories:
 - action
