@@ -8,7 +8,7 @@ tags:
 - town hall
 event-start-date: 2017-04-19 18:00:00 -07:00
 event-end-date: 2017-04-19 19:30:00 -07:00
-Location: Williams High School, 260 11th St., Williams, CA 95987
+Location: Williams Upper Elementary School, 260 11th St., Williams, CA 95987
 RSVP-link: https://www.facebook.com/events/1658384851135661/
 ---
 
