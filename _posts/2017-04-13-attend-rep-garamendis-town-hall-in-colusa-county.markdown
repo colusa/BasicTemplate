@@ -1,5 +1,5 @@
 ---
-title: 'Join Us: Town Hall in Williams with Rep. Garamendi'
+title: 'Join Us: Town Hall in Colusa County with Rep. Garamendi'
 date: 2017-04-13 23:41:00 -07:00
 categories:
 - action
