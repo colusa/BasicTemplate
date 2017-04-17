@@ -1,5 +1,5 @@
 ---
-title: Town hall with Senator Dianne Feinstein
+title: Town Hall with Senator Dianne Feinstein
 date: 2017-04-02 08:58:00 -07:00
 categories:
 - event
