@@ -6,6 +6,7 @@ position: 2
 
 ### Media Releases: 
 **Town Hall in Colusa County with Congressman John Garamendi on April 19**
+
 [Garamendi Town Hall_April 19.docx](/uploads/Garamendi%20Town%20Hall_April%2019.docx)
 
  
