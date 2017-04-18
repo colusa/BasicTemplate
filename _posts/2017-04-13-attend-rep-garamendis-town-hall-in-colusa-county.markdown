@@ -16,10 +16,9 @@ U.S. Congressman John Garamendi will hold a town hall in Williams at 6:00 PM on 
 
 The town hall is free and open to the public, and all 3rd district residents are encouraged and invited to attend. Congressman Garamendi will deliver a brief update on the state of affairs in Washington, and then take questions from the audience. This town hall is one of hundreds happening all over the country in response to increasing constituent engagement and concern about the Trump administration. 
 
-This event is co-hosted by Indivisible groups in the third congressional district -
-Indivisible Colusa, Indivisible Yuba-Sutter, Indivisible Yolo, Indivisible Fairfield-Vacaville, as well as Democracy Winters.
+This town hall is taking place at the request of Indivisible groups in the third congressional district - Indivisible Colusa, Indivisible Yuba-Sutter, Indivisible Yolo, and Indivisible Fairfield-Vacaville, as well as Democracy Winters.
 
-These groups have more than 1,000 members. Every day these members are taking action, and working to connect with their members of Congress, fight for progressive values at every level of government, and protect our democracy and rights. 
+These groups have more than 1,000 members, most of whom were not politically active before the 2016 elections. Every day these members are taking action, and working to connect with their members of Congress, fight for progressive values at every level of government, and protect our democracy and rights. 
 
 The venue is wheelchair accessible. 
 
