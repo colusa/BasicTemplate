@@ -20,3 +20,5 @@ The Labor Council for Latin American Advancement-Sacramento AFL-CIO Chapter (LCL
 MARCH TO THE WEST STEPS OF THE SACRAMENTO CAPITOL!
 Wear White T-Shirts
 Bring your Banners, Signs, and instruments
+
+More information: https://www.facebook.com/events/1387085794698602/
