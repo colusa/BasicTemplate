@@ -7,4 +7,4 @@ tags:
 main-image: "/uploads/IMG_1047.JPG"
 ---
 
-Indivisible Colusa's welcoming table at Congressman John Garamendi's town hall in Williams. Flyers, bumper stickers and homemade chocolate chip cookies.
+Indivisible Colusa's welcoming table at Congressman John Garamendi's town hall in Williams. Flyers, bumper stickers and homemade chocolate chip cookies. Oh yeah, the flags are planted in jars of almonds and rice, two of Colusa County's main crops. 
