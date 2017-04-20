@@ -1,7 +1,6 @@
 ---
 title: Town Hall with Congressman John Garamendi
 date: 2017-04-01 23:33:00 -07:00
-published: false
 categories:
 - event
 tags:
