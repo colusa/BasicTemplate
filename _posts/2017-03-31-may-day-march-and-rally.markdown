@@ -21,4 +21,4 @@ MARCH TO THE WEST STEPS OF THE SACRAMENTO CAPITOL!
 Wear White T-Shirts
 Bring your Banners, Signs, and instruments
 
-More information: [https://www.facebook.com/events/1387085794698602/](https://www.facebook.com/events/1387085794698602/)
+More information: [facebook.com/events/1387085794698602](https://www.facebook.com/events/1387085794698602/)
