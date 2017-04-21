@@ -1,6 +1,6 @@
 ---
-title: Urge our members of Congress to push harder for an independent investigation
-  into possible collusion wiht Russia
+title: Urge Garamendi, Feinstein and Harris to fight harder for an independent investigation
+  into Russian interference
 date: 2017-04-20 17:01:00 -07:00
 categories:
 - action
