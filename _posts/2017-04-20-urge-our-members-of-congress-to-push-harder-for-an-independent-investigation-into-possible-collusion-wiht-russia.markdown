@@ -1,6 +1,6 @@
 ---
 title: Urge Garamendi, Feinstein and Harris to fight harder for an independent investigation
-  into Russian interference
+  into Trump's ties to Russia
 date: 2017-04-20 17:01:00 -07:00
 categories:
 - action
