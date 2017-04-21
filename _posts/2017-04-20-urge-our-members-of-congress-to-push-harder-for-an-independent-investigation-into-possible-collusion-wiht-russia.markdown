@@ -11,7 +11,7 @@ tags:
 - Harris
 ---
 
-Senators Feinstein and Harris and Congressman Garamendi have all spoken in favor of an independent investigation into Russia's ties to the Trump administration. Call to thank them and urge them to turn up the heat on demands for an independent investigation. 
+Senators Feinstein and Harris and Congressman Garamendi need to turn up the heat on their demands for an independent investigation into Russia's ties to the Trump administration. Call to thank them and urge them to continue speaking out forcefully.
 
 Our three members of Congress need to hear directly from us that we demand an aggressive, independent inquiry and that we're outraged by the compromised House of Representatives' investigation led by Devin Nunes. 
 
