@@ -1,7 +1,7 @@
 ---
 title: Indivisible Leaders Summit
 date: 2017-02-01 13:48:00 -08:00
-position: 1
+position: 6
 main-image: "/uploads/IMG_0851.JPG"
 ---
 

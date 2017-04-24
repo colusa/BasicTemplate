@@ -4,6 +4,7 @@ date: 2017-02-01 09:59:00 -08:00
 tags:
 - Garamendi
 - town hall
+position: 0
 main-image: "/uploads/Garamendi%20town%20hall_cropped-9f3b64.jpg"
 ---
 

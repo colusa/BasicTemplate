@@ -4,6 +4,7 @@ date: 2017-02-01 10:03:00 -08:00
 tags:
 - Garamendi
 - town
+position: 4
 main-image: "/uploads/IMG_1047.JPG"
 ---
 
