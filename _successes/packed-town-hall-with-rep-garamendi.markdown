@@ -4,7 +4,7 @@ date: 2017-04-01 22:29:00 -07:00
 tags:
 - town hall
 - garamendi
-position: 7
+position: 8
 main-image: "/uploads/IMG_0513.JPG"
 ---
 
