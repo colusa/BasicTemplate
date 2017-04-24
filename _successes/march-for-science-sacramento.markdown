@@ -1,6 +1,6 @@
 ---
 title: March for Science Sacramento
-date: 2017-04-24 16:29:00 -07:00
+date: 2017-04-24 09:58:00 -07:00
 tags:
 - march for science
 - science
