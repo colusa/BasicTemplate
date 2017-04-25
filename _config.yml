@@ -60,8 +60,7 @@ defaults:
   values:
     main-image: 
     mailchimp-form-embed: 
-subtitle: We are Colusa County residents who stand up for liberty and justice for
-  all.
+subtitle: We are Colusa County residents standing up for liberty and justice for all.
 email: indivisiblecolusa@gmail.com
 baseurl: 
 url: 
