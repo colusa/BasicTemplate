@@ -1,5 +1,5 @@
 ---
-title: March for Science Sacramento
+title: We marched for Science in Sacramento
 date: 2017-02-01 09:58:00 -08:00
 tags:
 - march for science
