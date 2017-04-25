@@ -1,5 +1,5 @@
 ---
-title: Thank Rep. Garamendi for continuing to resist attacks on healthcare
+title: Thank Rep. Garamendi for resisting attacks on healthcare
 date: 2017-04-25 12:34:00 -07:00
 categories:
 - action
