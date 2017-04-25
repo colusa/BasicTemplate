@@ -1,6 +1,7 @@
 ---
 title: March for Science - Sacramento
 date: 2017-04-01 23:30:00 -07:00
+published: false
 categories:
 - event
 tags:
