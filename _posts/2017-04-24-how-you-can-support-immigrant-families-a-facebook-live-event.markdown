@@ -1,5 +1,5 @@
 ---
-title: 'How You Can Support Immigrant Families: A Facebook Live Event'
+title: 'How You Can Support Immigrant Families: A Livestream Event'
 date: 2017-04-24 19:30:00 -07:00
 categories:
 - event
