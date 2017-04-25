@@ -1,6 +1,6 @@
 ---
-title: Urge Garamendi, Feinstein and Harris to fight harder for an independent investigation
-  into Trump's ties to Russia
+title: Urge our MoCs to fight harder for an independent investigation into Trump's
+  ties to Russia
 date: 2017-04-20 17:01:00 -07:00
 categories:
 - action
@@ -11,7 +11,7 @@ tags:
 - Harris
 ---
 
-Senators Feinstein and Harris and Congressman Garamendi need to turn up the heat on their demands for an independent investigation into Russia's ties to the Trump administration. Call to thank them and urge them to continue speaking out forcefully.
+Our members of Congress - Senators Feinstein and Harris and Congressman Garamendi - need to turn up the heat on their demands for an independent investigation into Russia's ties to the Trump administration. Call to thank them and urge them to continue speaking out forcefully.
 
 Our three members of Congress need to hear directly from us that we demand an aggressive, independent inquiry and that we're outraged by the compromised House of Representatives' investigation led by Devin Nunes. 
 
