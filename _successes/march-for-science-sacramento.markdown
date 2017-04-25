@@ -9,4 +9,4 @@ main-image: "/uploads/Nuts%20about%20science.jpg"
 
 Indivisible Colusa members joined more than 15,000 scientists and supporters of science for the March for Science in Sacramento on April 22. Our local march was one of more than 600 mass protests that took place in cities around the world on Earth Day. 
 
-Indivisible Colusa opposes the Trump Administration's assaults on scientific truth and facts. 
+Indivisible Colusa opposes the Trump Administration's assaults on facts and scientific evidence.
