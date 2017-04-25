@@ -15,6 +15,6 @@ Announcement for Town Hall in Colusa County with Congressman John Garamendi on A
 
 Help spread the word about Indivisible Colusa. We are Colusa County residents working together to peacefully resist Trump's regressive policies and his attacks on our democratic institutions and values. 
 
-**CA-03 Resistance Groups Flyer**
+### CA-03 Resistance Groups Flyer
 [17-4 TownHall Handout ColorV3.pdf](/uploads/17-4%20TownHall%20Handout%20ColorV3.pdf)
 This flyer describes the Indivisible movement and lists Indivisible chapters and other resistance groups in California's third congressional district. 
