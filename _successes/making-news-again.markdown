@@ -13,4 +13,4 @@ Attendees at the meeting were mostly members of the Sutter, Yolo, and Colusa Ind
 
 “There are about 6,000 Indivisible groups across the country,” said Jennifer Roberts, of Arbuckle, co-founder of Indivisible Colusa, who organized Garamendi’s visit."
 
-[Read the full article.](http://williamspioneer.com/article/81896)
+Photo: Williams Pioneer Review. [Read the full article.](http://williamspioneer.com/article/81896)
