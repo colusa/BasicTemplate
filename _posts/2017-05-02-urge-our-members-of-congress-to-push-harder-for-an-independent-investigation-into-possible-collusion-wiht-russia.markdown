@@ -1,7 +1,7 @@
 ---
 title: Urge our MoCs to fight for an independent investigation into Trump's ties to
   Russia
-date: 2017-04-24 21:01:00 -07:00
+date: 2017-05-02 22:10:00 -07:00
 categories:
 - action
 tags:
