@@ -5,11 +5,11 @@ categories:
 - event
 event-start-date: 2017-05-09 18:30:00 -07:00
 event-end-date: 2017-05-09 20:00:00 -07:00
-Location: 'Please note: DATE & TIME TENTATIVELY CHANGED '
+Location: 'New date, time & place: Masonic Lodge, 528 Seventh St. (upstairs), Williams '
 ---
 
-WE'RE SO SORRY FOR THE INCONVENIENCE BUT WE ARE TENTATIVELY CHANGING OUR NEXT MEETING DATE TO TUESDAY MAY 9 AT 6:30 PM. We'll post here very soon with a confirmation of the change and the address. We have very graciously been offered a meeting room at no charge in a building in Williams but it isn't available on Sundays so we're planning to change to a weeknight - details to be confirmed ASAP. Again, we're so sorry if this messes up your plans. Check back here soon for a confirmation of the new date. 
+CONFIRMED: We have a new date, time & place for our May meeting: Tuesday, May 9, 6:30-8:00 pm. We're so sorry our date change has inconvenienced you, and we do hope you can make it. We're thrilled that the owners of the Masonic Lodge in Williams have generously offered us meeting space. Everyone is welcome!
 
 Come to our open meeting to learn about the Indivisible movement, and join with other Colusa County residents to plan Congressional office visits, coordinate phone calls, and more. We focus on encouraging our Members of Congress in the Senate and House to represent us, not Trump.
 
-If we stand together, indivisible, we will win. Welcome to the resistance!
+If we stand together, indivisible, we will win. Welcome to the resistance! 
