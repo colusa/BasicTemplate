@@ -6,8 +6,8 @@ categories:
 tags:
 - garamendi
 - seniors
-event-start-date: 2017-05-09 00:00:00 -07:00
-event-end-date: 2017-05-09 00:00:00 -07:00
+event-start-date: 2017-05-09 13:30:00 -07:00
+event-end-date: 2017-05-09 15:00:00 -07:00
 Location: 1200 Civic Center Dr, Fairfield
 RSVP-link: http://garamendi.house.gov/event/fairfield-senior-roundtable
 ---
