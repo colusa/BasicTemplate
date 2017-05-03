@@ -1,7 +1,6 @@
 ---
 title: May Day March and Rally
 date: 2017-03-31 00:00:00 -07:00
-published: false
 categories:
 - event
 tags:
