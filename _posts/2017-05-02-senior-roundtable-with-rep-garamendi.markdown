@@ -8,9 +8,11 @@ tags:
 - seniors
 event-start-date: 2017-05-09 00:00:00 -07:00
 event-end-date: 2017-05-09 00:00:00 -07:00
-Location: '91 Town Square Place, Vacaville, '
+Location: 91 Town Square Place, Vacaville
 RSVP-link: http://garamendi.house.gov/event/vacaville-senior-roundtable
 ---
+
+This is what Indivisible is all about - showing up for face-to-face conversations with our Members of Congress, to let them know how we feel about what's going on in Washington. Congressman Garamendi's Vacaville roundtable is a public event and anyone can attend, not just seniors. 
 
 Congressman Garamendi is hosting a series of senior conversations throughout the 3rd District focused on the concerns of local seniors. On May 9th, Congressman Garamendi will be at the McBride Senior Center in Vacaville on 91 Town Square Place from 9:00 am-10:30 am. . 
 
