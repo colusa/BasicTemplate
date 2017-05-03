@@ -12,7 +12,7 @@ Location: 1200 Civic Center Dr, Fairfield
 RSVP-link: http://garamendi.house.gov/event/fairfield-senior-roundtable
 ---
 
-This is what Indivisible is all about - showing up for face-to-face conversations with our Members of Congress, to let them know how we feel about what's going on in Washington. Congressman Garamendi's Fairfiedl roundtable is a public event and anyone can attend, not just seniors. 
+This is what Indivisible is all about - showing up for face-to-face conversations with our Members of Congress, to let them know how we feel about what's going on in Washington. Congressman Garamendi's Fairfield roundtable is a public event and anyone can attend, not just seniors. 
 
 Congressman Garamendi is hosting a series of senior conversations throughout the 3rd District focused on the concerns of local seniors. On May 9th, Congressman Garamendi will be at the Fairfield Senior Center on 1200 Civic Center Drive from 1:30PM - 3:00PM.
 
