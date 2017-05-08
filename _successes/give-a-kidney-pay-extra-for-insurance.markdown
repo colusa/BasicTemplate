@@ -6,7 +6,7 @@ tags:
 - aca
 - Obamacare
 - ahca
-main-image: https://www.facebook.com/MicMedia/videos/1497155663640552/?pnref=story
+main-image: "/uploads/kidney.JPG"
 ---
 
-Indivisible Colusa member Jen Roberts was featured in this video from Mic, drawing attention to the potential impacts of the House's AHCA bill on living kidney donors.
+Indivisible Colusa member Jen Roberts was featured in [this video from Mic](https://www.facebook.com/MicMedia/videos/1497155663640552/?pnref=story), drawing attention to the potential impacts of the House's AHCA bill on living kidney donors.
