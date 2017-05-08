@@ -5,6 +5,8 @@ position: 2
 ---
 
 ### Indivisible Colusa in the News
+["Kidney donor could be denied healthcare,"](https://www.facebook.com/MicMedia/videos/1497155663640552/?pnref=story) Mic, 5/5/17. Features an Indivisible Colusa member.
+
 ["Garamendi holds town hall meeting in Williams,"](http://williamspioneer.com/article/81896) Williams Pioneer Review, 4/26/17
 
 ["Garamendi talks national security at town hall," ](http://www.appeal-democrat.com/colusa_sun_herald/garamendi-talks-national-security-at-town-hall/article_b1df8e94-270e-11e7-a34c-9397f8d26f98.html)Colusa Sun-Herald, 4/21/17
