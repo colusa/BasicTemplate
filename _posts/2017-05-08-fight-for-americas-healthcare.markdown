@@ -8,7 +8,6 @@ tags:
 - aca
 - obamacare
 - ahca
-RSVP-link: http://indivisiblecolusa.com/event/2017/05/02/indivisible-colusa-open-meeting.html
 ---
 
 On May 4, the House of Representatives passed a bill that will undermine the health and financial security of tens of millions of Americans, if it becomes law. 
