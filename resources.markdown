@@ -16,6 +16,8 @@ position: 2
 [Garamendi Town Hall_April 19.docx](/uploads/Garamendi%20Town%20Hall_April%2019.docx), Announcement for Town Hall in Colusa County with Congressman John Garamendi on April 19, 2017.
 
 ### Indivisible Colusa Newsletter
+[May 4, 2017
+](http://mailchi.mp/68bd896dd373/indicolusa_04262017-165609)
 [April 26, 2017](http://mailchi.mp/c0fc75d461b8/indicolusa_04262017)
  
 ### Indivisible Colusa Flyer
