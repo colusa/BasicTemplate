@@ -6,6 +6,7 @@ categories:
 event-start-date: 2017-06-05 18:30:00 -07:00
 event-end-date: 2017-06-05 20:00:00 -07:00
 Location: 528 7th St, Williams, CA 95987
+RSVP-link: https://www.facebook.com/events/436800320020986/
 ---
 
 Come to our open meeting to learn about the Indivisible movement. We focus on local, defensive, Congressional advocacy by encouraging our Members of Congress in the Senate and House to represent us, not Trump.
