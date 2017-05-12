@@ -1,9 +1,10 @@
 ---
 title: Special Prosecutor Now!
-date: 2017-05-11 22:16:00 -07:00
+date: 2017-01-30 00:00:00 -08:00
 tags:
 - comey
 - russia
+main-image: "/uploads/IC%20protest%20Colusa%205-10-17.jpg"
 ---
 
 In what may have been the first political demonstration in Colusa County in decades (or ever), Independent Colusa members took to the streets to protest the firing of FBI Director James Comey, whose agency is investigating connections between Trump associates and Russian interference in the U.S. election. 
