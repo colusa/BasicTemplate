@@ -4,6 +4,8 @@ date: 2017-01-30 00:00:00 -08:00
 tags:
 - comey
 - russia
+- special prosecutor
+- independent investigation
 main-image: "/uploads/IC%20protest%20Colusa%205-10-17.jpg"
 ---
 
