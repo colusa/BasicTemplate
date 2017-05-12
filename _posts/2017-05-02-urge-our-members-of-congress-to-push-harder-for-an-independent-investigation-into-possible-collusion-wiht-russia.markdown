@@ -1,6 +1,5 @@
 ---
-title: Urge our MoCs to fight for an independent investigation into Trump's ties to
-  Russia
+title: Tell Sen. Harris we demand an independent prosecutor
 date: 2017-05-02 22:10:00 -07:00
 categories:
 - action
@@ -34,8 +33,6 @@ call-script-text: |-
   Additional Action:  Share your healthcare/ACA stories with Indivisible SF and we will present them to Senator Harris’ staff at our office meeting this week.
 ---
 
-Call Senator Harris's SF office first, but try the other offices if you can’t get through. If you keep calling and can’t get to a live person, then leave a voicemail. 
+Urge Sen. Harris to withhold consent on Senate business until a truly independent prosecutor is appointed to investigate connections between Trump associates and Russia. Call her SF office first, but try the other offices if you can’t get through. If you keep calling and can’t get to a live person, then leave a voicemail. 
 
-If you choose to send an email or letter instead of calling, it’s essential that you write it in your own words. Copy-pasted emails are discounted by Congressional staff. We have to show that these issues mean so much to us that we’re putting in serious effort.
-
-Don’t forget to mention that you are a member of Indivisible Colusa when you call. Members of Congress are specifically tracking communications from our Indivisible groups. Let’s show them that we are a real force in resisting the Trump agenda!
+Be sure to give your zip code and mention that you are a member of Indivisible Colusa. Members of Congress are specifically tracking communications from Indivisible groups. Let’s show them that we are a real force in resisting the Trump agenda!
