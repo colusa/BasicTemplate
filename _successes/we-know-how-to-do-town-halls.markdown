@@ -1,5 +1,5 @@
 ---
-title: We Know How to Do Town Halls
+title: We know how to do town halls
 date: 2017-02-01 10:03:00 -08:00
 tags:
 - Garamendi
