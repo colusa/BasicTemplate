@@ -7,32 +7,18 @@ tags:
 - Russia
 - Feinstein
 - special prosecutor
-call-script-text: |-
-  \
-
-  \
-  \
-  My name is __________, I am a constituent of Senator Harris’ in the _______ zip code. I am also a member of Indivisible SF.
-  \
-
-  \
-  Trump firing FBI Director James Comey has triggered an unprecedented crisis for our country. The President has fired the very person who was overseeing an investigation into links between his campaign and administration - perhaps even himself - and a foreign power that interfered in our presidential elections.
-  \
-
-  \
-  The reasons given for the dismissal are clearly bogus and pretextual. Now more than ever we need to have an independent investigation into these activities to get to the bottom of them and restore basic confidence in the Republic.
-  \
-  ​
-  \
-  This unprecedented crisis requires an unprecedented response. We simply cannot go on with business as usual and let this issue go unaddressed or be put on the back burner by the GOP.  I call on Senator Harris to withhold consent on any business in the Senate, until an independent prosecutor is appointed with the remit and resources necessary to see that justice is done.
-  \
-  ​Other Sen. Harris Scripts this week:
-  \
-  ​Call Senator Harris to oppose the AHCA.
-  \
-  Additional Action:  Share your healthcare/ACA stories with Indivisible SF and we will present them to Senator Harris’ staff at our office meeting this week.
 ---
 
-Urge Sen. Harris to withhold consent on Senate business until a truly independent prosecutor is appointed to investigate connections between Trump associates and Russia. Call her SF office first, but try the other offices if you can’t get through. If you keep calling and can’t get to a live person, then leave a voicemail. 
+Urge Sen. Harris to withhold consent on Senate business until a truly independent prosecutor is appointed to investigate connections between Trump associates and Russia. Call her SF office first, but try the other offices if you can’t get through. If you keep calling and can’t get a live person, then leave a voicemail.
 
 Be sure to give your zip code and mention that you are a member of Indivisible Colusa. Members of Congress are specifically tracking communications from Indivisible groups. Let’s show them that we are a real force in resisting the Trump agenda!
+
+CALL SCRIPT
+
+My name is __________. I'm a constituent of Senator Harris. My zip code is  _______ , and I'm also a member of Indivisible Colusa, in Colusa County.
+\
+I'm calling to urge Senator Harris to withhold consent on any business in the Senate, until a truly independent prosecutor is appointed to investigate potential connections between Trump and his campaign and associates and Russian interference in our presidential election. 
+
+The President has fired the very person who was overseeing an investigation into these links. We simply cannot go on with business as usual and let this issue go unaddressed or be put on the back burner by the GOP.  
+
+We must have an independent investigation to get to the bottom of these issues and restore confidence in our democracy.
