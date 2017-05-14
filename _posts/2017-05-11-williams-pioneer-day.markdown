@@ -1,6 +1,6 @@
 ---
 title: Williams Pioneer Day
-date: 2017-05-11 23:30:00 -07:00
+date: 2017-05-11 22:30:00 -07:00
 categories:
 - event
 tags:
