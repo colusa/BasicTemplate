@@ -10,9 +10,9 @@ tags:
 - Harris
 ---
 
-UPDATED 5/15/17: Call Senators Feinstein and Harris and urge them to withhold consent on Senate business until a truly independent prosecutor is appointed to investigate connections between Trump associates and Russia. 
+UPDATED 5/15/17: Call Senators Feinstein and Harris and urge them to withhold consent on Senate business until a truly independent prosecutor is appointed to investigate connections between Donald Trump and the Russian government. 
 
-If you keep calling and can’t get a live person, then leave a voicemail.Be sure to give your zip code and mention that you are a member of Indivisible Colusa. Members of Congress are specifically tracking communications from Indivisible groups. Let’s show them that we are a real force in resisting the Trump agenda!
+Our Senators have a duty to act when the American public and our national security are put at risk. If you keep calling and can’t get a live person, then leave a voicemail. Be sure to give your zip code and mention that you are a member of Indivisible Colusa. Members of Congress are specifically tracking communications from Indivisible groups. Let’s show them that we are a real force in standing up for truth and transparency.
 
 Want more info? Check out the national Indivisible team's [Truth or Trump resources](https://www.indivisibleguide.com/truth-or-trump). 
 
