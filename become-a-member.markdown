@@ -31,17 +31,11 @@ mailchimp-form-embed: "<!-- Begin MailChimp Signup Form -->\n<link href=\"//cdn-
 layout: becomeAMember
 ---
 
-We are residents of the Colusa County, CA area who are dedicated to peacefully resisting the Trump agenda through civic action, working through our own Members of US Congress. 
+We are residents of Colusa County, CA working together to advocate for inclusiveness, fairness, decency and participation in our country's democratic processes. We are committed to countering policies and rhetoric that oppose these values. 
 
-Our independent group is affiliated with the national Indivisible movement. We follow the approach to civic action described in the [Indivisible Guide](http://www.indivisibleguide.com). 
+We are a grassroots group of volunteers. Our actions are mostly focused on holding our Members of Congress - Senators Feinstein and Harris and Congressman Garamendi - accountable for listening to us and representing us in Washington. We use the grassroots advocacy tactics described in [IndivisibleGuide.com](http://indivisibleguide.com/guide).
 
-Everyone who lives in the Colusa County area and agrees with the following principles is welcome to join our group: 
-
-1. Resist Trump's agenda. We believe Trump's agenda is divisive, racist, authoritarian and corrupt, and it must be stopped.
-2. Focus on local, defensive congressional advocacy. We demand that our three Members of Congress (Senators Feinstein and Harris, Rep. Garamendi) serve as our voice in Washington, DC. 
-3. Respect one another. We model inclusion, compassion, fairness and nonviolence in all of our actions. 
-
-Indivisible Colusa is nonpartisan. Our members come from all kinds of backgrounds. We are citizens and noncitizens. Most importantly, we are all patriots who want the best for our country and are willing to work for it.
+Everyone who lives in Colusa County and agrees with this approach is welcome to join our group. Indivisible Colusa is nonpartisan. Our members come from all kinds of backgrounds. We are citizens and noncitizens. Most importantly, we are all patriots who want the best for our country and are willing to work for it.
 
 **All are welcome.**
 ![US flag.png](/uploads/US%20flag.png)
