@@ -15,5 +15,7 @@ Coming to Williams Pioneer Day on June 3? Be sure to stop by Indivisible Colusa'
 Williams Pioneer Day is an annual parade and festival put on by Citizens for a Better Williams. The event celebrates our farming history, our farmers, ag industries, and farm workers. This year's theme is OUR FARMS FEED FAMILIES!
 
 Williams Pioneer Day
+
 When: Saturday, June 3, 9 AM to 12 PM
+
 Where: Downtown Williams, CA
