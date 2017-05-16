@@ -1,12 +1,13 @@
 ---
 title: Truth or Trump?
-date: 2017-05-11 23:10:00 -07:00
+date: 2017-05-15 23:10:00 -07:00
 categories:
 - action
 tags:
 - Russia
 - Feinstein
 - special prosecutor
+- Harris
 ---
 
 UPDATED 5/15/17: Call Senators Feinstein and Harris and urge them to withhold consent on Senate business until a truly independent prosecutor is appointed to investigate connections between Trump associates and Russia. 
