@@ -5,11 +5,16 @@ categories:
 - event
 tags:
 - williams
+main-image: "/uploads/Pioneer%20Day%20Poster.jpg"
 event-start-date: 2017-06-03 09:00:00 -07:00
 event-end-date: 2017-06-03 12:00:00 -07:00
 Location: Downtown Williams, CA
 ---
 
-Indivisible Colusa will have a booth at the popular, family-friendly Williams Pioneer Day. 
+Coming to Williams Pioneer Day on June 3? Be sure to stop by Indivisible Colusa's booth to say hello and learn about our group. We're residents of Colusa County working together to advocate for inclusiveness, fairness, decency and participation in our country's democratic processes. We're committed to countering policies and rhetoric that oppose these values.
 
-Come for the parade and festivities, and stop by our booth to say hello and learn more about the local resistance movement. 
+Williams Pioneer Day is an annual parade and festival put on by Citizens for a Better Williams. The event celebrates our farming history, our farmers, ag industries, and farm workers. This year's theme is OUR FARMS FEED FAMILIES!
+
+Williams Pioneer Day
+When: Saturday, June 3, 9 AM to 12 PM
+Where: Downtown Williams, CA
