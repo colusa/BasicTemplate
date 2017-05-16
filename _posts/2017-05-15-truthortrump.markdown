@@ -18,9 +18,9 @@ Want more info? Check out the national Indivisible team's extensive [Truth or Tr
 
 CALL SCRIPT
 
-My name is __________. I'm a constituent of Senator [Feinstein/Harris]. My zip code is  _______ . I'm also a member of Indivisible Colusa, in Colusa County.
+My name is __________. I'm a constituent of Senator <Feinstein/Harris>. My zip code is  _______ . I'm also a member of Indivisible Colusa, in Colusa County.
 
-I'm calling to urge Senator [Feinstein/Harris] to withhold consent on any business in the Senate, until a truly independent prosecutor is appointed to investigate connections between Trump and his associates and Russia. 
+I'm calling to urge Senator <Feinstein/Harris> to withhold consent on any business in the Senate, until a truly independent prosecutor is appointed to investigate connections between Trump and his associates and Russia. 
 
 The Washington Post has reported that Donald Trump revealed classified information during a meeting with Russian officials the day after firing Director James Comey. By doing so, Trump has put American national security, and the American people, at risk. 
 
