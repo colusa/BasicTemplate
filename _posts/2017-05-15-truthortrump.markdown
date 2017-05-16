@@ -20,10 +20,10 @@ CALL SCRIPT
 
 My name is ______. I'm a constituent of Senator \[Feinstein/Harris\] and my zip code is _____. I'm also a member of Indivisible Colusa, in Colusa County.
 
-I'm calling to urge Senator \[Feinstein/Harris\] to withhold consent on any business in the Senate, until a truly independent prosecutor is appointed to investigate connections between Trump and his associates and Russia.
+I'm calling to urge Senator \[Feinstein/Harris\] to withhold consent on any business in the Senate, until the Department of Justice appoints a special prosecutor to investigate connections between Donald Trump and the Russian government.
 
-The Washington Post has reported that Donald Trump revealed classified information during a meeting with Russian officials the day after firing Director James Comey. By doing so, Trump has put American national security, and the American people, at risk.
+The Washington Post has reported that Trump revealed classified information during a meeting with Russian officials the day after firing Director James Comey. By doing so, Trump has put American national security, and the American people, at risk.
 
 This only adds greater urgency for the need for a special prosecutor to investigate Russian ties to the Trump administration. We simply cannot go on with business as usual and let this issue go unaddressed or be put on the back burner by the GOP.
 
-We must have an independent investigation to get to the bottom of these issues and restore confidence in our democracy.
+The Department of Justice must appoint special prosecutor to get to the bottom of these issues and restore confidence in our democracy.
