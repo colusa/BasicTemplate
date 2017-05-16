@@ -5,7 +5,6 @@ categories:
 - event
 tags:
 - williams
-main-image: "/uploads/Pioneer%20Day%20Poster.jpg"
 event-start-date: 2017-06-03 09:00:00 -07:00
 event-end-date: 2017-06-03 12:00:00 -07:00
 Location: Downtown Williams, CA
