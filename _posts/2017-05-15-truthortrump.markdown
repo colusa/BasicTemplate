@@ -14,6 +14,8 @@ UPDATED 5/15/17: Call Senators Feinstein and Harris and urge them to withhold co
 
 If you keep calling and can’t get a live person, then leave a voicemail.Be sure to give your zip code and mention that you are a member of Indivisible Colusa. Members of Congress are specifically tracking communications from Indivisible groups. Let’s show them that we are a real force in resisting the Trump agenda!
 
+Want more info? Check out the national Indivisible team's [Truth or Trump resources](https://www.indivisibleguide.com/truth-or-trump). 
+
 CALL SCRIPT
 
 My name is __________. I'm a constituent of Senator [Feinstein/Harris]. My zip code is  _______ . I'm also a member of Indivisible Colusa, in Colusa County.
