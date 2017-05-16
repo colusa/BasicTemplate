@@ -1,5 +1,5 @@
 ---
-title: Become A Member
+title: About & Join
 date: 2017-02-16 19:58:00 -08:00
 position: 5
 mailchimp-form-embed: "<!-- Begin MailChimp Signup Form -->\n<link href=\"//cdn-images.mailchimp.com/embedcode/classic-10_7.css\"
