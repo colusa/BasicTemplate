@@ -9,7 +9,7 @@ Location: 528 7th St, Williams, CA 95987
 RSVP-link: https://www.facebook.com/events/436800320020986/
 ---
 
-Come to our open meeting to learn about the Indivisible movement. We focus on local, defensive, Congressional advocacy by encouraging our Members of Congress in the Senate and House to represent us, not Trump.
+Come to our open meeting to learn about the Indivisible movement. We focus on local, defensive, Congressional advocacy by holding our Members of Congress in the Senate and House accountable for listening to us and being our voice in Washington.
 
 We're a small, friendly group of Colusa County residents who work together to organize local political actions and events, participate in meetings with elected representatives, coordinate phone calls, and more. 
 
