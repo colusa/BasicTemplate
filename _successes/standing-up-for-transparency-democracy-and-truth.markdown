@@ -1,5 +1,5 @@
 ---
-title: Standing up for transparency, democracy and truth
+title: Standing up for truth, transparency & democracy
 date: 2016-05-27 17:45:00 -07:00
 tags:
 - russia
