@@ -5,7 +5,7 @@ tags:
 - russia
 - special prosecutor
 - comey
-main-image: "/uploads/Truth%20or%20Trump%20rally.jpg"
+main-image: "/uploads/Sac%20rally%205-13-17.png"
 ---
 
-In the wake of the firing of FBI Director James Comey, Indivisible Colusa members rallied in Sacramento on May 13 to demand an independent investigation into potential ties between Trump campaign associates and Russian officials. 
+On May 13, in the wake of the firing of FBI Director James Comey, members of Indivisible Colusa, Indivisible Yolo and other local resistance groups rallied in Sacramento to demand an independent investigation into ties between Trump campaign associates and Russian officials. 
