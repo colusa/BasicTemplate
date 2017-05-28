@@ -1,6 +1,7 @@
 ---
 title: 'Ask Rep. Garamendi to #AdoptADistrict'
 date: 2017-05-11 23:20:00 -07:00
+published: false
 categories:
 - action
 tags:
