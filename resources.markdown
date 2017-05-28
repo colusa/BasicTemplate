@@ -5,6 +5,8 @@ position: 2
 ---
 
 ### Indivisible Colusa in the News
+["Indivisible Colusa protests Trump's firing of FBI head,"](http://williamspioneer.com/article/81627) Williams Pioneer Review, 5/17/17
+
 ["Kidney donor could be denied healthcare,"](https://www.facebook.com/MicMedia/videos/1497155663640552/?pnref=story) Mic, 5/5/17. Features an Indivisible Colusa member.
 
 ["Garamendi holds town hall meeting in Williams,"](http://williamspioneer.com/article/81896) Williams Pioneer Review, 4/26/17
