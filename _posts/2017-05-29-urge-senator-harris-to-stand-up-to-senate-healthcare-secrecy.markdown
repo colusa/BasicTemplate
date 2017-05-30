@@ -1,5 +1,5 @@
 ---
-title: Urge Senator Harris to stand up to Senate healthcare secrecy
+title: Urge Sen. Harris to stand up to Senate healthcare secrecy
 date: 2017-05-29 18:57:00 -07:00
 categories:
 - action
