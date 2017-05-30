@@ -15,11 +15,9 @@ position: 2
 
 ["New political group invites Garamendi to town hall,"](http://www.appeal-democrat.com/colusa_sun_herald/news/new-political-group-invites-garamendi-to-town-hall/article_8fde5f7a-24aa-11e7-8d12-bbf74ba4eee9.html) Colusa Sun-Herald, 4/18/17
 
-
-### Media Release
-[Garamendi Town Hall_April 19.docx](/uploads/Garamendi%20Town%20Hall_April%2019.docx), Announcement for Town Hall in Colusa County with Congressman John Garamendi on April 19, 2017.
-
 ### Indivisible Colusa Newsletter
+[May 29, 2017](http://mailchi.mp/84eccc86cfb7/indicolusa_04262017-222181)
+
 [May 4, 2017
 ](http://mailchi.mp/68bd896dd373/indicolusa_04262017-165609)
 
