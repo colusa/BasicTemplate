@@ -1,5 +1,5 @@
 ---
-title: Thank Senator Feinstein for supporting the Paris Climate Agreement
+title: Thank Sen. Feinstein for defending the Paris Climate Agreement
 date: 2017-05-29 18:59:00 -07:00
 categories:
 - action
