@@ -15,7 +15,7 @@ RSVP-link: https://www.facebook.com/events/205336699976708
 
 Hosted by The Gatherings Initiative: Connecting Communities for Action and by Davis Phoenix Coalition.
 
-* TICKETED EVENT. Tickets are free. Click button above to reserve your ticket.*
+* TICKETED EVENT. Tickets are free. Please let others know to RSVP here OR share this link: [http://bit.ly/gatherings4](http://bit.ly/gatherings4)*
 
 FEATURING:
 Sasha Abramsky, keynote address
@@ -33,5 +33,3 @@ Anne Kjemtrup, Davis Muslim Hands
 In the second part of the forum, community members can connect with organizations from all over Yolo County at an "activist fair." These organizations are working on issues such as immigrant and farm workers' rights, NODAPL and climate change, advocacy with members of Congress, and universal health care. Representatives will have information and answer questions. 
 
 This dynamic event will deepen your understanding of the challenges facing our communities and our country, and will give you the tools and the outlets to make change where you live.
-
-Please let others know to RSVP here OR share this link: [http://bit.ly/gatherings4](http://bit.ly/gatherings4)
