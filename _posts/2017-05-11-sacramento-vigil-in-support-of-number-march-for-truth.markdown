@@ -1,6 +1,7 @@
 ---
 title: 'Sacramento Vigil in Support of #March for Truth'
 date: 2017-05-11 22:28:00 -07:00
+published: false
 categories:
 - event
 tags:
