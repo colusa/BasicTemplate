@@ -1,6 +1,10 @@
 ---
 title: Community Coffee with Assemblymember Cecilia Aguiar-Curry
 date: 2017-05-11 22:24:00 -07:00
+categories:
+- event
+tags:
+- aguiar-curry
 event-start-date: 2017-06-09 09:30:00 -07:00
 event-end-date: 2017-06-09 22:30:00 -07:00
 Location: Common Grounds Coffee, 2171 Cowell Blvd, Suite D, Davis
