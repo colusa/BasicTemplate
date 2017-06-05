@@ -1,6 +1,8 @@
 ---
 title: Unity Rally - No Hate, No Fear
 date: 2017-06-05 12:51:00 -07:00
+categories:
+- event
 tags:
 - diversity
 - inclusiveness
