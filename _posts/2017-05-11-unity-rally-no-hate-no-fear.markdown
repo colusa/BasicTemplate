@@ -26,5 +26,3 @@ WE WILL NOT ACCEPT HATE IN OUR COMMUNITY!!
 WHAT: We are calling 1,500 Indivisibles from across CA-04 and Northern California to come together for peacful Unity Rally. We will show our support for people of every race, religion, gender, sexual orientation, national origin, color, ethnicity, and ability. 
 
 [Details on Facebook.](https://www.facebook.com/events/312833265815326/permalink/316926025406050/)
-
-[Map of gathering place.](/uploads/Unity%20Rally.JPG)
