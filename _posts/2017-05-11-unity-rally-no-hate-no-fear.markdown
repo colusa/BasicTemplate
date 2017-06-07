@@ -8,8 +8,8 @@ tags:
 - inclusiveness
 - immigrants
 event-start-date: 2017-06-10 09:00:00 -07:00
-event-end-date: 2017-06-10 14:00:00 -07:00
-Location: Fountains at Roseville
+event-end-date: 2017-06-10 12:00:00 -07:00
+Location: Westfield Galleria at Roseville
 RSVP-link: https://www.facebook.com/events/312833265815326
 ---
 
@@ -24,3 +24,4 @@ They may believe they've chosen a safe location with Roseville (as opposed to sa
 WE WILL NOT ACCEPT HATE IN OUR COMMUNITY!!
 
 WHAT: We are calling 1,500 Indivisibles from across CA-04 and Northern California to come together for peacful Unity Rally. We will show our support for people of every race, religion, gender, sexual orientation, national origin, color, ethnicity, and ability. 
+[Unity Rally.JPG](/uploads/Unity%20Rally.JPG)
