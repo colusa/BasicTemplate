@@ -1,6 +1,6 @@
 ---
 title: Williams Pioneer Day
-date: 2017-06-13 23:21:00 -07:00
+date: 2017-06-13 17:24:00 -07:00
 tags:
 - Pioneer Day
 - Donation
