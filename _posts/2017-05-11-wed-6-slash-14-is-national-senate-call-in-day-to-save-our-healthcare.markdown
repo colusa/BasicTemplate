@@ -11,7 +11,7 @@ tags:
 - Harris
 ---
 
-# This Week's Call to Action is a Matter of Life or Death.
+### This Week's Call to Action is a Matter of Life or Death.
 
 Let’s be clear, if TrumpCare gets through the Senate, it will probably become law. The highest hurdle for Republicans was always the Senate, which means that if they manage to jam it through, there’ll be nothing left to stop it from getting to Trump’s desk. That’s why our focus needs to remain on our Senators. 
 
