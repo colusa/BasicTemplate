@@ -4,6 +4,7 @@ date: 2017-01-29 00:00:00 -08:00
 tags:
 - Pioneer Day
 - Donation
+position: 3
 main-image: "/uploads/Phil_IC%20Pioneer%20Day%20booth.jpg"
 ---
 

@@ -4,7 +4,7 @@ date: 2017-02-01 10:00:00 -08:00
 tags:
 - Garamendi
 - town hall
-position: 1
+position: 8
 main-image: "/uploads/C93xawRU0AAd-sh.jpg"
 ---
 

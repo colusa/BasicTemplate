@@ -6,6 +6,7 @@ tags:
 - russia
 - special prosecutor
 - independent investigation
+position: 4
 main-image: "/uploads/IC%20protest%20Colusa%205-10-17.jpg"
 ---
 

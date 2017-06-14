@@ -4,7 +4,7 @@ date: 2017-02-01 10:04:00 -08:00
 tags:
 - Garamendi
 - town hall
-position: 2
+position: 9
 main-image: "/uploads/Colusa%20Sun-Herald.jpg"
 ---
 

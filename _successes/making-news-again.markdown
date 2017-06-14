@@ -4,6 +4,7 @@ date: 2017-02-01 09:57:00 -08:00
 tags:
 - town hall
 - Garamendi
+position: 1
 main-image: "/uploads/SM-Garamendi--800x594.jpg"
 ---
 
