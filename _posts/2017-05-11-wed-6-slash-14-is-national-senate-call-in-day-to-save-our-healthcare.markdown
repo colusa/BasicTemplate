@@ -29,7 +29,7 @@ Megan Thompson, Legislative Assistant for healthcare
 Sen. Kamala Harris
 Grant Barbosa, Legislative Assistant for healthcare
 [grant_barbosa@harris.senate.gov](mailto:grant_barbosa@harris.senate.gov)
-202-224-355
+202-224-3553
 
 **What should you say?**
 * Thank the Senator for opposing TrumpCare.
