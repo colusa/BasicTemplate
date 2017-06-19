@@ -39,4 +39,4 @@ Grant Barbosa, Legislative Assistant for healthcare\
 [grant_barbosa@harris.senate.gov](mailto:grant_barbosa@harris.senate.gov)\
 202-224-3553
 
-Want to learn more? [Here's everything you need to know to stop TrumpCare.](https://www.indivisibleguide.com/stop-trumpcare/)
+**Want to learn more? [Here's everything you need to know to stop TrumpCare.](https://www.indivisibleguide.com/stop-trumpcare/)**
