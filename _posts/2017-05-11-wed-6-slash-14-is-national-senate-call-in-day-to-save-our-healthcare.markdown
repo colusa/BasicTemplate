@@ -1,5 +1,5 @@
 ---
-title: Wed. 6/14 is National Senate Call In Day to Save Our Healthcare
+title: 'Week of June 19: Turn up the heat'
 date: 2017-05-11 22:26:00 -07:00
 categories:
 - action
@@ -11,15 +11,19 @@ tags:
 - Harris
 ---
 
-This week's call to action is a matter of life or death. Let’s be clear, if TrumpCare gets through the Senate, it will probably become law. The highest hurdle for Republicans was always the Senate, which means that if they manage to jam it through, there’ll be nothing left to stop it from getting to Trump’s desk. That’s why our focus needs to remain on our Senators. 
+Senators Feinstein and Harris are not yet doing everything they can to protect our healthcare. This week, we need to call daily to turn up the heat and get them to act. The national Indivisible team has created some great resources to help us:  
 
-But Senators Feinstein and Harris already oppose TrumpCare, right? Yes, but they have not yet done everything within their power to slow or stop the process in the Senate.
+1. **Call both Senators daily.** [Use this script to demand that they slow down Senate business by withholding consent on all regular Senate business, and prepare to filibuster by amendment](https://www.indivisibleguide.com/resource/withholding-consent-filibuster-amendment-call-script/) until and unless there are public hearings on TrumpCare.
 
-Here's what you can do to hold our senators accountable, in three steps:
+2. After your calls, **use these social media shareables** to hold Feinstein and Harris accountable and demand they #WithholdConsent. (The two links are to .jpg files that you can download and share on Facebook, Twitter and Instagram.)
 
-**1.** Mark your calendars and spread the word: **National Senate Call-In Day to Stop TrumpCare is Wednesday, June 14.** If you can't make your calls on Wednesday, chose another day this week.
+**Our work this week is what will win the TrumpCare fight. ** Senate Republicans are planning to vote on their still-secret bill in the next two weeks. We still don’t have text. Or a CBO score. And Senate Majority Leader Mitch McConnell is [too busy twisting arms and cutting deals with Senators to meet with patient groups like the March of Dimes and the American Heart Association](http://www.latimes.com/politics/la-na-pol-republicans-obamacare-secrecy-20170616-story.html).
 
-**2. On June 14, call the Washington D.C. offices of Sen. Feinstein and Sen. Harris.** The person answering the phone will be a staff assistant or intern. Ask for the Senator's legislative assistant who handles healthcare (they're listed below). Often, you'll be put through to that person's voicemail. Leave one. And then send a follow-up email.
+But none of that will matter in the end: if they get the votes, they’ll pass it in the dead of night, without any public input, and without knowing its full impact on the American people. McConnell will schedule this bill for a vote as soon as he secures enough support.
+
+So if you wait until a vote is scheduled to act, you’ve waited too long.
+
+Here are the Senators' DC staff in charge of healthcare. Try to reach them. Or call any of their district offices and speak to whoever answers the phone. Or call after hours and leave a message. The most important thing is to call and make your voice heard. 
 
 Sen. Dianne Feinstein
 Megan Thompson, Legislative Assistant for healthcare
@@ -30,14 +34,5 @@ Sen. Kamala Harris
 Grant Barbosa, Legislative Assistant for healthcare
 [grant_barbosa@harris.senate.gov](mailto:grant_barbosa@harris.senate.gov)
 202-224-3553
-
-**What should you say?**
-* Thank the Senator for opposing TrumpCare.
-* If possible, say a few words about how you or your family would be affected by TrumpCare. Personal stories are incredibly powerful.
-* Then say: Opposing TrumpCare is important, but I'm counting on the Senator to do everything in her power to stop the bill from passing. I'm asking the Senator to commit to withholding consent on all Senate business until Republicans agree to hold public hearings on healthcare.  
-
-**3. Follow up with an email** to Thompson and Barbosa emphasizing what you said on the phone. 
-
-Senate Republicans are acting with speed and secrecy - they may vote on TrumpCare any day now. We need to keep showing that there's an overwhelming, nationwide wave of opposition to this bill. Calling our Members of Congress is the core Indivisible tactic for making our voices heard in Washington.
 
 Want to learn more? [Here's everything you need to know to stop TrumpCare.](https://www.indivisibleguide.com/stop-trumpcare/)
