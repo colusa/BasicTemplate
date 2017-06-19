@@ -1,5 +1,5 @@
 ---
-title: 'Week of June 19: Turn up the heat'
+title: 'Week of June 19: Turn up the heat - Call daily'
 date: 2017-05-11 22:26:00 -07:00
 categories:
 - action
