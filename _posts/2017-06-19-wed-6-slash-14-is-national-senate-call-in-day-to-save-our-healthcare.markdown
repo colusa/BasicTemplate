@@ -1,6 +1,6 @@
 ---
 title: 'Week of June 19: Turn up the heat - Call daily'
-date: 2017-05-11 22:26:00 -07:00
+date: 2017-06-19 14:30:00 -07:00
 categories:
 - action
 tags:
