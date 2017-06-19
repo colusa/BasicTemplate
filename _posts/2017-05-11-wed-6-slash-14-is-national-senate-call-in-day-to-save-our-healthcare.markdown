@@ -29,8 +29,7 @@ Try to reach the Senators' staff in charge of healthcare legislation in DC (name
 
 **Sen. Dianne Feinstein**
 
-Megan Thompson, Legislative Assistant for healthcare,
- [megan_thompson@feinstein.senate.gov](mailto:megan_thompson@feinstein.senate.gov), 202-224-3841
+Megan Thompson, Legislative Assistant for healthcare, [megan_thompson@feinstein.senate.gov](mailto:megan_thompson@feinstein.senate.gov), 202-224-3841
 
 **Sen. Kamala Harris**
 
