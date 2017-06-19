@@ -29,10 +29,12 @@ Try to reach the Senators' staff in charge of healthcare legislation in DC (name
 
 **Sen. Dianne Feinstein**
 
-Megan Thompson, Legislative Assistant for healthcare,[megan_thompson@feinstein.senate.gov](mailto:megan_thompson@feinstein.senate.gov), 202-224-3841
+Megan Thompson, Legislative Assistant for healthcare,
+ [megan_thompson@feinstein.senate.gov](mailto:megan_thompson@feinstein.senate.gov), 202-224-3841
 
 **Sen. Kamala Harris**
 
 Grant Barbosa, Legislative Assistant for healthcare, [grant_barbosa@harris.senate.gov](mailto:grant_barbosa@harris.senate.gov), 202-224-3553
+
 
 **Want to learn more? [Here's everything you need to know to stop TrumpCare.](https://www.indivisibleguide.com/stop-trumpcare/)**
