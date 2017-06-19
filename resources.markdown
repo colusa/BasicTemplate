@@ -18,6 +18,10 @@ position: 2
 ["New political group invites Garamendi to town hall,"](http://www.appeal-democrat.com/colusa_sun_herald/news/new-political-group-invites-garamendi-to-town-hall/article_8fde5f7a-24aa-11e7-8d12-bbf74ba4eee9.html) Colusa Sun-Herald, 4/18/17
 
 ### Indivisible Colusa Newsletter
+[June 19, 2017](http://mailchi.mp/cb477d9642d5/indicolusa_04262017-272377)
+
+[June 13, 2017](http://mailchi.mp/a73498fdf7c7/indicolusa_04262017-257509)
+
 [May 29, 2017](http://mailchi.mp/84eccc86cfb7/indicolusa_04262017-222181)
 
 [May 4, 2017
