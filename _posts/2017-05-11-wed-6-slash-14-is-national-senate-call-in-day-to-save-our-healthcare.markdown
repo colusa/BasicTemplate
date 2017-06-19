@@ -36,6 +36,7 @@ Megan Thompson, Legislative Assistant for healthcare
 **Sen. Kamala Harris**
 
 Grant Barbosa, Legislative Assistant for healthcare
+
 [grant_barbosa@harris.senate.gov](mailto:grant_barbosa@harris.senate.gov)
 202-224-3553
 
