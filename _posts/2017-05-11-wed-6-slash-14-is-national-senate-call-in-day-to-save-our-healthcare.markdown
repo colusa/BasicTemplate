@@ -11,7 +11,7 @@ tags:
 - Harris
 ---
 
-Senators Feinstein and Harris are not yet doing everything they can to protect our healthcare. This week, we need to call *daily* to turn up the heat and get them to act. The national Indivisible team has created some great resources to help us:
+Senators Feinstein and Harris are not yet doing everything they can to protect our healthcare. This week, we need to call daily to turn up the heat and get them to act. The national Indivisible team has created some great resources to help us:
 
 1. **Call both Senators daily.** Use this script to demand that they [slow down Senate business by withholding consent on all regular Senate business, and prepare to filibuster by amendment](https://www.indivisibleguide.com/resource/withholding-consent-filibuster-amendment-call-script/) until and unless there are public hearings on TrumpCare.
 
