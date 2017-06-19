@@ -5,6 +5,8 @@ position: 2
 ---
 
 ### Indivisible Colusa in the News
+[Family fun had by all at Williams Pioneer Day](http://www.appeal-democrat.com/colusa_sun_herald/news/family-fun-had-by-all-at-williams-pioneer-day/article_07901ee0-4b21-11e7-90b5-d77195c45f75.html), Colusa Sun-Herald, 6/6/17. Indivisible Colusa had a booth at this community event and was quoted in this article. 
+
 ["Indivisible Colusa protests Trump's firing of FBI head,"](http://williamspioneer.com/article/81627) Williams Pioneer Review, 5/17/17
 
 ["Kidney donor could be denied healthcare,"](https://www.facebook.com/MicMedia/videos/1497155663640552/?pnref=story) Mic, 5/5/17. Features an Indivisible Colusa member.
