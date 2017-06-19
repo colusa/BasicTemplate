@@ -15,7 +15,7 @@ Senators Feinstein and Harris are not yet doing everything they can to protect o
 
 1. **Call both Senators daily.** Use this script to demand that they [slow down Senate business by withholding consent on all regular Senate business, and prepare to filibuster by amendment](https://www.indivisibleguide.com/resource/withholding-consent-filibuster-amendment-call-script/) until and unless there are public hearings on TrumpCare.
 
-2. After your calls, **use these social media shareables** to hold [Feinstein](/uploads/protect_healthcare_dems-15.jpg) and Harris accountable and demand they #WithholdConsent. (The two links are to .jpg files that you can download and share on Facebook, Twitter and Instagram.)
+2. After your calls, **use these social media shareables** to hold [Feinstein](/uploads/protect_healthcare_dems-15.jpg) and [Harris](/uploads/protect_healthcare_dems-18.jpg) accountable and demand they #WithholdConsent. (The two links are to .jpg files; you can open and save them and then share on Facebook, Twitter and Instagram.)
 
 **Our work *this week* is what will win the TrumpCare fight.** Senate Republicans are planning to vote on their still-secret bill in the next two weeks. We still don’t have text. Or a CBO score. And Senate Majority Leader Mitch McConnell is [too busy twisting arms and cutting deals with Senators to meet with patient groups like the March of Dimes and the American Heart Association](http://www.latimes.com/politics/la-na-pol-republicans-obamacare-secrecy-20170616-story.html).
 
