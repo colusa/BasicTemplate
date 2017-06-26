@@ -25,4 +25,4 @@ With a senate vote anticipated in 4 days, and the very real possibility of Trump
 
 ### About Calling Member of Congress
 
-All phone numbers for Colusa County's Members of Congress are listed on this page. If you get voicemail, leave a message and include your area code. If you get a busy signal, try the next number on the list rather than putting off the call until later. It's OK to call after business hours - your comments will still be noted and tallied.
+All phone numbers for Colusa County's Members of Congress are listed on this page. If you get voicemail, leave a message and include your area code. If you get a busy signal, try the next number on the list rather than putting off the call until later. It's OK to call after business hours and leave a message - your comments will still be noted and tallied.
