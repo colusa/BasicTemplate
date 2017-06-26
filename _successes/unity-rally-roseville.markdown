@@ -1,6 +1,5 @@
 ---
 title: Unity Rally Roseville
-date: 2016-06-13 23:36:00 -07:00
 tags:
 - peace
 - love
