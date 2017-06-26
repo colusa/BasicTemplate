@@ -1,5 +1,5 @@
 ---
-title: 'Week of June 19: Turn up the heat - Call daily'
+title: 'Week of June 26: 4 Days to Defest TrumpCare'
 date: 2017-06-19 14:30:00 -07:00
 categories:
 - action
@@ -11,29 +11,18 @@ tags:
 - Harris
 ---
 
-Senators Feinstein and Harris are not yet doing everything they can to protect our healthcare. This week, we need to call daily to turn up the heat and get them to act. The national Indivisible team has created some great resources to help us:
+No exaggeration: We’ve been at this 6 months, and this is the most important week in our fight against TrumpCare. Republicans are planning a vote THIS THURSDAY. But they still don’t have the votes. This truly could go either way. This is the moment constituent power was made for. This is the time to stand up.
 
-1. **Call both Senators daily.** Use this script to demand that they [slow down Senate business by withholding consent on all regular Senate business, and prepare to filibuster by amendment](https://www.indivisibleguide.com/resource/withholding-consent-filibuster-amendment-call-script/) until and unless there are public hearings on TrumpCare.
+It’s imperative to keep up the pressure on Senators Feinstein and Harris. Here's how:
 
-2. After your calls, **use these social media shareables** to hold [Feinstein](/uploads/protect_healthcare_dems-15.jpg) and [Harris](/uploads/protect_healthcare_dems-18.jpg) accountable and demand they #WithholdConsent. (The two links are to .jpg files; you can open and save them and then share on Facebook, Twitter and Instagram.)
+1. Ask both senators to continue to resist by withholding consent on senate business. **[Tell them to object! ](https://www.indivisibleguide.com/resource/withholding-consent-filibuster-amendment-call-script/)**
 
-**Our work *this week* is what will win the TrumpCare fight.** Senate Republicans are planning to vote on their still-secret bill in the next two weeks. We still don’t have text. Or a CBO score. And Senate Majority Leader Mitch McConnell is [too busy twisting arms and cutting deals with Senators to meet with patient groups like the March of Dimes and the American Heart Association](http://www.latimes.com/politics/la-na-pol-republicans-obamacare-secrecy-20170616-story.html).
+2. Also ask both senators to try to bury TrumpCare in amendments. There's still time to submit a personal amendment if you haven't already.** It just takes a minute: [OurAmendments.org](https://www.ouramendments.org/)**
 
-But none of that will matter in the end: if they get the votes, they’ll pass it in the dead of night, without any public input, and without knowing its full impact on the American people. McConnell will schedule this bill for a vote as soon as he secures enough support.
+With a senate vote anticipated in 4 days, and the very real possibility of TrumpCare becoming law in less than a week, the only thing standing in Republicans' way is WE THE PEOPLE. 
 
-So if you wait until a vote is scheduled to act, you’ve waited too long.
+### Member of Congress Contact Details
 
-### Contact Details
-
-Try to reach the Senators' staff in charge of healthcare legislation in DC (names below). If that doesn't work, speak to whoever answers the phone in the DC and district offices (it's usually an intern or junior staffer). Or call after hours and leave a message. The most important thing is to call and make your voice heard.
-
-**Sen. Dianne Feinstein**
-
-Megan Thompson, Legislative Assistant for healthcare, [megan_thompson@feinstein.senate.gov](mailto:megan_thompson@feinstein.senate.gov), 202-224-3841
-
-**Sen. Kamala Harris**
-
-Grant Barbosa, Legislative Assistant for healthcare, [grant_barbosa@harris.senate.gov](mailto:grant_barbosa@harris.senate.gov), 202-224-3553
-
+All the phone numbers for Colusa County's Members of Congress are listed on this page. If you get voicemail, leave a message and include your area code. If you get a busy signal, try the next number on the list rather than trying again later. 
 
 **Want to learn more? [Here's everything you need to know to stop TrumpCare.](https://www.indivisibleguide.com/stop-trumpcare/)**
