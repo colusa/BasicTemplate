@@ -1,5 +1,5 @@
 ---
-title: 'Week of June 26: 4 Days to Defest TrumpCare'
+title: 'Week of June 26: 4 Days to Defeat TrumpCare'
 date: 2017-06-19 14:30:00 -07:00
 categories:
 - action
