@@ -23,6 +23,6 @@ With a senate vote anticipated in 4 days, and the very real possibility of Trump
 
 **Want to learn more? [Here's everything you need to know to stop TrumpCare.](https://www.indivisibleguide.com/stop-trumpcare/)** 
 
-### How to Contact our Member of Congress
+### About Calling Member of Congress
 
-All the phone numbers for Colusa County's Members of Congress are listed on this page. If you get voicemail, leave a message and include your area code. If you get a busy signal, try the next number on the list rather than putting off the call until later. 
+All phone numbers for Colusa County's Members of Congress are listed on this page. If you get voicemail, leave a message and include your area code. If you get a busy signal, try the next number on the list rather than putting off the call until later. It's OK to call after business hours - your comments will still be noted and tallied.
