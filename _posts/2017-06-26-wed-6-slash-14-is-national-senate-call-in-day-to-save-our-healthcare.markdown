@@ -19,12 +19,10 @@ It’s imperative to keep up the pressure on Senators Feinstein and Harris. Here
 
 2. Also urge both senators to try to bury TrumpCare in amendments. There's still time to submit a personal amendment if you haven't already. It just takes a minute: **[OurAmendments.org](https://www.ouramendments.org/)**
 
-With a senate vote anticipated in 4 days, and the very real possibility of TrumpCare becoming law in less than a week, the only thing standing in Republicans' way is WE THE PEOPLE.  
+With a senate vote anticipated in 4 days, and the very real possibility of TrumpCare becoming law in less than a week, the only thing standing in Republicans' way is WE THE PEOPLE. 
 
-The longer Democratic senators can delay a senate vote by withholding consent and filibustering by amendment, the more likely it will be that their Republican colleagues back away from this monstrous bill. 
+**Want to learn more? [Here's everything you need to know to stop TrumpCare.](https://www.indivisibleguide.com/stop-trumpcare/)** 
 
 ### How to Contact our Member of Congress
 
 All the phone numbers for Colusa County's Members of Congress are listed on this page. If you get voicemail, leave a message and include your area code. If you get a busy signal, try the next number on the list rather than putting off the call until later. 
-
-**Want to learn more? [Here's everything you need to know to stop TrumpCare.](https://www.indivisibleguide.com/stop-trumpcare/)**
