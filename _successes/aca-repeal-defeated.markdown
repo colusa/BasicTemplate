@@ -6,7 +6,7 @@ tags:
 - Obamacare
 - health care
 - Garamendi
-position: 16
+position: 18
 main-image: "/uploads/3rd%20District%20Oppose%20AHCA-36a848.JPG"
 ---
 

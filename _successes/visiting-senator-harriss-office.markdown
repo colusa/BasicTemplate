@@ -6,6 +6,7 @@ tags:
 - Obamacare
 - Trumpcare
 - ACA
+position: 0
 main-image: "/uploads/Harris%20office.JPG"
 ---
 

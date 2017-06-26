@@ -5,6 +5,7 @@ tags:
 - peace
 - love
 - immigration
+position: 1
 main-image: "/uploads/IMG_0069.JPG"
 ---
 
