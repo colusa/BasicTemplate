@@ -21,11 +21,11 @@ McConnell is counting on us getting tired of this fight and turning our attentio
 
 This week: 
 
-1. [Keep calling Senators Feinstein and Harris](https://www.indivisibleguide.com/resource/withholding-consent-filibuster-amendment-call-script/). Thank them for fighting TrumpCare and urge them to use all procedural tactics possible to block the GOP Senate's bill, including withholding consent and filibustering by amendment. 
+1. [**Keep calling Senators Feinstein and Harris**](https://www.indivisibleguide.com/resource/withholding-consent-filibuster-amendment-call-script/). Thank them for fighting TrumpCare and urge them to use all procedural tactics possible to block the GOP Senate's bill, including withholding consent and filibustering by amendment. 
 
 2. **Encourage family and friends in states with Republican senators** to keep lighting up their senators' phones. 
 
-3. Check out the call scripts, explainers and other fantastic resources in [Indivisible's Stop Trumpcare toolkit](https://www.indivisibleguide.com/stop-trumpcare/). The national Indivisible team does a great job of explaining complex policy in plain English - and suggesting practical, effective actions we can take. 
+3. Check out the call scripts, explainers and other fantastic resources in [**Indivisible's Stop Trumpcare toolkit**](https://www.indivisibleguide.com/stop-trumpcare/). The national Indivisible team does a great job of explaining complex policy in plain English - and suggesting practical, effective actions we can take. 
 
 
 ### About Calling Member of Congress
