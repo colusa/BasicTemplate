@@ -9,13 +9,14 @@ Location: 528 Seventh St. (upstairs), Williams, CA
 ---
 
 **SOCIAL MEDIA FOR ACTIVISTS TRAINING**
+
 We're very pleased to announce that Isabel, Indivisible Yolo's social media guru and podcast co-host, will be coming up from Davis for our July 10 meeting to lead a hands-on social media for activists training.
 
 Love it or hate it, there's no doubt that social media is a crucial tool for civic engagement. Don't miss our July 10 meeting for this free, fun and informative session. 
 
-**When: **Monday, July 10, 6:30-8:00 PM. Social media training is 6:30-7:30; Indivisible Colusa update is 7:30-8:00.
+**When:** Monday, July 10, 6:30-8:00 PM. Social media training is 6:30-7:30; Indivisible Colusa update is 7:30-8:00.
 
-**Where: **528 7th St., Williams (the meeting room is up a flight of stairs)
+**Where:** 528 7th St., Williams (the meeting room is up a flight of stairs)
 
 **What & why:** Learn strategies for using the Big Three - Facebook, Twitter and Instagram - to effectively share our stories, amplify our actions and spark more civic engagement. Check out a new app designed by and for Indivisibles that makes it easy to call our Members of Congress. Find out about secure digital tools for group communications. 
 
