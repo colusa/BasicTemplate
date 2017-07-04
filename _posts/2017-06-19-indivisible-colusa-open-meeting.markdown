@@ -1,5 +1,5 @@
 ---
-title: Indivisible Colusa AugustMeeting
+title: Indivisible Colusa August Meeting
 date: 2017-06-19 14:20:00 -07:00
 categories:
 - event
