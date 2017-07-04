@@ -1,5 +1,5 @@
 ---
-title: Indivisible Colusa July Meeting & Social Media Training
+title: Indivisible Colusa July Meeting & Social Media for Activists Training
 date: 2017-06-19 14:25:00 -07:00
 categories:
 - event
