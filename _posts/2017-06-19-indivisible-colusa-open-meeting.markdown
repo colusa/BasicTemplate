@@ -16,4 +16,7 @@ Come to our open meetings to learn about the Indivisible movement. We focus on l
 
 We're a small, friendly group of Colusa County residents who work together to organize local political actions and events, participate in meetings with elected representatives, coordinate phone calls, and more.
 
+**Please note:**
+Our meeting place is on the second floor and there is no elevator. If that's a problem for you, please email us at [indivisiblecolusa@gmail.com](mailto:indivisiblecolusa@gmail.com) and we will try to find an accessible meeting place.
+
 Indivisible Colusa's meetings are always free and open to the public. Newcomers are very welcome!
