@@ -1,5 +1,5 @@
 ---
-title: 'Week of June 26: 4 Days to Defeat TrumpCare'
+title: 'Week of July 3: Will it be healthcare or wealthcare?'
 date: 2017-06-26 12:50:00 -07:00
 categories:
 - action
@@ -11,17 +11,22 @@ tags:
 - Harris
 ---
 
-No exaggeration: We’ve been at this 5 months, and this is the most important week in our fight against TrumpCare. Republicans are planning a vote THIS THURSDAY. But they still don’t have the votes. This truly could go either way. This is the moment constituent power was made for. This is the time to stand up.
+Last week was a good week. Thanks to pressure from millions of outraged citizens, Senate Majority Leader Mitch McConnell was forced to delay the Senate's vote on their version of TrumpCare until after the July 4 congressional recess. 
 
-It’s imperative to keep up the pressure on Senators Feinstein and Harris. Here's how:
+This is a stunning failure for the GOP and an incredible win for the resistance. Remember, the GOP has been vowing to repeal the Affordable Care Act for seven years. So far, all they've managed to do is create a bill that's got an approval rate hovering around 17%. Americans have made it abundantly clear: we do not want TrumpCare.
 
-1. Urge both senators to continue to resist by withholding consent on senate business. **[Tell them to object! ](https://www.indivisibleguide.com/resource/withholding-consent-filibuster-amendment-call-script/)**
+But while we are celebrating the 4th of July, McConnell is busy twisting arms, offering bribes to moderate Republican senators, and negotiating back room deals to steal health care from tens of millions of Americans. Those hardest hit by this deeply immoral bill will be the most vulnerable members of our communities - children, seniors, the disabled, and people struggling to make ends meet. All so Republicans can give obscene tax breaks to billionaires.
 
-2. Also urge both senators to try to bury TrumpCare in amendments. There's still time to submit a personal amendment if you haven't already. It just takes a minute: **[OurAmendments.org](https://www.ouramendments.org/)**
+McConnell is counting on us getting tired of this fight and turning our attention elsewhere. Let's show him how wrong he is.
 
-With a senate vote anticipated in 4 days, and the very real possibility of TrumpCare becoming law in less than a week, the only thing standing in Republicans' way is WE THE PEOPLE. 
+This week: 
 
-**Want to learn more? [Here's everything you need to know to stop TrumpCare.](https://www.indivisibleguide.com/stop-trumpcare/)** 
+1. [Keep calling Senators Feinstein and Harris](https://www.indivisibleguide.com/resource/withholding-consent-filibuster-amendment-call-script/). Thank them for fighting TrumpCare and urge them to use all procedural tactics possible to block the GOP Senate's bill, including withholding consent and filibustering by amendment. 
+
+2. **Encourage family and friends in states with Republican senators** to keep lighting up their senators' phones. 
+
+3. Check out the call scripts, explainers and other fantastic resources in [Indivisible's Stop Trumpcare toolkit](https://www.indivisibleguide.com/stop-trumpcare/). The national Indivisible team does a great job of explaining complex policy in plain English - and suggesting practical, effective actions we can take. 
+
 
 ### About Calling Member of Congress
 
