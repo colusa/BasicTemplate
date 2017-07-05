@@ -1,6 +1,6 @@
 ---
 title: Resistance Happy Hour - Every Tuesday in Davis!
-date: 2017-07-05 11:05:00 -07:00
+date: 2017-06-18 11:05:00 -07:00
 categories:
 - event
 tags:
@@ -19,4 +19,4 @@ Invite your friends, bring your dogs, and come on by for a fun chat and a good b
 
 Look for the white "ask me about indivisible" sign.
 
-Details: https://www.facebook.com/events/555789598144020
+[Details on Facebook](https://www.facebook.com/events/555789598144020).
