@@ -5,7 +5,8 @@ position: 2
 ---
 
 ### Indivisible Colusa in the News
-[Family fun had by all at Williams Pioneer Day](http://www.appeal-democrat.com/colusa_sun_herald/news/family-fun-had-by-all-at-williams-pioneer-day/article_07901ee0-4b21-11e7-90b5-d77195c45f75.html), Colusa Sun-Herald, 6/6/17. Indivisible Colusa had a booth at this community event and was quoted in this article. 
+
+[Family fun had by all at Williams Pioneer Day](http://www.appeal-democrat.com/colusa_sun_herald/news/family-fun-had-by-all-at-williams-pioneer-day/article_07901ee0-4b21-11e7-90b5-d77195c45f75.html), Colusa Sun-Herald, 6/6/17. Indivisible Colusa had a booth at this community event and was quoted in this article.
 
 ["Indivisible Colusa protests Trump's firing of FBI head,"](http://williamspioneer.com/article/81627) Williams Pioneer Review, 5/17/17
 
@@ -18,6 +19,9 @@ position: 2
 ["New political group invites Garamendi to town hall,"](http://www.appeal-democrat.com/colusa_sun_herald/news/new-political-group-invites-garamendi-to-town-hall/article_8fde5f7a-24aa-11e7-8d12-bbf74ba4eee9.html) Colusa Sun-Herald, 4/18/17
 
 ### Indivisible Colusa Newsletter
+
+[July 4, 2017](http://mailchi.mp/00091b5a12f0/indicolusa_04262017-301969)
+
 [June 19, 2017](http://mailchi.mp/cb477d9642d5/indicolusa_04262017-272377)
 
 [June 13, 2017](http://mailchi.mp/a73498fdf7c7/indicolusa_04262017-257509)
@@ -28,13 +32,15 @@ position: 2
 ](http://mailchi.mp/68bd896dd373/indicolusa_04262017-165609)
 
 [April 26, 2017](http://mailchi.mp/c0fc75d461b8/indicolusa_04262017)
- 
+
 ### Indivisible Colusa Flyer
+
 [Indivisible Colusa Flyer.pdf](/uploads/Indivisible%20Colusa%20Flyer.pdf)
 
-Help spread the word about Indivisible Colusa. We are Colusa County residents working together to peacefully resist Trump's regressive policies and his attacks on our democratic institutions and values. 
+Help spread the word about Indivisible Colusa. We are Colusa County residents working together to peacefully resist Trump's regressive policies and his attacks on our democratic institutions and values.
 
 ### CA-03 Resistance Groups Flyer
+
 [17-4 TownHall Handout ColorV3.pdf](/uploads/17-4%20TownHall%20Handout%20ColorV3.pdf)
 
-This flyer describes the Indivisible movement and lists Indivisible chapters and other resistance groups in California's third congressional district. 
+This flyer describes the Indivisible movement and lists Indivisible chapters and other resistance groups in California's third congressional district.
