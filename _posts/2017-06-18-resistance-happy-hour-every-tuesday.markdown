@@ -8,15 +8,14 @@ tags:
 - happy hour
 - resistance
 - social
-event-start-date: 0005-01-01 00:07:02 -07:52
 Location: University of Beer, 615 3rd St., Davis, CA
 ---
 
-**Hosted by Indivisible Yolo every Tuesday in Davis.**
+**Hosted by Indivisible Yolo 5:30 - 8:30  every Tuesday in Davis.**
 
-Join us at UoB in Davis every Tuesday evening for community building and beer! 
+Join us at UoB in Davis every Tuesday evening for community building and beer!
 
-Invite your friends, bring your dogs, and come on by for a fun chat and a good brew. 
+Invite your friends, bring your dogs, and come on by for a fun chat and a good brew.
 
 Look for the white "ask me about indivisible" sign.
 
