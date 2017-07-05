@@ -37,7 +37,7 @@ position: 2
 
 [Indivisible Colusa Flyer.pdf](/uploads/Indivisible%20Colusa%20Flyer.pdf)
 
-Help spread the word about Indivisible Colusa. We are Colusa County residents working together to peacefully resist Trump's regressive policies and his attacks on our democratic institutions and values.
+Help spread the word about Indivisible Colusa. 
 
 ### CA-03 Resistance Groups Flyer
 
