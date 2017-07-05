@@ -8,7 +8,6 @@ tags:
 - happy hour
 - resistance
 - social
-main-image: "/uploads/IY%20Happy%20Hour.jpg"
 Location: University of Beer, 615 3rd St., Davis, CA
 ---
 
