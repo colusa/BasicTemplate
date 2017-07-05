@@ -8,6 +8,7 @@ tags:
 - happy hour
 - resistance
 - social
+event-start-date: 0005-01-01 00:07:02 -07:52
 Location: University of Beer, 615 3rd St., Davis, CA
 ---
 
