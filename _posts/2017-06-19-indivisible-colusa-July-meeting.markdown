@@ -6,6 +6,7 @@ categories:
 event-start-date: 2017-07-10 18:30:00 -07:00
 event-end-date: 2017-07-10 20:00:00 -07:00
 Location: 528 Seventh St. (upstairs), Williams, CA
+RSVP-link: https://www.facebook.com/events
 ---
 
 **SOCIAL MEDIA FOR ACTIVISTS TRAINING**
