@@ -8,6 +8,7 @@ tags:
 event-start-date: 2017-08-07 18:30:00 -07:00
 event-end-date: 2017-08-07 20:00:00 -07:00
 Location: 528 Seventh St. (upstairs), Williams, CA
+RSVP-link: https://www.facebook.com/events/140450766512849
 ---
 
 We meet monthly on the first Monday of the month. 
