@@ -1,6 +1,6 @@
 ---
 title: Town Hall with Rep. Garamendi
-date: 2017-06-18 11:00:00 -07:00
+date: 2017-06-18 11:10:00 -07:00
 categories:
 - event
 tags:
