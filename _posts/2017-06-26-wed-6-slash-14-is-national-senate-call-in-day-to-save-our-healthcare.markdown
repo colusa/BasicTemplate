@@ -1,5 +1,5 @@
 ---
-title: 'Week of July 3: Will it be healthcare or wealthcare?'
+title: 'Week of July 10: Keep fighting TrumpCare'
 date: 2017-06-26 12:50:00 -07:00
 categories:
 - action
