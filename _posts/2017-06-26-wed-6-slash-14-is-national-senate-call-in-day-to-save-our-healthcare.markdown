@@ -15,7 +15,7 @@ tags:
 Indivisible groups across the country spent the 4th of July congressional recess week fighting for our health care — and it’s working:
 
 * New York Times: [G.O.P. Support of Senate Health Repeal Erodes During Break](https://www.nytimes.com/2017/07/07/us/politics/republicans-health-care-bill.html)
-* Washington Post: [Republicans increasingly uncertain of a legislative victory before August](https://www.washingtonpost.com/powerpost/republicans-increasingly-uncertain-of-a-legislative-victory-before-august/2017/07/08/)
+* Washington Post: [Republicans increasingly uncertain of a legislative victory before August](https://www.washingtonpost.com/powerpost/republicans-increasingly-uncertain-of-a-legislative-victory-before-august/2017/07/08/2b13078a-631b-11e7-a4f7-af34fc1d9d39_story.html?utm_term=.bcba370e201d)
 * POLITICO: [It was a grim week for the Republican effort to repeal Obamacare](http://www.politico.com/story/2017/07/07/gop-health-plan-home-districts-misgivings-240306)
 
 The fight’s not over yet, but it’s clear that Senators are starting to listen to their constituents instead of blindly supporting TrumpCare. We don’t expect that the Senate will vote on TrumpCare this week, but the vote could come the week of July 17. **Local constituent pressure now will determine the political outcome later this month.** Here’s how to keep it up: 
