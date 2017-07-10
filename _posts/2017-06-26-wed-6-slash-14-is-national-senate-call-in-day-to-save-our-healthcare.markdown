@@ -9,17 +9,16 @@ tags:
 - ahca
 - Feinstein
 - Harris
+- health care
 ---
 
-Last week was a good week. Thanks to pressure from millions of outraged citizens, Senate Majority Leader Mitch McConnell was forced to delay the Senate's vote on their version of TrumpCare until after the July 4 congressional recess. 
+Indivisible groups across the country spent the 4th of July congressional recess week fighting for our health care — and it’s working:
 
-This is a stunning failure for the GOP and an incredible win for the resistance. Remember, the GOP has been vowing to repeal the Affordable Care Act for seven years. So far, all they've managed to do is create a bill that's got an approval rate hovering around 17%. Americans have made it abundantly clear: we do not want TrumpCare.
+* New York Times: [G.O.P. Support of Senate Health Repeal Erodes During Break](https://www.nytimes.com/2017/07/07/us/politics/republicans-health-care-bill.html)
+* Washington Post: [Republicans increasingly uncertain of a legislative victory before August](https://www.washingtonpost.com/powerpost/republicans-increasingly-uncertain-of-a-legislative-victory-before-august/2017/07/08/)
+* POLITICO: [It was a grim week for the Republican effort to repeal Obamacare](http://www.politico.com/story/2017/07/07/gop-health-plan-home-districts-misgivings-240306)
 
-But while we are celebrating the 4th of July, McConnell is busy twisting arms, offering bribes to moderate Republican senators, and negotiating back room deals to steal health care from tens of millions of Americans. Those hardest hit by this deeply immoral bill will be the most vulnerable members of our communities - children, seniors, the disabled, and people struggling to make ends meet. All so Republicans can give obscene tax breaks to billionaires.
-
-McConnell is counting on us getting tired of this fight and turning our attention elsewhere. Let's show him how wrong he is.
-
-This week: 
+The fight’s not over yet, but it’s clear that Senators are starting to listen to their constituents instead of blindly supporting TrumpCare. We don’t expect that the Senate will vote on TrumpCare this week, but the vote could come the week of July 17. **Local constituent pressure now will determine the political outcome later this month.** Here’s how to keep it up: 
 
 1. [**Keep calling Senators Feinstein and Harris**](https://www.indivisibleguide.com/resource/withholding-consent-filibuster-amendment-call-script/). Thank them for fighting TrumpCare and urge them to use all procedural tactics possible to block the GOP Senate's bill, including withholding consent and filibustering by amendment. 
 
