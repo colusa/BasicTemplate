@@ -12,6 +12,8 @@ Location: Veterans Memorial Center, 203 E 14th St, Davis, CA
 RSVP-link: https://www.facebook.com/events/462352800764842
 ---
 
+Join an Indivisible Colusa carpool or offer a ride from Colusa County to the Davis Town Hall: https://www.groupcarpool.com/t/xwbj89
+
 Congressman John Garamendi is hosting a Town Hall in Davis on Friday, July 21st, to discuss the many critical issues before Congress and the Administration. It is free and open to the public, and all 3rd District residents are encouraged and invited to attend. 
 
 Congressman Garamendi will deliver a brief update on the state of affairs in Washington, and then take questions from the audience. 
