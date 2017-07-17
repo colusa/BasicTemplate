@@ -13,7 +13,7 @@ tags:
 - trumpcare
 ---
 
-Here's how we can have our biggest impact on what's going on in Washington: showing up at our elected officials' local offices and events. We've got two great opportunities this week: 
+How can you make your voice heard in Washington? Show up this week at Sen. Harris's office in Sacramento and Rep. Garamendi's town hall in Davis. 
 
 Tuesday, 7/18, Sacramento - #KILLTHEBILL Be part of a national Indivisible Day of Action to kill the Republican's "health care" bill once and for all. Join Indivisible Colusa and other local resistance groups at Sen. Kamala Harris' office in Sacramento between 10AM and 5PM. 
 
