@@ -26,4 +26,6 @@ Head up to her office (go through security in the lobby then take the elevator t
 
 No matter what time you can make it, swing by - even just for 5 minutes! Your voice matters! Our goal is to have people stopping in at her office all day long. We are especially looking for folks who can stop by after 1:30 pm. 
 
+**GET A RIDE, GIVE A RIDE.** We're organizing carpools from Colusa County to Sen. Harris's office. Join a carpool or offer a ride here: [groupcarpool.com/t/jnp6iq](https://www.groupcarpool.com/t/jnp6iq). 
+
 **Note that Sen. Harris' Sacramento office is open 8:30-5:00.**
