@@ -1,6 +1,6 @@
 ---
 title: "#KILLTHEBILL - Join us at Sen. Harris's office"
-date: 2017-07-16 17:37:00 -07:00
+date: 2017-07-16 15:37:00 -07:00
 categories:
 - event
 tags:
