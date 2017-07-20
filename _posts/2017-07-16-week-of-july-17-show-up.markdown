@@ -19,4 +19,4 @@ Tuesday, 7/18, Sacramento - #KILLTHEBILL Be part of a national Indivisible Day o
 
 Friday, 7/21, Davis - Town Hall with Congressman John Garamendi. Get an update from our congressman on what's going on in D.C. Share your concerns and have your voice heard.
 
-Sunday, 7/23, Marysville -  Hosted by Indivisible Yuba-Sutter. Each new TrumpCare proposal is worse than the last. Stand up and speak out to protect America's health care. Meet at the NE corner of 5th and H Streets in Marysville and march around Rideout Memorial Hospital. Bring a sign! 
+[Sunday, 7/23, Marysville -  Anti-TrumpCare March.](http://indivisiblecolusa.com/event/2017/06/19/anti-trumpcare-march.html) Hosted by Indivisible Yuba-Sutter. Each new TrumpCare proposal is worse than the last. Stand up and speak out to protect America's health care. Meet at the NE corner of 5th and H Streets in Marysville and march around Rideout Memorial Hospital. Bring a sign! 
