@@ -1,5 +1,5 @@
 ---
-title: Indivisible Colusa August Meeting
+title: Indivisible Colusa August Meeting with special guest, SEIU organizer Eric Paredes
 date: 2017-06-19 14:20:00 -07:00
 categories:
 - event
