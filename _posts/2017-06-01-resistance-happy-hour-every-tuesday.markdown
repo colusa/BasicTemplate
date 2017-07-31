@@ -1,6 +1,6 @@
 ---
 title: Resistance Happy Hour - Every Tuesday in Davis!
-date: 2017-06-18 11:05:00 -07:00
+date: 2017-06-01 11:05:00 -07:00
 categories:
 - event
 tags:
