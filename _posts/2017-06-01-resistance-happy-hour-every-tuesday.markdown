@@ -19,4 +19,4 @@ Invite your friends, bring your dogs, and come on by for a fun chat and a good b
 
 Look for the white "ask me about indivisible" sign.
 
-[Details on Facebook](https://www.facebook.com/events/555789598144020).
+[Details on Facebook](https://www.facebook.com/events/110404352941246).
