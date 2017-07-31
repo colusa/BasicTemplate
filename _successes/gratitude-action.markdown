@@ -6,6 +6,7 @@ tags:
 - Obamacare
 - ACA
 - health care
+main-image: "/uploads/Maddow2.jpg"
 ---
 
 As part of Indivisible's #KilltheBill National Day of Action on July 18, Indivisible Colusa members visited Senator Kamala Harris's Sacramento office to thank her and her staff for fighting the Republican's ACA repeal bill.
