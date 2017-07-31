@@ -13,7 +13,7 @@ Join us as we **celebrate recent Indivisible successes and make plans for new ac
 We'll also spend part of the meeting in conversation with **Chloe Stryker, the Indivisible Project's organizer for Northern California**. Chloe will give us an update on national priorities for the Indivisible movement and what's happening with Indivisible groups across Northern California.\
 \
 **ABOUT INDIVISIBLE COLUSA'S MEETINGS**\
-Come to our open meetings to learn about the Indivisible movement. We focus on local, defensive, Congressional advocacy by encouraging our Members of Congress in the Senate and House to represent us, not Trump.\
+Come to our open meetings to learn about the Indivisible movement. We focus on local, defensive, Congressional advocacy by encouraging our Members of Congress in the Senate and House to represent us.\
 \
 We're a small, friendly group of progressive-leaning Colusa County residents who work together to organize local political actions and events, participate in meetings with elected representatives, coordinate phone calls, and more.\
 \
