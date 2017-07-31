@@ -11,9 +11,9 @@ Location: 528 Seventh St. (upstairs), Williams, CA
 RSVP-link: https://www.facebook.com/events/140450766512849
 ---
 
-In our August meeting, we'll celebrate recent Indivisible successes and make plans for new actions to resist Trump's efforts to roll back civil rights, our social safety net and environmental protections. 
+Join us as we celebrate recent Indivisible successes and make plans for new actions to resist Trump's efforts to roll back civil rights, our social safety net and environmental protections. 
 
-Also, we'll be joined by Eric Paredes from SEIU Local 2015, which has about 150 members working in the service industry in Colusa County. Eric will share his experiences as a local political organizer, and will give us tips on how to effectively communicate our views and values. 
+We'll spend part of the meeting in conversation with Eric Paredes from SEIU Local 2015, which has about 150 members working in the service industry in Colusa County. Eric will share his experiences as a local political organizer, and will offer tips on how to effectively communicate our views and values. 
 
 **ABOUT OUR MEETINGS**
 
