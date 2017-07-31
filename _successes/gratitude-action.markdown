@@ -14,5 +14,3 @@ On July 18, we visited Sen. Kamala Harris's Sacramento office to thank her and h
 ![IMG_0354.JPG](/uploads/IMG_0354.JPG)
 
 ![IMG_0369.JPG](/uploads/IMG_0369.JPG)
-
-![IMG_0370.JPG](/uploads/IMG_0370.JPG)
