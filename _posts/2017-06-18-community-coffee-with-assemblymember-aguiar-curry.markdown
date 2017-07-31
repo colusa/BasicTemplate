@@ -1,6 +1,6 @@
 ---
 title: Community Coffee with Assemblymember Aguiar-Curry
-date: 2017-06-18 11:06:00 -07:00
+date: 2017-06-18 13:00:00 -07:00
 categories:
 - event
 tags:
