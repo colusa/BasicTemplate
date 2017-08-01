@@ -1,5 +1,6 @@
 ---
-title: Indivisible Colusa August meeting. Special guest, SEIU organizer Eric Paredes.
+title: Indivisible Colusa August meeting. Special guests, SEIU organizers Eric Paredes
+  & Bryce Miller-Williams.
 date: 2017-06-19 14:20:00 -07:00
 categories:
 - event
@@ -11,9 +12,9 @@ Location: 528 Seventh St. (upstairs), Williams, CA
 RSVP-link: https://www.facebook.com/events/140450766512849
 ---
 
-Join us as we celebrate recent Indivisible successes and make plans for new actions to resist Trump's efforts to roll back civil rights, our social safety net and environmental protections. 
+Join us as we celebrate recent Indivisible successes (there will be cake and bubbly!) and talk about what's going on locally during the August Congressional recess. 
 
-We'll spend part of the meeting in conversation with Eric Paredes from SEIU Local 2015, which has about 150 members working in the service industry in Colusa County. Eric will share his experiences as a local political organizer, and will offer tips on how to effectively communicate our views and values. 
+In the second part of our meeting, Eric Paredes and Bryce Miller-Williams will lead us in a fun, interactive training in how to hold organizer conversations. Eric and Bryce are political organizers with SEIU Local 2015, which has about 150 members working in the service industry in Colusa County. Organizer conversations are an effective way to connect with people about what matters most to them, and then move them toward action - like calling their Members of Congress or joining the Indivisible movement. 
 
 **ABOUT OUR MEETINGS**
 
