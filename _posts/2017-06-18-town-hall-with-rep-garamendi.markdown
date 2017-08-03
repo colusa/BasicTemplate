@@ -1,5 +1,5 @@
 ---
-title: Town Hall with Rep. Garamendi
+title: Winters Town Hall with Congressman Garamendi
 date: 2017-06-18 11:10:00 -07:00
 categories:
 - event
