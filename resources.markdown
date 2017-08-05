@@ -8,6 +8,8 @@ position: 2
 
 ["Indivisible Colusa speaks out behind Affordable Care Act,"](http://www.appeal-democrat.com/colusa_sun_herald/news/indivisible-colusa-speaks-out-behind-affordable-care-act/article_36d6b680-7738-11e7-8f64-0b2e8edc8f81.html) Colusa Sun-Herald, 8/1/17
 
+[Indivisible Colusa's #KilltheBill action retweeted by MSNBC's Rachel Maddow,](https://twitter.com/maddow/status/887777091940429826) 7/19/17
+
 ["Family fun had by all at Williams Pioneer Day,"](http://www.appeal-democrat.com/colusa_sun_herald/news/family-fun-had-by-all-at-williams-pioneer-day/article_07901ee0-4b21-11e7-90b5-d77195c45f75.html) Colusa Sun-Herald, 6/6/17. Indivisible Colusa had a booth at this community event and was quoted in this article.
 
 ["Indivisible Colusa protests Trump's firing of FBI head,"](http://williamspioneer.com/article/81627) Williams Pioneer Review, 5/17/17
