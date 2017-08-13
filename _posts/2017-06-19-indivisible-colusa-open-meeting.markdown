@@ -2,6 +2,7 @@
 title: Indivisible Colusa August meeting. Special guests, SEIU organizers Eric Paredes
   & Bryce Miller-Williams.
 date: 2017-06-19 14:20:00 -07:00
+published: false
 categories:
 - event
 tags:
