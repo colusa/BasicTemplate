@@ -6,6 +6,7 @@ categories:
 - event
 tags:
 - garamendi
+main-image: "/uploads/pexels-photo-289764.jpeg"
 event-start-date: 2017-08-10 15:30:00 -07:00
 event-end-date: 2017-08-10 17:00:00 -07:00
 Location: Travis Credit Union, 1 Travis Way, Vacaville, CA
