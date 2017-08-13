@@ -5,6 +5,7 @@ categories:
 - event
 tags:
 - charlottesville
+main-image: "/uploads/Charlottesville.jpg"
 event-start-date: 2017-08-13 19:00:00 -07:00
 event-end-date: 2017-08-13 20:00:00 -07:00
 Location: Veterans Memorial Park, 10th and Market Streets, Colusa, CA
