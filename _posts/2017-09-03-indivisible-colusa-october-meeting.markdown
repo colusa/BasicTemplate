@@ -6,5 +6,6 @@ categories:
 event-start-date: 2017-10-02 18:30:00 -07:00
 event-end-date: 2017-10-02 20:00:00 -07:00
 Location: 528 Seventh Street (upstairs), Williams, CA
+RSVP-link: https://www.facebook.com/events/120490242011675
 ---
 
