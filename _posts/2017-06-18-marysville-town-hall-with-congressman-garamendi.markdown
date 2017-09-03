@@ -1,6 +1,7 @@
 ---
 title: Marysville Town Hall with Congressman Garamendi
 date: 2017-06-18 11:00:00 -07:00
+published: false
 categories:
 - event
 tags:
