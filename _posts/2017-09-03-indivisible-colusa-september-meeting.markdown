@@ -1,7 +1,7 @@
 ---
 title: 'Indivisible Colusa September meeting. Special guest: Indivisible West Coast
   organizer Chloe Stryker.'
-date: 2017-06-17 23:26:00 -07:00
+date: 2017-09-03 11:44:00 -07:00
 categories:
 - event
 event-start-date: 2017-09-11 18:30:00 -07:00
