@@ -9,3 +9,10 @@ Location: 528 Seventh Street (upstairs), Williams, CA
 RSVP-link: https://www.facebook.com/events/151514742098030
 ---
 
+Come to our open meetings to learn about the Indivisible movement. We focus on local, defensive, Congressional advocacy by encouraging our Members of Congress in the Senate and House to listen to us and represent us.
+
+We're a small, friendly group of Colusa County residents who work together to organize local political actions and events, participate in meetings with elected representatives, coordinate phone calls, and more.
+
+We meet monthly on the first Monday of the month. Our meetings are always free and open to the public. 
+
+Please note that our meeting place is on the second floor and there is no elevator. If that's a problem for you, please email us at [indivisiblecolusa@gmail.com](mailto:indivisiblecolusa@gmail.com) and we will try to find an accessible meeting place.
