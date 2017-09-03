@@ -1,6 +1,7 @@
 ---
 title: Solidarity Vigil to Reject Racism and Hatred
 date: 2017-08-13 13:57:00 -07:00
+published: false
 categories:
 - event
 tags:
