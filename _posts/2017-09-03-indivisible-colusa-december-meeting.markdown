@@ -1,6 +1,6 @@
 ---
 title: Indivisible Colusa December Meeting
-date: 2017-09-03 11:42:00 -07:00
+date: 2017-09-03 11:40:00 -07:00
 categories:
 - event
 tags:
