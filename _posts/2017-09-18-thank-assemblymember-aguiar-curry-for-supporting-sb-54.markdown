@@ -13,7 +13,7 @@ Call State Assemblymember Cecilia Aguiar-Curry (District 4, which includes Arbuc
 
 The legislation limits state and local law enforcement communications with federal immigration authorities. It also prevents state and local officers from questioning or holding people on immigration violations. 
 
-**Assemblymember Cecilia Aguiar-Curry**
+Assemblymember Cecilia Aguiar-Curry
 
 Sacramento: (916) 319-2004
 Davis: (530) 757-1034
