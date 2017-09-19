@@ -1,6 +1,6 @@
 ---
 title: Solidarity Vigil to Reject Racism and Hatred
-date: 2017-09-18 21:26:00 -07:00
+date: 2016-05-24 22:07:00 -07:00
 tags:
 - racism
 - white supremacy
