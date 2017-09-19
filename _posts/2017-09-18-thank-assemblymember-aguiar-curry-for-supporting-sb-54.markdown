@@ -1,5 +1,5 @@
 ---
-title: Thank Assemblymember Aguiar-Curry for supporting SB 54
+title: Thank Assemblymember Aguiar-Curry for supporting the California Values Act
 date: 2017-09-18 20:59:00 -07:00
 categories:
 - action
