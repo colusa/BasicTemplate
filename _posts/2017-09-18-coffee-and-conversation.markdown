@@ -5,8 +5,8 @@ categories:
 - event
 tags:
 - meeting
-event-start-date: 2017-09-23 09:30:00 -07:00
-event-end-date: 2017-09-23 11:00:00 -07:00
+event-start-date: 2017-10-21 09:30:00 -07:00
+event-end-date: 2017-10-21 11:00:00 -07:00
 Location: Caffeinated, 538 Market St., Colusa, CA
 RSVP-link: https://www.facebook.com/events/2364332850458914/
 ---
