@@ -12,7 +12,7 @@ tags:
 
 Indivisible has a National Week of Action planned for November 6-12 to demonstrate massive national opposition to the Trump Tax Scam. Indivisible Colusa is working on planning a local action for that week. Follow us on Facebook to stay in the loop. 
 
-And in the meantime, please **call Senators Feinstein and Harris and Congressman Garamendi and urge them do everything they can to expose the Trump tax plan for the scam it is**. We need them speaking out every day in the media, on social media, on the floor of the House and Senate, and at all of their presentations - to make sure the public knows how bad the #TrumpTaxScam is.
+And in the meantime, please **call Senators Feinstein and Harris and Congressman Garamendi and urge them do everything they can to expose the Trump tax plan for the scam it is**. We need them speaking out every day - in media interviews, on social media, on the floor of the House and Senate, and at all of their public events - to make sure Americans understand how bad the #TrumpTaxScam is.
 
 
 Here’s what we know already about the #TrumpTaxScam:
