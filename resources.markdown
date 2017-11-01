@@ -24,6 +24,14 @@ position: 2
 
 ### Indivisible Colusa Newsletter
 
+[September 21, 2017](http://mailchi.mp/639bd8248457/indicolusa_04262017-406005)
+
+[September 18, 2017](http://mailchi.mp/e77fbd25fe1f/indicolusa_04262017-400193)
+
+[August 25, 2017](http://mailchi.mp/3afc7c8dedf3/indicolusa_04262017-379677)
+
+[August 9, 2017](http://mailchi.mp/97a11a10f541/indicolusa_04262017-368085)
+
 [August 1, 2017](http://mailchi.mp/b3c0992ce76f/indicolusa_04262017-349929)
 
 [July 17, 2017 ](http://mailchi.mp/2569f9ceb8cc/indicolusa_04262017-324865)
