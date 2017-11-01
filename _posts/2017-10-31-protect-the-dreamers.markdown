@@ -1,6 +1,8 @@
 ---
 title: Protect the Dreamers
 date: 2017-10-31 22:22:00 -07:00
+categories:
+- action
 tags:
 - daca
 - dreamers
