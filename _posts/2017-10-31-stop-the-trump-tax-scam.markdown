@@ -25,4 +25,4 @@ The GOP wants tax cuts for the wealthy more than anything. That’s why they tol
 
 **We can, and must, stop this bill.** Just like with Trumpcare, we can defeat it with nationwide constituent power. On our home turf. On the phone. In DC. Our voices can shape this fight. If we kill this bill, we’ll protect our social safety nets from massive cuts. We'll also deny Trump yet another win, demoralize the GOP, and dry up their campaign contributions.
 
-As Republican Senator Lindsay Graham admitted this week, "[if we fail on taxes, that's the end of the Republican Party's governing majority in 2018](http://www.cnn.com/2017/10/27/politics/kfile-lindsey-graham-tax-reform/index.html)." 
+As Republican Senator Lindsay Graham admitted this week, "[if we fail on taxes, that's the end of the Republican Party's governing majority in 2018](http://www.cnn.com/2017/10/27/politics/kfile-lindsey-graham-tax-reform/index.html)." We can do this.
