@@ -15,7 +15,7 @@ Indivisible has a National Week of Action planned for November 6-12 to demonstra
 And in the meantime, please **call Senators Feinstein and Harris and Congressman Garamendi and urge them do everything they can to expose the Trump tax plan for the scam it is**. We need them speaking out every day - in media interviews, on social media, on the floor of the House and Senate, and at all of their public events - to make sure Americans understand how bad the #TrumpTaxScam is.
 
 
-Here’s what we know already about the #TrumpTaxScam:
+Here’s what we know already about the Trump Tax Scam:
 
 Republicans are expected to unveil the full text of their tax bill on Thursday, Nov. 2. Two memos showed early on that their idea of tax "reform” is nothing more than giveaways for the super rich.
 
