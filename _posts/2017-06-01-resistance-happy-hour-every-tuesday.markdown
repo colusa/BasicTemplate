@@ -8,7 +8,7 @@ tags:
 - happy hour
 - resistance
 - social
-Location: University of Beer, 615 3rd St., Davis, CA
+Location: Three Mile Brewing, 231 G Street, Davis, CA
 ---
 
 **Hosted by Indivisible Yolo 6-7 PM every Thursday in Davis.**
