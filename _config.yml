@@ -68,7 +68,7 @@ twitter_username: indivisible_col
 facebook_username: indivisiblecolusa
 background-image: "/uploads/Almond%20blossoms_2.jpg"
 member-count: 
-footer-title: Spread the word. Help build a movement.
+footer-title: Indivisible - with liberty and justice for all
 markdown: kramdown
 gems:
 - jekyll-feed
