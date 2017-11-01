@@ -21,7 +21,7 @@ Republicans are expected to unveil the full text of their tax bill on Thursday, 
 
 GOP donors, Wall Street, and the Trump family have looked into their crystal ball and see dollar signs and an excuse to make massive cuts to social programs. If the GOP passes their tax scam, it’ll balloon the deficit and they’ll demand cuts to Medicaid, Medicare, and Social Security.
 
-The GOP wants tax cuts more than anything. That’s why they tolerate a dangerously incompetent President. Republicans still don’t have a major legislative victory because we the people have out-organized them at every step of the way, just like we did with healthcare. And the GOP cares about this a lot more than they care about healthcare repeal because tax “reform” puts more money in their pockets. They’ve been waiting for 8 years, and they’re tolerating Trump’s abuse, just for this moment.
+The GOP wants tax cuts for the wealthy more than anything. That’s why they tolerate a dangerously incompetent President. Republicans still don’t have a major legislative victory because we the people have out-organized them at every step of the way, just like we did with healthcare. And the GOP cares about this a lot more than they care about healthcare repeal because tax “reform” puts more money in their pockets. They’ve been waiting for 8 years, and they’re tolerating Trump’s abuse, just for this moment.
 
 **We can, and must, stop this bill.** Just like with Trumpcare, we can defeat it with nationwide constituent power. On our home turf. On the phone. In DC. Our voices can shape this fight. If we kill this bill, we’ll not only deny Trump yet another win, but we’ll also demoralize the GOP, dry up their campaign contributions, and likely shift the balance of power in 2018. 
 
