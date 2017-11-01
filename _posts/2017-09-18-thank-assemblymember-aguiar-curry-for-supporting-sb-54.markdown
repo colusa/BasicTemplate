@@ -1,6 +1,7 @@
 ---
 title: Thank Assemblymember Aguiar-Curry for supporting the California Values Act
 date: 2017-09-18 20:59:00 -07:00
+published: false
 categories:
 - action
 tags:
