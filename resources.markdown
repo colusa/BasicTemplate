@@ -4,6 +4,9 @@ date: 2017-04-03 19:08:00 -07:00
 position: 2
 ---
 
+### What is Indivisible? 
+It's a grassroots network of over 5,800 independent groups (at least two in every Congressional district) that sprang up in the wake of the November 2016 election to prevent Trump from underminng this country's progress toward equality, inclusiveness, fairness and decency. Learn more at [indivisible.org](http://indivisible.org).
+
 ### Indivisible Colusa in the News
 
 ["Indivisible Colusa speaks out behind Affordable Care Act,"](http://www.appeal-democrat.com/colusa_sun_herald/news/indivisible-colusa-speaks-out-behind-affordable-care-act/article_36d6b680-7738-11e7-8f64-0b2e8edc8f81.html) Colusa Sun-Herald, 8/1/17
