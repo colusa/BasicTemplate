@@ -11,7 +11,7 @@ tags:
 
 Former Trump campaign chairman Paul Manafort was arrested on October 30 and indicted on several charges, including conspiracy against the United States.
 
-**Let that sink in: the person who managed Trump’s presidential campaign has now been charged with conspiracy against the United States. **Manafort’s associate Rick Gates has also been indicted, and Trump campaign foreign policy advisor George Papadopoulos has pled guilty to lying to the FBI about his communications with Russia.
+**Let that sink in: the person who managed Trump’s presidential campaign has now been charged with conspiracy against the United States.** Manafort’s associate Rick Gates has also been indicted, and Trump campaign foreign policy advisor George Papadopoulos has pled guilty to lying to the FBI about his communications with Russia.
 
 This development is the latest evidence that Special Counsel Robert Mueller’s investigation continues to get closer to the truth. That means he is even more at risk of being fired by Donald Trump.
 
