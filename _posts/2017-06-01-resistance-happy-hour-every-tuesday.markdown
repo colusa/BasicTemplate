@@ -1,5 +1,5 @@
 ---
-title: Resistance Happy Hour - Every Tuesday in Davis!
+title: Resistance Happy Hour - Every Thursday in Davis!
 date: 2017-06-01 11:05:00 -07:00
 categories:
 - event
@@ -11,12 +11,10 @@ tags:
 Location: University of Beer, 615 3rd St., Davis, CA
 ---
 
-**Hosted by Indivisible Yolo 5:30 - 8:30  every Tuesday in Davis.**
+**Hosted by Indivisible Yolo 6-7 PM every Thursday in Davis.**
 
-Join us at UoB in Davis every Tuesday evening for community building and beer!
+Meet up with Indivisible Yolo members at Three Mile Brewing for conversation, dogs, and good beer. They can register you to vote, help you get on amplify, or set you up with a postcard to write your representative! 
 
-Invite your friends, bring your dogs, and come on by for a fun chat and a good brew.
+Don't need any of that? Come on by anyway, to let off some steam, prep for the weekend, and build camaraderie, because you're not alone, and together we will resist, persist, and make change!
 
-Look for the white "ask me about indivisible" sign.
-
-[Details on Facebook](https://www.facebook.com/events/110404352941246).
+[Details on Facebook](https://www.facebook.com/events/135835127059768)
