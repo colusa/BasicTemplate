@@ -6,6 +6,7 @@ categories:
 tags:
 - tax
 - trump
+is featured: true
 event-start-date: 2017-11-10 16:00:00 -08:00
 event-end-date: 2017-11-10 17:00:00 -08:00
 Location: Veterans Memorial Park, 10th and Market Streets, Colusa, CA
