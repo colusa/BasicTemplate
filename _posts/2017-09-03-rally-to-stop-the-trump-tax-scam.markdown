@@ -10,7 +10,6 @@ main-image: "/uploads/stop%20sign%202.jpg"
 event-start-date: 2017-11-10 16:00:00 -08:00
 event-end-date: 2017-11-10 17:00:00 -08:00
 Location: Veterans Memorial Park, 10th and Market Streets, Colusa, CA
-RSVP-link: https://www.facebook.com/events/360817647700809/
 ---
 
 The Republican tax plan is a massive giveaway to wealthy people and large corporations, paid for by penalizing millions of middle class families, students, teachers, people with catastrophic medical expenses and small business owners. Under the guise of tax “reform,” Trump and the GOP want to add $1.5 TRILLION to the deficit, forcing deep cuts to Medicare, Medicaid and Social Security down the road. 
