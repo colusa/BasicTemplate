@@ -12,6 +12,7 @@ Location: Veterans Memorial Park, 10th and Market Streets, Colusa, CA
 ---
 
 ![stop sign 3-small-9cdf5a.jpg](/uploads/stop%20sign%203-small-9cdf5a.jpg)
+
 The Republican tax plan is a massive giveaway to wealthy people and large corporations, paid for by penalizing millions of middle class families, students, teachers, people with catastrophic medical expenses and small business owners. Under the guise of tax “reform,” Trump and the GOP want to add $1.5 TRILLION to the deficit, forcing deep cuts to Medicare, Medicaid and Social Security down the road. 
 
 **Join Indivisible Colusa in this peaceful rally to show Congress there's broad resistance to this tax scam that's a boon for billionaires and a bust for the rest of us.** 
