@@ -1,6 +1,6 @@
 ---
 title: Rally to Stop the Trump Tax Scam
-date: 2017-11-07 21:25:00 -08:00
+date: 2017-09-03 21:25:00 -07:00
 categories:
 - event
 tags:
