@@ -1,6 +1,7 @@
 ---
 title: Stop the Trump Tax Scam
 date: 2017-10-31 21:25:00 -07:00
+published: false
 categories:
 - action
 tags:
