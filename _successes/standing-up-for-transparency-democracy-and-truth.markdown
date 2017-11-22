@@ -1,6 +1,6 @@
 ---
 title: Standing up for truth, transparency and democracy
-date: 2017-11-21 18:34:00 -08:00
+date: 2017-11-21 18:36:00 -08:00
 tags:
 - russia
 - special prosecutor
