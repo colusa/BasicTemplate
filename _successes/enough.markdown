@@ -9,4 +9,4 @@ tags:
 main-image: "/uploads/IMG_0936.JPG"
 ---
 
-OCTOBER 2017. In the wake of the Las Vegas massacre, Indivisible Colusa and Moms on the Left Sacramento met with Rep. Garamendi's staff to urge the Congressman to be a national leader of the gun safety reform conversation. 
+OCTOBER 2017. In the wake of the Las Vegas massacre, Indivisible Colusa and Moms on the Left Sacramento delivered letters signed by their members to Congressman Garamendi urging him to be a leader of the national gun safety reform conversation. 
