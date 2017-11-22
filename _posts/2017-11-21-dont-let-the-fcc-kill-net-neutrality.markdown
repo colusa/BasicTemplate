@@ -1,5 +1,5 @@
 ---
-title: Don't let the FCC kill net neutrality
+title: Protect open access to the internet
 date: 2017-11-21 16:53:00 -08:00
 categories:
 - action
