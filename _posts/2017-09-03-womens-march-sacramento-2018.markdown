@@ -21,8 +21,7 @@ We will gather at Southside Park between 6th and 8th Streets. From the Park, we 
 
 Although registration is not required to attend the march, we’re asking for marchers to register so we can have an accurate count to plan for proper accommodations.
 
-Visit Women's March Sacramento Website for more event details
-[https://womensmarchsac.com/](https://womensmarchsac.com/)
+Visit [Women's March Sacramento Website](https://womensmarchsac.com/) for more event details.
 
 Your donations will make Women's March Sacramento possible:
 [https://goo.gl/qcL66k](https://goo.gl/qcL66k)
