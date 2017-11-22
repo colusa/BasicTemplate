@@ -26,4 +26,10 @@ call-script-text: |-
 
 Call Senators Feinstein and Harris and urge them to stand strong against the Trump Tax Scam.
 
+This plan isn’t “tax reform.” It’s tax cuts for the wealthy at the expense of our communities.
+
+**1,810,000** people in California would lose health insurance coverage
+
+**3,969,800** California families would see a tax increase
+
 ### Text TAX SCAM to 977-79 to be connected with your Senators now! 
