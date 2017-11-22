@@ -1,5 +1,5 @@
 ---
-title: Solidarity Vigil to Reject Racism and Hatred
+title: Solidarity vigil to reject racism and hatred
 date: 2016-05-24 22:07:00 -07:00
 tags:
 - racism
