@@ -8,4 +8,4 @@ tags:
 main-image: "/uploads/FullSizeRender3.jpg"
 ---
 
-The day after white supremacists and neo-Nazis paraded through Charlottesville, VA and murdered Heather Heyer, Colusa County residents gathered at Veterans Memorial Park in a vigil to reject racism and hatred. 
+AUGUST 2017. The day after white supremacists and neo-Nazis paraded through Charlottesville, VA and murdered Heather Heyer, Colusa County residents gathered at Veterans Memorial Park in a vigil to reject racism and hatred. 
