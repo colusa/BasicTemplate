@@ -7,6 +7,7 @@ tags:
 - Obamacare
 - Trumpcare
 - Senator Harris
+main-image: "/uploads/IMG_0282.JPG"
 ---
 
 SEPTEMBER 2017. Indivisible Colusa members visited Senator Harris's office on the eve of the Republican's third failed attempt this year to repeal the Affordable Care Act. 
