@@ -1,6 +1,5 @@
 ---
-title: 'Kill Trump''s Tax Scam: Make calls to progressive voters in states with a
-  swing Republican Senator'
+title: 'Call fellow progressives in key #TrumpTaxScam target states'
 date: 2017-11-21 17:45:00 -08:00
 categories:
 - action
