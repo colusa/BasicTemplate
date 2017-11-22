@@ -1,6 +1,6 @@
 ---
 title: We marched for science on Earth Day
-date: 2017-02-01 09:58:00 -08:00
+date: 2017-11-21 18:36:00 -08:00
 tags:
 - march for science
 - science
