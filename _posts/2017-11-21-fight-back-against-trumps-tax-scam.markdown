@@ -28,8 +28,8 @@ Call Senators Feinstein and Harris and urge them to stand strong against the Tru
 
 This plan isn’t “tax reform.” It’s tax cuts for the wealthy at the expense of our communities.
 
-**1,810,000** people in California would lose health insurance coverage
+[1,810,000 people](https://www.americanprogress.org/issues/healthcare/news/2017/11/16/442906/senate-tax-bill-threatens-access-health-care/) in California would lose health insurance coverage
 
-**3,969,800** California families would see a tax increase
+[3,969,800 California families](https://itep.org/senatetaxplan/) would see a tax increase
 
 ### Text TAX SCAM to 977-79 to be connected with your Senators now! 
