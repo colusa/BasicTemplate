@@ -24,7 +24,7 @@ call-script-text: |-
   **Caller:** Yes please do, and please take down my contact information so you can let me know what the Senator decides to do.
 ---
 
-Call Senators Feinstein and Harris and urge them to stand strong against the Trump Tax Scam.
+### Call Senators Feinstein and Harris and urge them to stand strong against the Trump Tax Scam.
 
 This plan isn’t “tax reform.” It’s tax cuts for the wealthy at the expense of our communities.
 
@@ -32,4 +32,4 @@ This plan isn’t “tax reform.” It’s tax cuts for the wealthy at the expen
 
 [3,969,800 California families](https://itep.org/senatetaxplan/) would see a tax increase
 
-### Text TAX SCAM to 977-79 to be connected with your Senators now! 
+**Text TAX SCAM to 977-79 to be connected with your Senators now!**
