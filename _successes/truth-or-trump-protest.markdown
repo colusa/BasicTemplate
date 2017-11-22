@@ -1,6 +1,6 @@
 ---
 title: Truth or Trump protest
-date: 2017-11-21 18:35:00 -08:00
+date: 2017-11-21 18:37:00 -08:00
 tags:
 - comey
 - russia
