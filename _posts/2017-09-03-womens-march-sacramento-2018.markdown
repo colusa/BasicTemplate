@@ -1,6 +1,6 @@
 ---
 title: Women's March Sacramento 2018
-date: 2017-09-03 10:25:00 -07:00
+date: 2017-09-03 09:00:00 -07:00
 categories:
 - event
 tags:
