@@ -24,6 +24,6 @@ call-script-text: |-
   **Caller:** Yes please do, and please take down my contact information so you can let me know what the Senator decides to do.
 ---
 
-Call Senators Feinstein and Harris and urge them to stand strong against the Trump Tax Scam.
+### Call Senators Feinstein and Harris and urge them to stand strong against the Trump Tax Scam.
 
 ### Text TAX SCAM to 977-79 to be connected with your Senators now! 
