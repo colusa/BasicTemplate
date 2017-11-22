@@ -1,5 +1,5 @@
 ---
-title: Fight Back Against Trump's Tax Scam
+title: Fight back against Trump's tax scam
 date: 2017-11-21 16:33:00 -08:00
 categories:
 - action
