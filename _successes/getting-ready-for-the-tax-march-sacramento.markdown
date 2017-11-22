@@ -7,6 +7,4 @@ position: 14
 main-image: "/uploads/Tax%20march%20signs.JPG"
 ---
 
-We've filed our tax returns, President Trump. Now show us yours.
-
-Indivisible Colusans are riding Indivisible Yolo's Protest-Party busto the Tax March Sacramento on April 15. Join us!  
+We've filed our tax returns, President Trump. Now show us yours. 
