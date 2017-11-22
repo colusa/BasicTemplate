@@ -1,6 +1,6 @@
 ---
 title: 'Tax Scam Day of Action: Davis'
-date: 2017-11-22 15:07:00 -08:00
+date: 2017-11-21 15:07:00 -08:00
 categories:
 - event
 tags:
