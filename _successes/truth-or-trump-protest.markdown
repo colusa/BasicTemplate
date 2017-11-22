@@ -10,7 +10,7 @@ position: 6
 main-image: "/uploads/IC%20protest%20Colusa%205-10-17.jpg"
 ---
 
-In what may have been the first political demonstration in Colusa County in decades (or ever), Independent Colusa members took to the streets to protest the firing of FBI Director James Comey, whose agency is investigating connections between Trump associates and Russian interference in the U.S. election. 
+MAY 2017. In what may have been the first political demonstration in Colusa County in decades (or ever), Independent Colusa members took to the streets to protest the firing of FBI Director James Comey, whose agency is investigating connections between Trump associates and Russian interference in the U.S. election. 
 
 On May 10, 2017, people across the country massed in front of their senators' offices at 5 pm local time to demand the appointment of an independent investigation committee or special prosecutor. We decided to stay local and demonstrated in front of the Colusa County Courthouse. If you missed this protest, stay tuned. There will be more. 
 
