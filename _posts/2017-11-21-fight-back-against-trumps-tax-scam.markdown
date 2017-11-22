@@ -11,9 +11,9 @@ call-script-text: |-
 
   **Caller:** Hello! My name is [___] and I’m calling from [part of state]. I’m calling to let [Senator __] know that I strongly oppose the Tax Cuts and Jobs Act. This tax bill is a scam that will give massive cuts to the wealthy, paid for by stripping 1.8 million Californians of their health care and raising taxes on nearly 4 million middle-class families.
 
-  **Staffer: **Thank you for calling! The Senator is against the Republican tax bill; she does not believe we should give a tax cut to the wealthy and corporations or strip people of their health insurance coverage.
+  **Staffer:** Thank you for calling! The Senator is against the Republican tax bill; she does not believe we should give a tax cut to the wealthy and corporations or strip people of their health insurance coverage.
 
-  **Caller: **That’s great. Will the Senator commit to withholding consent on votes in the Senate so that we have time to mobilize against this bill?
+  **Caller:** That’s great. Will the Senator commit to withholding consent on votes in the Senate so that we have time to mobilize against this bill?
 
   **Staffer:** I haven’t talked to the Senator about that, but I’ll pass your thoughts along.
 
@@ -26,4 +26,4 @@ call-script-text: |-
 
 Call Senators Feinstein and Harris and urge them to stand strong against the Trump Tax Scam.
 
-Text TAX SCAM to 977-79 to be connected with your Senators now! 
+### Text TAX SCAM to 977-79 to be connected with your Senators now! 
