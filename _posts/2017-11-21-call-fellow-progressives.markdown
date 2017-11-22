@@ -12,7 +12,7 @@ tags:
 We only have a few more days to stop the #TrumpTaxScam. The Senate is back in session on November 27 and they could pass this disgraceful bill within a few days. Your voice will be the difference in this fight. We need to make ***a ton of noise.*** 
 
 
-### This fight will come down to just a couple of swing Republican Senators. The time to take action is now. 
+### This fight will come down to just a couple of swing Republican Senators who haven't yet decided where they stand on the tax bill. The time for us to take action is now. 
 
 Indivisible has brought back a super effective peer-to-peer calling tool from the TrumpCare fight so those of us in blue states can contact progressive constituents in Alaska, Arizona and West Virginia. 
 
