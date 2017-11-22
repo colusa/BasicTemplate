@@ -9,7 +9,7 @@ tags:
 - trump
 ---
 
-We only have a few more days to stop the #TrumpTaxScam. The Senate is back in session on November 27 and they could pass this disgraceful bill within a few days. Your voice will be the difference in this fight. We need to make a ton of noise. 
+We only have a few more days to stop the #TrumpTaxScam. The Senate is back in session on November 27 and they could pass this disgraceful bill within a few days. Your voice will be the difference in this fight. We need to make ***a ton of noise.*** 
 
 
 ### This fight will come down to just a couple of swing Republican Senators. The time to take action is now. 
