@@ -9,10 +9,11 @@ main-image: "/uploads/23380166_363580237421280_4722211277222371001_n.jpg"
 event-start-date: 2018-01-20 10:00:00 -08:00
 event-end-date: 2018-01-20 15:00:00 -08:00
 Location: Southside Park, 2115 6th St., Sacramento, CA 95818
-RSVP-link: https://www.facebook.com/events/299702777200197/
 ---
 
-FROM THE WOMEN'S MARCH SACRAMENTO FACEBOOK EVENT POST: 
+FROM THE WOMEN'S MARCH SACRAMENTO FACEBOOK EVENT POST
+(https://www.facebook.com/events/299702777200197)
+ 
 Join us on Jan 20, 2018, as we march from Southside Park to the California State Capitol to build lasting and meaningful change.
 
 In 2017 we marched and made our voices heard. This year we expand our work to engage youth, uplift women leaders, advocate for gender equity and stand together against voter suppression and for fair protection of all human rights.
