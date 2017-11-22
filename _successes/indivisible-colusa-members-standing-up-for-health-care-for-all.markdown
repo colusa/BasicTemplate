@@ -1,6 +1,6 @@
 ---
 title: Indivisible Colusa members standing up for health care for all
-date: 2017-11-21 18:38:00 -08:00
+date: 2017-11-21 18:41:00 -08:00
 tags:
 - health care
 position: 21
