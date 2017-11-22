@@ -9,7 +9,7 @@ tags:
 main-image: "/uploads/Maddow2.jpg"
 ---
 
-On July 18, we visited Sen. Kamala Harris's Sacramento office to thank her and her staff for fighting the Republican's ACA repeal bill. Our little gratitude action got a Twitter shout out from MSNBC journalist Rachel Maddow. Thanks, Rachel, we love ya! And thank you, Metzer's Farm, for the gorgeous zinnias!
+JULY 2017. We visited Sen. Kamala Harris's Sacramento office to thank her and her staff for fighting the Republican's ACA repeal bill. Our little gratitude action got a Twitter shout out from MSNBC journalist Rachel Maddow. Thanks, Rachel, we love ya! And thank you, Metzer's Farm, for the gorgeous zinnias!
 
 ![IMG_0354.JPG](/uploads/IMG_0354.JPG)
 
