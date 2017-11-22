@@ -7,4 +7,4 @@ position: 21
 main-image: "/uploads/IC%20members.jpg"
 ---
 
-At Indivisible Colusa's March meeting, here are some of our  members looking forward to a healthier future. 
+MARCH 2017. At Indivisible Colusa's March meeting, looking forward to a healthier future. 
