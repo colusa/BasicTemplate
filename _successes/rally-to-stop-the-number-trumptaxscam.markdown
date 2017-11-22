@@ -1,5 +1,5 @@
 ---
-title: 'Rally to stop the #TrumpTaxScam'
+title: Rally to stop the GOP Tax Scam
 date: 2017-11-21 18:30:00 -08:00
 tags:
 - tax
