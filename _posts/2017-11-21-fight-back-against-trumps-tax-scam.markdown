@@ -7,8 +7,6 @@ tags:
 - tax
 - tax scam
 call-script-text: |-
-  **SAMPLE CALL SCRIPT**
-
   **Caller:** Hello! My name is [___] and I’m calling from [part of state]. I’m calling to let [Senator __] know that I strongly oppose the Tax Cuts and Jobs Act. This tax bill is a scam that will give massive cuts to the wealthy, paid for by stripping 1.8 million Californians of their health care and raising taxes on nearly 4 million middle-class families.
 
   **Staffer:** Thank you for calling! The Senator is against the Republican tax bill; she does not believe we should give a tax cut to the wealthy and corporations or strip people of their health insurance coverage.
