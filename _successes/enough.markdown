@@ -5,6 +5,7 @@ tags:
 - guns
 - gun reform
 - las vegas
+- Garamendi
 main-image: "/uploads/IMG_0936.JPG"
 ---
 
