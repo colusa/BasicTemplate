@@ -1,6 +1,6 @@
 ---
 title: Indivisible Colusa February Meeting
-date: 2017-12-22 21:00:00 -08:00
+date: 2017-12-22 22:00:00 -08:00
 categories:
 - event
 event-start-date: 2018-02-05 18:30:00 -08:00
