@@ -5,7 +5,6 @@ categories:
 - event
 tags:
 - women's march
-main-image: "/uploads/23380166_363580237421280_4722211277222371001_n.jpg"
 event-start-date: 2018-01-20 10:00:00 -08:00
 event-end-date: 2018-01-20 15:00:00 -08:00
 Location: Southside Park, 2115 6th St., Sacramento, CA 95818
