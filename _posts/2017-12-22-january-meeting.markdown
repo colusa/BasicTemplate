@@ -8,6 +8,7 @@ tags:
 event-start-date: 2018-01-08 18:30:00 -08:00
 event-end-date: 2018-01-08 20:00:00 -08:00
 Location: 528 Seventh St. (upstairs), Williams, CA
+RSVP-link: https://www.facebook.com/events/1183961261741401/?event_time_id=1183961301741397
 ---
 
 Come to our open meetings to learn about the Indivisible movement. We focus on local, defensive, Congressional advocacy by encouraging our Members of Congress in the Senate and House to listen to us and represent us.
