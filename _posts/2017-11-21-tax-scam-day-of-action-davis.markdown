@@ -1,6 +1,7 @@
 ---
 title: 'Tax Scam Protests: Davis & Woodland'
 date: 2017-11-21 15:07:00 -08:00
+published: false
 categories:
 - event
 tags:
