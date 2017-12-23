@@ -1,10 +1,10 @@
 ---
 title: Community Coffee with Indivisible Colusa
-date: 2017-09-03 10:25:00 -07:00
+date: 2017-12-22 23:45:00 -08:00
 categories:
 - event
-event-start-date: 2017-12-16 09:30:00 -08:00
-event-end-date: 2017-12-16 11:00:00 -08:00
+event-start-date: 2018-02-17 09:30:00 -08:00
+event-end-date: 2018-02-17 11:00:00 -08:00
 Location: Caffeinated, 538 Market St., Colusa, CA
 ---
 
