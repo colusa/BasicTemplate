@@ -16,4 +16,4 @@ Rumors are swirling that Donald Trump is preparing to take action to impede or e
 
 If that happens, thousands of peaceful protests will be taking place throughout the country - including here in Colusa County. Let's pray that these protests won't be necessary, but let's be prepared to speak up and stand together to protect our democracy. 
 
-Stay informed - pre-register here so you'll be notified if the protests occur. 
+[Stay informed - pre-register here so you'll be notified if the protests occur. ](https://act.moveon.org/event/mueller-firing-rapid-response-events/19153)
