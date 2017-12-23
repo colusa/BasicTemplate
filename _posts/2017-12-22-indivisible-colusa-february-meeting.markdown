@@ -3,6 +3,8 @@ title: Indivisible Colusa February Meeting
 date: 2017-12-22 21:00:00 -08:00
 categories:
 - event
+event-start-date: 2018-02-05 18:30:00 -08:00
+event-end-date: 2018-02-05 20:00:00 -08:00
 Location: 528 Seventh St. (upstairs), Williams, CA
 ---
 
