@@ -7,7 +7,7 @@ tags:
 - women's march
 event-start-date: 2018-01-20 10:00:00 -08:00
 event-end-date: 2018-01-20 15:00:00 -08:00
-Location: Carpool with us to the Women's March!
+Location: CARPOOL WITH US TO THE WOMEN'S MARCH!
 ---
 
 In 2017 we marched and made our voices heard. This January 20th, join us as we march again to reaffirm our commitment to building a positive and just future for all. 
