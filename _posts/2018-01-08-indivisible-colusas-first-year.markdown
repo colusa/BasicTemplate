@@ -1,5 +1,5 @@
 ---
-title: Watch our 2017 Year in Review video
+title: WATCH OUR 2017 YEAR IN REVIEW VIDEO
 date: 2018-01-08 15:41:00 -08:00
 ---
 
