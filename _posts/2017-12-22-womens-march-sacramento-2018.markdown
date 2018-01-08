@@ -23,4 +23,4 @@ Website: [**WomensMarchSac.com**](http://WomensMarchSac.com)
 Facebook: [**@womensmarchsac**](https://www.facebook.com/events/299702777200197)
 
 **SHARE A RIDE WITH INDIVISIBLE COLUSA!**
-We are organizing carpools to the Women's March Sacramento from Colusa, Williams and Arbuckle. To get a ride or offer a ride, [send us an email](mailto:indivisiblecolusa@gmail.com) and we'll get in touch to coordinate details. 
+We are organizing carpools to the Women's March Sacramento from Colusa, Williams and Arbuckle. To get a ride or offer a ride, [**send us an email**](mailto:indivisiblecolusa@gmail.com) and we'll get in touch to coordinate details. 
