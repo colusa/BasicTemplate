@@ -1,5 +1,5 @@
 ---
-title: Nobody Is Above the Law - Mueller Firing Rapid Response
+title: Nobody Is Above the Law - Rapid Response
 date: 2017-12-23 00:04:00 -08:00
 categories:
 - action
