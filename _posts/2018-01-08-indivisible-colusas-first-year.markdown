@@ -1,5 +1,5 @@
 ---
-title: Indivisible Colusa's First Year
+title: Watch our 2017 Year in Review video
 date: 2018-01-08 15:41:00 -08:00
 ---
 
