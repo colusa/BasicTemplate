@@ -10,17 +10,13 @@ event-end-date: 2018-01-20 15:00:00 -08:00
 Location: Southside Park, 2115 6th St., Sacramento, CA 95818
 ---
 
-FROM THE WOMEN'S MARCH SACRAMENTO [FACEBOOK EVENT POST](https://www.facebook.com/events/299702777200197)
- 
-Join us on Jan 20, 2018, as we march from Southside Park to the California State Capitol to build lasting and meaningful change.
+In 2017 we marched and made our voices heard. This January 20th, join us as we march again to reaffirm our commitment to building a positive and just future for all. 
 
-In 2017 we marched and made our voices heard. This year we expand our work to engage youth, uplift women leaders, advocate for gender equity and stand together against voter suppression and for fair protection of all human rights.
+Date: Saturday, January 20, 2018 from 10AM to 3PM
+Starting location: Southside Park, Sacramento
+Ending location: Capitol Building
+Website: [WomensMarchSac.com](http://WomensMarchSac.com)
+Facebook: [@womensmarchsac](https://www.facebook.com/events/299702777200197)
 
-We will gather at Southside Park between 6th and 8th Streets. From the Park, we will walk west on T Street to 5th Street, then north on 5th to Capitol Mall, then east to the Capitol building where the rally will convene on the West Steps.
-
-Although registration is not required to attend the march, we’re asking for marchers to register so we can have an accurate count to plan for proper accommodations.
-
-Visit [Women's March Sacramento Website](https://womensmarchsac.com/) for more event details.
-
-Your donations will make Women's March Sacramento possible:
-[https://goo.gl/qcL66k](https://goo.gl/qcL66k)
+**SHARE A RIDE WITH INDIVISIBLE COLUSA!**
+Indivisible Colusa is organizing carpools to the Women's March Sacramento from Colusa, Williams and Arbuckle. To get a ride or offer a ride, [send us an email](mailto:indivisiblecolusa@gmail.com) and we'll get in touch to coordinate details. 
