@@ -11,7 +11,7 @@ Location: The Lodge, 528 7th St. (upstairs), Williams, CA
 ---
 
 Join Indivisible Colusa for a Women's March Sacramento 
-## SIGN-MAKING HAPPY HOUR
+### SIGN-MAKING HAPPY HOUR
 Friday, Jan. 19, 5:30-6:30p 
 at The Lodge, 528 7th St. (upstairs), Williams
 
