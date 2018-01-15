@@ -5,6 +5,7 @@ categories:
 - event
 tags:
 - women's march
+main-image: "/uploads/Sign%20party-4887cb.jpg"
 event-start-date: 2018-01-19 17:30:00 -08:00
 event-end-date: 2018-01-19 18:30:00 -08:00
 Location: The Lodge, 528 7th St. (upstairs), Williams, CA
