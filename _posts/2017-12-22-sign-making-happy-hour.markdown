@@ -1,5 +1,5 @@
 ---
-title: Indivisible Colusa's Women's March Sacramento Sign-Making Happy Hour
+title: Women's March Sign-Making Happy Hour
 date: 2017-12-22 23:30:00 -08:00
 categories:
 - event
@@ -11,8 +11,8 @@ Location: The Lodge, 528 7th St. (upstairs), Williams, CA
 ---
 
 Join Indivisible Colusa for a Women's March Sacramento 
-# SIGN-MAKING HAPPY HOUR
+## SIGN-MAKING HAPPY HOUR
 Friday, Jan. 19, 5:30-6:30p 
 at The Lodge, 528 7th St. (upstairs), Williams
 
-Bring your own beverage and poster board. We'll supply the markers and snacks. You're welcome to bring a snack to share but not required. Family friendly. Note that The Lodge is on the second floor (no elevator). ![Sign party.jpg](/uploads/Sign%20party.jpg)
+Bring your own beverage and poster board. We'll supply the markers and snacks. You're welcome to bring a snack to share but not required. Family friendly. Note that The Lodge is on the second floor (no elevator).
