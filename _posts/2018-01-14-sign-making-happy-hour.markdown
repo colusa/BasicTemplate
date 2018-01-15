@@ -1,6 +1,8 @@
 ---
 title: Sign-Making Happy Hour
 date: 2018-01-14 17:47:00 -08:00
+categories:
+- event
 tags:
 - women's march
 event-start-date: 2018-01-19 17:30:00 -08:00
