@@ -9,7 +9,6 @@ tags:
 - special prosecutor
 - trump
 Location: Sidewalk at the corner of 10th and Market St., Colusa, CA
-RSVP-link: https://act.moveon.org/event/mueller-firing-rapid-response-events/19153
 ---
 
 Rumors are swirling that Donald Trump is preparing to take action to impede or end Robert Mueller’s investigation into Russian interference in the 2016 election and the extent to which Donald Trump and his associates were involved. 
