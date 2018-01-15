@@ -1,5 +1,5 @@
 ---
-title: Sign-Making Happy Hour
+title: Indivisible Colusa's Women's March Sacramento Sign-Making Happy Hour
 date: 2018-01-14 17:47:00 -08:00
 categories:
 - event
