@@ -1,5 +1,5 @@
 ---
-title: Thank our Members of Congress for voting to protect the Dreamers
+title: Thank our Members of Congress for voting to protect the Dreamers and fund CHIP
 date: 2018-01-21 22:07:00 -08:00
 categories:
 - action
