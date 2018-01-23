@@ -4,6 +4,9 @@ date: 2017-02-15 16:36:00 -08:00
 position: 1
 embed-code: '<iframe src="https://calendar.google.com/calendar/embed?src=indivisiblecolusa%40gmail.com&ctz=America/Los_Angeles"
   style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>'
+description: We are residents of Colusa County, CA working together to advocate for
+  inclusiveness, fairness, decency and participation in our country’s democratic processes.
+  We are committed to countering policies and rhetoric that oppose these values.
 layout: calendar
 ---
 
