@@ -7,7 +7,7 @@ tags:
 - Obamacare
 - Trumpcare
 - Senator Harris
-is featured: true
+is featured: false
 main-image: "/uploads/IMG_0282.JPG"
 ---
 
