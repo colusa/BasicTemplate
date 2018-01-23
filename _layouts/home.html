@@ -88,8 +88,7 @@ layout: default
             {% include success-blurb.html %}
           {% endfor %}
 
-  
-{% assign sorted = (site.successes| sort: 'date') | reverse %}  {% for item in sorted %}    <li>{{ item.title }}</li>     {% endfor %} <div class="pagination">
+  {% assign sorted = (site.successes| sort: 'date') | reverse %}  {% for successes_item in sorted %}    <li>{{ item.title }}</li>     {% endfor %} <div class="pagination">
             <a href="/successes.html" class="btn btn-link btn-flush ml-auto">More successes &rarr;</a>
           </div>
 
