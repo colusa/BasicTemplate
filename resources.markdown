@@ -1,8 +1,12 @@
 ---
-title: Indivisible Colusa in the News
+title: Media
 date: 2017-04-03 19:08:00 -07:00
 position: 2
 ---
+
+Media contact: Jennifer Roberts, [indivisiblecolusa@gmail.com](mailto:indivisiblecolusa@gmail.com)
+
+# Indivisible Colusa in the News
 
 ["Indivisible group protests Republican tax plan,"](http://williamspioneer.com/article/83848) Pioneer Review, 11/15/17
 
