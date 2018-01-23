@@ -5,6 +5,7 @@ tags:
 - tax
 - tax scam
 - TrumpTaxScam
+is featured: true
 main-image: "/uploads/Indi-Colusa%2011-10-17.JPG"
 ---
 
