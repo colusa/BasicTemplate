@@ -7,6 +7,6 @@ embed-code: '<iframe src="https://calendar.google.com/calendar/embed?src=indivis
 layout: calendar
 ---
 
-Indivisible Colusa's monthly meetings are the first Monday night from 6:30-8:00 PM at the Lodge, 528 Seventh St., Williams. If the first Monday is a holiday, we meet the second Monday. Our Monday night meetings typically feature a guest speaker as well as updates about local and national Indivisible priority actions. Our meetings are free and open to the public. Please note that our Williams meeting place is on the second floor with no elevator; we are searching for an accessible, centrally located meeting place. 
+Indivisible Colusa's monthly meetings are the first Monday night from 6:30-8:00 PM at the Lodge, 528 Seventh St., Williams. If the first Monday is a holiday, we meet the second Monday. Our meeting place is on the second floor with no elevator; we are searching for an accessible, centrally located meeting place. 
 
-We also have informal get-togethers over coffee on the third Saturday of the month from 9:30-11:00 AM at Caffeinated, 538 Market St., Colusa. Please join us - this is a great way to get to know locals who are committed to social justice and equality. 
+We also have informal get-togethers over coffee on the third Saturday of the month from 9:30-11:00 AM at Caffeinated, 538 Market St., Colusa. This is a great way to get to know locals who are committed to social justice and equality. 
