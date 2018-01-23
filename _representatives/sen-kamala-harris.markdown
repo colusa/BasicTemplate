@@ -1,8 +1,4 @@
 ---
-title: Sen Kamala Harris
----
-
----
 title: Senator Kamala Harris
 date: 2017-02-03 18:01:00 -08:00
 position: 2
@@ -15,3 +11,5 @@ phone-numbers:
   Los Angeles: "(213) 894-5000"
   San Diego: "(619) 239-3884"
 website: https://www.harris.senate.gov/
+---
+
