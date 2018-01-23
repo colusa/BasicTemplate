@@ -1,5 +1,5 @@
 ---
-title: Thank our Members of Congress for voting to protect the Dreamers and fund CHIP
+title: Thank Senators Feinstein and Harris for voting to protect the Dreamers
 date: 2018-01-21 22:07:00 -08:00
 categories:
 - action
@@ -12,6 +12,6 @@ tags:
 is featured: true
 ---
 
-The Republican Congress decided that shutting down the government was much better than negotiating with Democrats in good faith. This week, call Senators Feinstein and Harris and Representative Garamendi and thank them for voting NO on the continuing resolution and urge them to continue to do so until DACA is resolved and CHIP is funded.
+Call Senators Feinstein and Harris and thank them for voting NO on Monday's continuing resolution. Ask them to stay strong and keep pushing to pass the Dream Act.
 
 Want to know more about the GOP shutdown? [Check out this Indivisible explainer](https://www.indivisible.org/resource/happens-government-shutdown/). 
