@@ -32,7 +32,9 @@ layout: becomeAMember
 ---
 
 We are residents of Colusa County, CA working together to advocate for inclusiveness, fairness, decency and participation in our country's democratic processes. We are committed to countering policies and rhetoric that oppose these values. 
+
 ![California_county_map_(Colusa_County_highlighted)-small.jpg](/uploads/California_county_map_(Colusa_County_highlighted)-small.jpg)
+
 We are an all-volunteer group. Our actions are mostly focused on holding our Members of Congress - Senators Feinstein and Harris and Congressman Garamendi - accountable for listening to us and representing us in Washington. We use the grassroots advocacy tactics described in the [Indivisible Guide](http://indivisible.org/guide).
 
 Everyone who lives in Colusa County and agrees with this approach is welcome to join our group. Indivisible Colusa is nonpartisan. Our members come from all kinds of backgrounds. Most importantly, we are all patriots who want the best for our country and are willing to work for it.
