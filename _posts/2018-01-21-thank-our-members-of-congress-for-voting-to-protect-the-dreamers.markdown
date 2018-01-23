@@ -12,6 +12,6 @@ tags:
 is featured: true
 ---
 
-Call Senators Feinstein and Harris and thank them for voting NO on Monday's continuing resolution. Ask them to stay strong and keep pushing to pass the Dream Act.
+Call Senators Feinstein and Harris and thank them for voting NO on Monday's continuing resolution. Ask them to keep pushing to pass the Dream Act.
 
 Want to know more about the GOP shutdown? [Check out this Indivisible explainer](https://www.indivisible.org/resource/happens-government-shutdown/). 
