@@ -8,6 +8,7 @@ position: 2
 Jen Roberts, [indivisiblecolusa@gmail.com](mailto:indivisiblecolusa@gmail.com)
 
 
+
 ### Indivisible Colusa in the News
 
 ["Indivisible group protests Republican tax plan,"](http://williamspioneer.com/article/83848) Pioneer Review, 11/15/17
