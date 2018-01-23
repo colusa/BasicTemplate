@@ -6,8 +6,8 @@ position: 2
 
 ### Media Contact
 Jen Roberts, [indivisiblecolusa@gmail.com](mailto:indivisiblecolusa@gmail.com)
-
-
+ 
+ 
 
 ### Indivisible Colusa in the News
 
