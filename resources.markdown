@@ -15,11 +15,11 @@ We're a grassroots network of over 5,800 independent groups (at least two in eve
 
 ["Family fun had by all at Williams Pioneer Day,"](http://www.appeal-democrat.com/colusa_sun_herald/news/family-fun-had-by-all-at-williams-pioneer-day/article_07901ee0-4b21-11e7-90b5-d77195c45f75.html) Colusa Sun-Herald, 6/6/17. Indivisible Colusa had a booth at this community event and was quoted in this article.
 
-["Indivisible Colusa protests Trump's firing of FBI head,"](http://williamspioneer.com/article/81627) Williams Pioneer Review, 5/17/17
+["Indivisible Colusa protests Trump's firing of FBI head,"](http://williamspioneer.com/article/81627) Pioneer Review, 5/17/17
 
 ["Kidney donor could be denied healthcare,"](https://www.facebook.com/MicMedia/videos/1497155663640552/?pnref=story) Mic, 5/5/17. Features an Indivisible Colusa member.
 
-["Garamendi holds town hall meeting in Williams,"](http://williamspioneer.com/article/81896) Williams Pioneer Review, 4/26/17
+["Garamendi holds town hall meeting in Williams,"](http://williamspioneer.com/article/81896) Pioneer Review, 4/26/17
 
 ["Garamendi talks national security at town hall," ](http://www.appeal-democrat.com/colusa_sun_herald/garamendi-talks-national-security-at-town-hall/article_b1df8e94-270e-11e7-a34c-9397f8d26f98.html)Colusa Sun-Herald, 4/21/17
 
