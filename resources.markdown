@@ -1,10 +1,8 @@
 ---
-title: News
+title: Indivisible Colusa in the News
 date: 2017-04-03 19:08:00 -07:00
 position: 2
 ---
-
-### Indivisible Colusa in the News
 
 ["Indivisible group protests Republican tax plan,"](http://williamspioneer.com/article/83848) Pioneer Review, 11/15/17
 
