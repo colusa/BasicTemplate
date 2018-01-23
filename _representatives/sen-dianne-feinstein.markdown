@@ -1,8 +1,4 @@
 ---
-title: Sen Dianne Feinstein
----
-
----
 title: Senator Dianne Feinstein
 date: 2017-02-03 17:58:00 -08:00
 position: 1
@@ -13,3 +9,5 @@ phone-numbers:
   Los Angeles: "(310) 914-7300"
   San Diego: " (619) 231-9712"
 website: https://www.feinstein.senate.gov/public/
+---
+
