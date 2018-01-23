@@ -51,5 +51,3 @@ We're a grassroots network of over 5,800 independent groups (at least two in eve
 ](http://mailchi.mp/68bd896dd373/indicolusa_04262017-165609)
 
 [April 26, 2017](http://mailchi.mp/c0fc75d461b8/indicolusa_04262017)
-
-### Indivisible Colusa Flyer
