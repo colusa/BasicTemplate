@@ -24,30 +24,3 @@ We're a grassroots network of over 5,800 independent groups (at least two in eve
 ["Garamendi talks national security at town hall," ](http://www.appeal-democrat.com/colusa_sun_herald/garamendi-talks-national-security-at-town-hall/article_b1df8e94-270e-11e7-a34c-9397f8d26f98.html)Colusa Sun-Herald, 4/21/17
 
 ["New political group invites Garamendi to town hall,"](http://www.appeal-democrat.com/colusa_sun_herald/news/new-political-group-invites-garamendi-to-town-hall/article_8fde5f7a-24aa-11e7-8d12-bbf74ba4eee9.html) Colusa Sun-Herald, 4/18/17
-
-### Indivisible Colusa Newsletter
-
-[September 21, 2017](http://mailchi.mp/639bd8248457/indicolusa_04262017-406005)
-
-[September 18, 2017](http://mailchi.mp/e77fbd25fe1f/indicolusa_04262017-400193)
-
-[August 25, 2017](http://mailchi.mp/3afc7c8dedf3/indicolusa_04262017-379677)
-
-[August 9, 2017](http://mailchi.mp/97a11a10f541/indicolusa_04262017-368085)
-
-[August 1, 2017](http://mailchi.mp/b3c0992ce76f/indicolusa_04262017-349929)
-
-[July 17, 2017 ](http://mailchi.mp/2569f9ceb8cc/indicolusa_04262017-324865)
-
-[July 4, 2017](http://mailchi.mp/00091b5a12f0/indicolusa_04262017-301969)
-
-[June 19, 2017](http://mailchi.mp/cb477d9642d5/indicolusa_04262017-272377)
-
-[June 13, 2017](http://mailchi.mp/a73498fdf7c7/indicolusa_04262017-257509)
-
-[May 29, 2017](http://mailchi.mp/84eccc86cfb7/indicolusa_04262017-222181)
-
-[May 4, 2017
-](http://mailchi.mp/68bd896dd373/indicolusa_04262017-165609)
-
-[April 26, 2017](http://mailchi.mp/c0fc75d461b8/indicolusa_04262017)
