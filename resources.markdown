@@ -9,6 +9,8 @@ We're a grassroots network of over 5,800 independent groups (at least two in eve
 
 ### Indivisible Colusa in the News
 
+["Indivisible group protests Republican tax plan,"](http://williamspioneer.com/article/83848) Pioneer Review, 11/15/17
+
 ["Indivisible Colusa speaks out behind Affordable Care Act,"](http://www.appeal-democrat.com/colusa_sun_herald/news/indivisible-colusa-speaks-out-behind-affordable-care-act/article_36d6b680-7738-11e7-8f64-0b2e8edc8f81.html) Colusa Sun-Herald, 8/1/17
 
 [Indivisible Colusa's #KilltheBill action retweeted by MSNBC's Rachel Maddow,](https://twitter.com/maddow/status/887777091940429826) 7/19/17
