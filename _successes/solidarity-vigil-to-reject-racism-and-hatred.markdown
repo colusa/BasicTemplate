@@ -5,6 +5,7 @@ tags:
 - racism
 - white supremacy
 - charlottesville
+is featured: true
 main-image: "/uploads/FullSizeRender3.jpg"
 ---
 
