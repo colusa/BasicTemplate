@@ -37,4 +37,4 @@ We are an all-volunteer group. Our actions are mostly focused on holding our Mem
 
 Everyone who lives in Colusa County and agrees with this approach is welcome to join our group. Indivisible Colusa is nonpartisan. Our members come from all kinds of backgrounds. Most importantly, we are all patriots who want the best for our country and are willing to work for it.
 
-![California_county_map_(Colusa_County_highlighted).jpg](/uploads/California_county_map_(Colusa_County_highlighted).jpg)
+![California_county_map_(Colusa_County_highlighted)-small.jpg](/uploads/California_county_map_(Colusa_County_highlighted)-small.jpg)
