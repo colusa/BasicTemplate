@@ -7,17 +7,17 @@ mailchimp-form-embed: "<!-- Begin MailChimp Signup Form -->\n<link href=\"//cdn-
   clear:left; font:14px Helvetica,Arial,sans-serif; }\n\t/* Add your own MailChimp
   form style overrides in your site stylesheet or in this style block.\n\t   We recommend
   moving this block and the preceding CSS link to the HEAD of your HTML file. */\n</style>\n<div
-  id=\"mc_embed_signup\">\n<form action=\"//IndivisibleColusa.us15.list-manage.com/subscribe/post?u=c7ff6e4e1cb7f971de3d99bab&amp;id=a4183041ab\"
+  id=\"mc_embed_signup\">\n<form action=\"https://IndivisibleColusa.us15.list-manage.com/subscribe/post?u=c7ff6e4e1cb7f971de3d99bab&amp;id=a4183041ab\"
   method=\"post\" id=\"mc-embedded-subscribe-form\" name=\"mc-embedded-subscribe-form\"
   class=\"validate\" target=\"_blank\" novalidate>\n    <div id=\"mc_embed_signup_scroll\">\n\t\n<div
   class=\"indicates-required\"><span class=\"asterisk\">*</span> indicates required</div>\n<div
+  class=\"mc-field-group\">\n\t<label for=\"mce-FNAME\">First Name </label>\n\t<input
+  type=\"text\" value=\"\" name=\"FNAME\" class=\"\" id=\"mce-FNAME\">\n</div>\n<div
+  class=\"mc-field-group\">\n\t<label for=\"mce-LNAME\">Last Name </label>\n\t<input
+  type=\"text\" value=\"\" name=\"LNAME\" class=\"\" id=\"mce-LNAME\">\n</div>\n<div
   class=\"mc-field-group\">\n\t<label for=\"mce-EMAIL\">Email Address  <span class=\"asterisk\">*</span>\n</label>\n\t<input
   type=\"email\" value=\"\" name=\"EMAIL\" class=\"required email\" id=\"mce-EMAIL\">\n</div>\n<div
-  class=\"mc-field-group\">\n\t<label for=\"mce-FNAME\">First Name  <span class=\"asterisk\">*</span>\n</label>\n\t<input
-  type=\"text\" value=\"\" name=\"FNAME\" class=\"required\" id=\"mce-FNAME\">\n</div>\n<div
-  class=\"mc-field-group\">\n\t<label for=\"mce-LNAME\">Last Name  <span class=\"asterisk\">*</span>\n</label>\n\t<input
-  type=\"text\" value=\"\" name=\"LNAME\" class=\"required\" id=\"mce-LNAME\">\n</div>\n<div
-  class=\"mc-field-group\">\n\t<label for=\"mce-MMERGE3\">Zip Code  <span class=\"asterisk\">*</span>\n</label>\n\t<input
+  class=\"mc-field-group\">\n\t<label for=\"mce-MMERGE3\">ZIP Code  <span class=\"asterisk\">*</span>\n</label>\n\t<input
   type=\"text\" value=\"\" name=\"MMERGE3\" class=\"required\" id=\"mce-MMERGE3\">\n</div>\n\t<div
   id=\"mce-responses\" class=\"clear\">\n\t\t<div class=\"response\" id=\"mce-error-response\"
   style=\"display:none\"></div>\n\t\t<div class=\"response\" id=\"mce-success-response\"
@@ -26,8 +26,11 @@ mailchimp-form-embed: "<!-- Begin MailChimp Signup Form -->\n<link href=\"//cdn-
   style=\"position: absolute; left: -5000px;\" aria-hidden=\"true\"><input type=\"text\"
   name=\"b_c7ff6e4e1cb7f971de3d99bab_a4183041ab\" tabindex=\"-1\" value=\"\"></div>\n
   \   <div class=\"clear\"><input type=\"submit\" value=\"Subscribe\" name=\"subscribe\"
-  id=\"mc-embedded-subscribe\" class=\"button\"></div>\n    </div>\n</form>\n</div>\n\n<!--End
-  mc_embed_signup-->"
+  id=\"mc-embedded-subscribe\" class=\"button\"></div>\n    </div>\n</form>\n</div>\n<script
+  type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script
+  type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes
+  = new Array();fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[0]='EMAIL';ftypes[0]='email';fnames[3]='MMERGE3';ftypes[3]='zip';}(jQuery));var
+  $mcj = jQuery.noConflict(true);</script>\n<!--End mc_embed_signup-->"
 description: We are residents of Colusa County, CA working together to advocate for
   inclusiveness, fairness, decency and participation in our country’s democratic processes.
   We are committed to countering policies and rhetoric that oppose these values.
