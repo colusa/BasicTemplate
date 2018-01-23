@@ -2,6 +2,9 @@
 title: Media
 date: 2017-04-03 19:08:00 -07:00
 position: 3
+description: We are residents of Colusa County, CA working together to advocate for
+  inclusiveness, fairness, decency and participation in our country’s democratic processes.
+  We are committed to countering policies and rhetoric that oppose these values.
 ---
 
 ### Media Contact
