@@ -88,7 +88,7 @@ layout: default
             {% include success-blurb.html %}
           {% endfor %}
 
-  {% assign sorted_featured_successes = (site.successes| sort: 'date') | reverse %}  <div class="pagination">
+  {% assign sorted_featured_successes = (featured_successes| sort: 'date') | reverse %}  <div class="pagination">
             <a href="/successes.html" class="btn btn-link btn-flush ml-auto">More successes &rarr;</a>
           </div>
 
