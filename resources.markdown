@@ -53,13 +53,3 @@ We're a grassroots network of over 5,800 independent groups (at least two in eve
 [April 26, 2017](http://mailchi.mp/c0fc75d461b8/indicolusa_04262017)
 
 ### Indivisible Colusa Flyer
-
-[Indivisible Colusa Flyer.pdf](/uploads/Indivisible%20Colusa%20Flyer.pdf)
-
-Help spread the word about Indivisible Colusa.
-
-### CA-03 Resistance Groups Flyer
-
-[17-4 TownHall Handout ColorV3.pdf](/uploads/17-4%20TownHall%20Handout%20ColorV3.pdf)
-
-This flyer describes the Indivisible movement and lists Indivisible chapters and other resistance groups in California's third congressional district.
