@@ -6,6 +6,7 @@ tags:
 - love
 - immigration
 position: 1
+is featured: true
 main-image: "/uploads/IMG_0069.JPG"
 ---
 
