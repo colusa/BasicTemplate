@@ -1,5 +1,5 @@
 ---
-title: Calendar
+title: Events
 date: 2017-02-15 16:36:00 -08:00
 position: 1
 embed-code: '<iframe src="https://calendar.google.com/calendar/embed?src=indivisiblecolusa%40gmail.com&ctz=America/Los_Angeles"
