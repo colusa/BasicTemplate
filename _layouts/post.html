@@ -66,8 +66,8 @@ layout: default
           </div>
           <ul class="list-group list-group-flush">
             {% if page.event-start-date %}<li class="list-group-item">{{ page.event-start-date | date: "%A, %B %-d, %Y" }}</li>{% endif %}
-            {% if page.event-start-date %}<li class="list-group-item">{{ page.event-start-date | date: "%I: %M %p" }}</li>{% endif %}
-            {% if page.Location %}<li class="list-group-item">{{ page.Location | escape }}</li>{% endif %}
+            {% if page.event-start-date %}<li class="list-group-item">{{ page.event-start-date | date: "%I:%M %p" }}</li>{% endif %}
+ to {{ page.event-end-date | date: "%I:%M %p" }}</li>{% endif %}            {% if page.Location %}<li class="list-group-item">{{ page.Location | escape }}</li>{% endif %}
           </ul>
           {% if page.RSVP-link %}
           <div class="card-block">
