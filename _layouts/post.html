@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 ---
 
@@ -62,10 +62,10 @@ layout: default
       <div class="col-sm-5 col-md-4 col-lg-3">
         <div class="card">
           <div class="card-header bg-medium">
-            <strong>Date and time</strong>
+            <strong>Date, time and location</strong>
           </div>
           <ul class="list-group list-group-flush">
-            {% if page.event-start-date %}<li class="list-group-item">{{ page.event-start-date | date: "%B %-d, %Y" }}</li>{% endif %}
+            {% if page.event-start-date %}<li class="list-group-item">{{ page.event-start-date | date: "%A, %B %-d, %Y" }}</li>{% endif %}
             {% if page.event-start-date %}<li class="list-group-item">{{ page.event-start-date | date: "%r" }}</li>{% endif %}
             {% if page.Location %}<li class="list-group-item">{{ page.Location | escape }}</li>{% endif %}
           </ul>
