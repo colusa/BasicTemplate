@@ -10,6 +10,6 @@ description: We are residents of Colusa County, CA working together to advocate 
 layout: calendar
 ---
 
-**Indivisible Colusa meets the first Monday night of every month in Williams. **If the first Monday is a holiday, we meet the second Monday. Our meeting place is on the second floor with no elevator; we are searching for an accessible, centrally located meeting place. 
+**Indivisible Colusa meets the first Monday night of every month in Williams.** If the first Monday is a holiday, we meet the second Monday. Our meeting place is on the second floor with no elevator; we are searching for an accessible, centrally located meeting place. 
 
 **We also have informal get-togethers over coffee on the third Saturday morning of the month in Colusa.** This is a great way to get to know locals who are committed to social justice and equality. 
