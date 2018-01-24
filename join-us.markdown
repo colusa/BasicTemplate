@@ -37,7 +37,7 @@ description: We are residents of Colusa County, CA working together to advocate 
 layout: becomeAMember
 ---
 
- Indivisible Colusa members are residents of Colusa County, CA. Our group advocates for inclusiveness, fairness, decency and participation in our country's democratic processes. We are committed to countering policies and rhetoric that oppose these values. 
+Indivisible Colusa members are residents of Colusa County in rural Northern California. Our group advocates for inclusiveness, fairness, decency and participation in our country's democratic processes. We are committed to countering policies and rhetoric that oppose these values. 
 
 There are thousands of independent Indivisible groups across the country. [Find one near you](https://www.indivisible.org/act-locally/). 
 
