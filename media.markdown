@@ -14,6 +14,8 @@ Jen Roberts, [indivisiblecolusa@gmail.com](mailto:indivisiblecolusa@gmail.com)
 
 ### Indivisible Colusa in the News
 
+["Indivisible Colusa joins massive crowd at Sacramento Women's March,"](http://williamspioneer.com/article/85232) Pioneer Review, 1/24/18
+ 
 ["Indivisible group protests Republican tax plan,"](http://williamspioneer.com/article/83848) Pioneer Review, 11/15/17
 
 ["Indivisible Colusa speaks out behind Affordable Care Act,"](http://www.appeal-democrat.com/colusa_sun_herald/news/indivisible-colusa-speaks-out-behind-affordable-care-act/article_36d6b680-7738-11e7-8f64-0b2e8edc8f81.html) Colusa Sun-Herald, 8/1/17
