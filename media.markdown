@@ -24,7 +24,7 @@ Jen Roberts, [indivisiblecolusa@gmail.com](mailto:indivisiblecolusa@gmail.com)
 
 [Indivisible Colusa's #KilltheBill action retweeted by MSNBC's Rachel Maddow,](https://twitter.com/maddow/status/887777091940429826) 7/19/17
 
-["Three sides protest at Roseville intersection,"](http://fox40.com/2017/06/10/march-against-sharia-3-sides-protest-peacefully-at-roseville-intersection/) Fox 40, 6/10/17.
+["Three sides protest at Roseville intersection,"](http://fox40.com/2017/06/10/march-against-sharia-3-sides-protest-peacefully-at-roseville-intersection/) Fox 40, 6/10/17. Indivisible Colusa joins unity rally to stand in peaceful opposition to anti-Muslim hate group.
 
 ["Family fun had by all at Williams Pioneer Day,"](http://www.appeal-democrat.com/colusa_sun_herald/news/family-fun-had-by-all-at-williams-pioneer-day/article_07901ee0-4b21-11e7-90b5-d77195c45f75.html) Colusa Sun-Herald, 6/6/17. Indivisible Colusa had a booth at this community event and was quoted in this article.
 
