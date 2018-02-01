@@ -7,7 +7,6 @@ tags:
 - t-shirts
 - merchandise
 is featured: true
-main-image: "/uploads/Tshirt%20front-b32512.JPG"
 ---
 
 **Our fabulous Indivisible Colusa shirts and hoodies are back by popular demand**! We've added a unisex tank and unisex v-neck t-shirt, so we now have six styles in two colors. There's something for everyone. 
