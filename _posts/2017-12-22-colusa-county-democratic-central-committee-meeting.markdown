@@ -1,6 +1,6 @@
 ---
 title: Colusa County Democratic Central Committee Meeting
-date: 2018-02-01 14:43:00 -08:00
+date: 2017-12-22 21:30:00 -08:00
 categories:
 - event
 tags:
