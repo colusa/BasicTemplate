@@ -17,4 +17,4 @@ There's a kickoff meeting on February 8 to approve the committee's bylaws and el
 
 County committees drive the front-line efforts of the California Democratic Party: registering and educating voters, protecting the right to vote, and working to elect candidates who will fight for our values. Now is the time to get involved!
 
-More info: [colusacodcc@gmail.com](mailto:colusacodcc@gmail.com)
+Note: This is not an Indivisible Colusa event. For more info, email [colusacodcc@gmail.com](mailto:colusacodcc@gmail.com)
