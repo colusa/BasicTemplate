@@ -18,6 +18,6 @@ call-script-text: "My name is ______ and I am calling from zip code _______. \n\
   time the Continuing Resolution runs out?\n"
 ---
 
-Call Congressman Garamendi's office today. See below for a call script. 
+Please call Congressman Garamendi's office today. 
 
 To learn more about what you can do to fight this Administration's xenophobic, anti-immigrant positions, go to [indivisible.org/resources/immigration](http://indivisible.org/resources/immigration).
