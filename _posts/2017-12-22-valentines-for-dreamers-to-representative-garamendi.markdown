@@ -1,5 +1,5 @@
 ---
-title: Valentines for Dreamers to Representative Garamendi
+title: Valentines for Dreamers to Rep. Garamendi
 date: 2017-12-22 21:15:00 -08:00
 categories:
 - event
