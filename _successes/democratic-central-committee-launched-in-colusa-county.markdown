@@ -12,4 +12,4 @@ The first meeting of the Colusa County Democratic Central Committee was held on 
 
 County committees drive the front-line efforts of the California Democratic Party: registering and educating voters, protecting the right to vote, and working to elect candidates who will fight for our values. 
 
-Now is the time to get involved! For more info, email [colusacodcc@gmail.com](mailto:colusacodcc@gmail.com). 
+The Central Committee is separate from Indivisible Colusa, but many people are involved in both groups. Now is the time to get involved! For more info, email [colusacodcc@gmail.com](mailto:colusacodcc@gmail.com). 
