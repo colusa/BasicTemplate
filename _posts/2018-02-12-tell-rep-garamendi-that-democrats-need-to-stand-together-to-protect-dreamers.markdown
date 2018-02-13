@@ -13,7 +13,7 @@ call-script-text: "My name is ______ and I am calling from zip code _______. \n\
   Pelosi and the majority of Democrats in their fight for the Dreamers. The Democrats
   made a promise to fight for a clean Dream Act. But when they don't stand strong
   as a group, it's no surprise that they fail. \n\nMajority leader Paul Ryan won't
-  but a clean Dream Act up for a vote unless he is forced to do so. Can I trust Congressman
+  put a clean Dream Act up for a vote unless he is forced to do so. Can I trust Congressman
   Garamendi to stand with the rest of the Democrats to make sure this happens next
   time the Continuing Resolution runs out?\n"
 ---
