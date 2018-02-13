@@ -14,7 +14,7 @@ Location: Office of Congressman Garamendi, 412 G St., Davis, CA
 RSVP-link: https://www.facebook.com/events/165988660695078/
 ---
 
-Hosted by Indivisible Yolo. 
+This event is hosted by [Indivisible Yolo](https://www.facebook.com/events/165988660695078/). 
 
 WHAT: Deliver a valentine to Representative Garamendi in support of Dreamers and a clean Dream Act
 
