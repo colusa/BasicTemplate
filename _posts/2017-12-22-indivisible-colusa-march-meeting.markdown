@@ -3,6 +3,8 @@ title: Indivisible Colusa March Meeting with Special Guest Sonia Aery
 date: 2017-12-22 20:00:00 -08:00
 categories:
 - event
+tags:
+- sonia aery
 event-start-date: 2018-03-05 18:30:00 -08:00
 event-end-date: 2018-03-05 20:00:00 -08:00
 Location: 528 Seventh St. (upstairs), Williams, CA
