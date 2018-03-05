@@ -5,6 +5,6 @@ categories:
 - event
 event-start-date: 2018-04-02 18:30:00 -07:00
 event-end-date: 2018-04-02 20:00:00 -07:00
-Location: The Lodge, 528 7th St. (upstairs), Williams
+Location: The Lodge, 528 7th St. (upstairs), Williams, CA
 ---
 
