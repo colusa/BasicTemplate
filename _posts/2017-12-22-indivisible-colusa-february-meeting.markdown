@@ -2,6 +2,7 @@
 title: 'Indivisible Colusa February Meeting - Special Guests: Supervisor Denise Carter
   and community advocate Alex Morales'
 date: 2017-12-22 22:00:00 -08:00
+published: false
 categories:
 - event
 event-start-date: 2018-02-05 18:30:00 -08:00
