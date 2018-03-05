@@ -5,6 +5,9 @@ categories:
 - event
 tags:
 - sonia aery
+- ad3
+- assembly district 3
+- primary
 event-start-date: 2018-03-05 18:30:00 -08:00
 event-end-date: 2018-03-05 20:00:00 -08:00
 Location: 528 Seventh St. (upstairs), Williams, CA
