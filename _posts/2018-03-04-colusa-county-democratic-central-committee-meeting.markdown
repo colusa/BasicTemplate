@@ -7,7 +7,7 @@ tags:
 - democrat
 - democratic party
 - central committee
-event-start-date: 2018-04-26 00:00:00 -07:00
+event-start-date: 2026-04-01 01:00:00 -07:00
 Location: Details TBA
 ---
 
