@@ -1,5 +1,5 @@
 ---
-title: Indivisible Colusa County Monthly Meeting with Special Guest Sonia Aery
+title: Indivisible Colusa March Meeting - Special Guest Sonia Aery
 date: 2017-12-22 20:00:00 -08:00
 categories:
 - event
