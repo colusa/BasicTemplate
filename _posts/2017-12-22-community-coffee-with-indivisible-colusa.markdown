@@ -1,5 +1,5 @@
 ---
-title: Community Coffee with Indivisible Colusa
+title: Community Coffee with Indivisible Colusa County
 date: 2017-12-22 19:00:00 -08:00
 categories:
 - event
