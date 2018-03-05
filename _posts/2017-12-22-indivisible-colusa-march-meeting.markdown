@@ -12,7 +12,7 @@ Location: 528 Seventh St. (upstairs), Williams, CA
 
 Our monthly meetings include informal conversations with local leaders. This is a great opportunity to share values and priorities and find common ground. 
 
-In March, we're pleased to welcome [Sonia Aery](http://www.soniaforassembly.com/), who was recently endorsed by the California Democratic Party as a candidate for State Assembly District 3 in the June 5 primary. 
+**In March, we're pleased to welcome [Sonia Aery](http://www.soniaforassembly.com/), who was recently endorsed by the California Democratic Party as a candidate for State Assembly District 3 in the June 5 primary.**
 
 Our meetings are always free and open to the public. Please join us.
 
