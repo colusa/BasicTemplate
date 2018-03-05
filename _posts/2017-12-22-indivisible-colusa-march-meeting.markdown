@@ -1,5 +1,5 @@
 ---
-title: Indivisible Colusa March Meeting
+title: Indivisible Colusa March Meeting with Special Guest Sonia Aery
 date: 2017-12-22 20:00:00 -08:00
 categories:
 - event
@@ -8,10 +8,10 @@ event-end-date: 2018-03-05 20:00:00 -08:00
 Location: 528 Seventh St. (upstairs), Williams, CA
 ---
 
-Come to our open meetings to learn about the Indivisible movement. We focus on local, defensive, Congressional advocacy by encouraging our Members of Congress in the Senate and House to listen to us and represent us.
+Our monthly meetings include informal conversations with local leaders. This is a great opportunity to share values and priorities and find common ground. 
 
-We're a small, friendly group of Colusa County residents who work together to organize local political actions and events, participate in meetings with elected representatives, coordinate phone calls, and more.
+In March, we're pleased to welcome [Sonia Aery]![SoniaAery.png](/uploads/SoniaAery.png)(http://www.soniaforassembly.com/), who was recently endorsed by the California Democratic Party as a candidate for State Assembly District 3 in the June 5 primary. 
 
-We meet monthly on the first Monday of the month. Our meetings are always free and open to the public. 
+Our meetings are always free and open to the public. Please join us.
 
-Please note that our meeting place is on the second floor and there is no elevator. If that's a problem for you, please email us at [indivisiblecolusa@gmail.com](mailto:indivisiblecolusa@gmail.com) and we will try to find an accessible meeting place.
+Please note that our meeting place is on the second floor and there is no elevator. We're working on finding a centrally located, accessible meeting place.
