@@ -1,7 +1,7 @@
 ---
 title: Indivisible Colusa March Meeting - Special Guest Sonia Aery, Democratic Candidate
   for Assembly District 3
-date: 2017-12-22 20:00:00 -08:00
+date: 2018-03-03 16:30:00 -08:00
 categories:
 - event
 tags:
