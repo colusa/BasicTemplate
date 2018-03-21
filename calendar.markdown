@@ -17,6 +17,6 @@ description: "We are a grassroots group of Colusa County, CA neighbors who embra
 layout: calendar
 ---
 
-**Indivisible Colusa's main meetings are the first Monday night of every month in Williams.** If the first Monday is a holiday, we meet the second Monday. We typically spend the first half of the meeting in an informal conversation with a local leader, and the second half discussing what's been happening recently and what's coming up for the local and national Indivisible movement. Our meeting place is on the second floor with no elevator; we are searching for an accessible, centrally located meeting place. 
+**Indivisible Colusa's main meetings are the first Monday night of every month in Williams.** If the first Monday is a holiday, we meet the second Monday. We typically spend the first half of the meeting in an informal conversation with a local community leader, and the second half discussing what's been happening recently and what's coming up for the local and national Indivisible movement. Our meeting place is on the second floor with no elevator; we are searching for an accessible, centrally located meeting place. 
 
 **We also have informal get-togethers over coffee every Thursday morning in Arbuckle and on the third Saturday morning of the month in Colusa.** This is a great way to get to know locals who are committed to social justice and equality. 
