@@ -37,7 +37,7 @@ description: We are residents of Colusa County, CA working together to advocate 
 layout: becomeAMember
 ---
 
-We are a grassroots group of Colusa County, CA neighbors who embrace the American principles of compassion, decency, diversity, tolerance, equality and participation in our country's democratic processes. We are committed to countering policies and rhetoric that oppose these values. 
+Indivisible Colusa is a grassroots group of Colusa County, CA neighbors who embrace the American principles of compassion, decency, diversity, tolerance, equality and participation in our country's democratic processes. We are committed to countering policies and rhetoric that oppose these values. 
 
 ![California_county_map_(Colusa_County_highlighted)-small.jpg](/uploads/California_county_map_(Colusa_County_highlighted)-small.jpg)
 
