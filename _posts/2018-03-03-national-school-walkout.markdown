@@ -17,4 +17,4 @@ The National Student Walkout is a nationwide protest of our leaders’ failure t
 
 Together, we will send a message that we won’t tolerate any more inaction on this issue. And if cowardly politicians fail to act, young people will show them the consequences of letting so many Americans die by voting them out in November.
 
-[Find a National School Walkout](http://act.indivisible.org/event/national-school-walkout/))
+[Find a National School Walkout](http://act.indivisible.org/event/national-school-walkout/)
