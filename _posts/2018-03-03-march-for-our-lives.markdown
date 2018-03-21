@@ -1,5 +1,5 @@
 ---
-title: March for Our Lives
+title: March for Our Lives Chico
 date: 2018-03-03 16:00:00 -08:00
 categories:
 - event
@@ -8,7 +8,7 @@ tags:
 - schools
 - guns
 event-start-date: 2018-03-24 10:00:00 -07:00
-Location: Nationwide
+Location: Chico and Nationwide
 ---
 
 On March 24, the kids and families of March For Our Lives will take to the streets to demand that their lives and safety become a priority, and that we end gun violence in our schools and communities.
