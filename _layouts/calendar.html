@@ -1,5 +1,4 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
-<html><head></head><body>---
+---
 layout: default
 ---
 
@@ -37,7 +36,7 @@ layout: default
           {% assign curDate = site.time | date: '%s' %}
             {% for post in site.posts %}
             {% assign postStartDate = post.event-start-date | date: '%s' %}
-            {% if postStartDate &gt;= curDate %}
+            {% if postStartDate >= curDate %}
               {% include event-post-header.html %}
             {% endif %}
           {% endfor %}
@@ -65,9 +64,42 @@ layout: default
 
         <!-- PAST EVENTS -->
 
-        <div class="clearfix spacer"></div></div><!-- END ROW --></div>
+        <div class="clearfix spacer"></div>
+
+        <h5 class="mb-0">Past Events</h5>
+
+        {% unless site.categories.event | size > 0 %}
+          <hr class="mt-2 mb-2">
+          <p>No posts in {{ page.title | escape }} at this time.</p>
+        {% endunless %}
+
+        <div class="post-list">
+
+        {% assign curDate = site.time | date: '%s' %}
+          {% for post in site.posts %}
+          {% assign postStartDate = post.event-start-date | date: '%s' %}
+          {% if postStartDate <= curDate %}
+
+            {% include event-post-header.html %}
+
+          {% endif %}
+
+        {% endfor %}
+
+        </div><!-- END PAST EVENTS -->
+
+      </div> <!-- END LEFT COLUMN -->
+
+      <div class="col-sm-4">
+        <h5 class="mb-0">Suggest an Event</h5>
+        <hr class="mt-2 mb-2">
+        <p>Have an idea for an event? Want {{ site.title }} to co-host an event?</p>
+        <p><a class="btn btn-outline-primary" href="mailto:{{ site.email }}">Contact us</a></p>
+      </div>
+
+    </div><!-- END ROW -->
 
   </div><!-- END CONTAINER -->
 
   <div class="clearfix spacer"></div>
-  <div class="clearfix spacer"></div></body></html>
+  <div class="clearfix spacer"></div>
