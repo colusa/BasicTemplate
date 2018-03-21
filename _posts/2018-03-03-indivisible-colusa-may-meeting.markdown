@@ -1,6 +1,6 @@
 ---
 title: Indivisible Colusa May Meeting
-date: 2018-03-03 14:30:00 -08:00
+date: 2018-03-03 13:00:00 -08:00
 categories:
 - event
 event-start-date: 2018-05-07 18:30:00 -07:00
