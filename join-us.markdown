@@ -43,6 +43,6 @@ Indivisible Colusa is a grassroots group of Colusa County, CA neighbors who embr
 
 Our actions are mostly focused on holding our elected representatives accountable for listening to us and representing us locally, in Sacramento and in Washington, D.C. We use the grassroots advocacy tactics described in the [Indivisible Guide](http://www.indivisible.org).
 
-Everyone who lives in or near Colusa County and agrees with this approach is welcome to join our group. We’re an all-volunteer group and we have no dues or membership obligations. To connect with us, come to a meeting, message us via Facebook or email us at indivisiblecolusa@gmail.com.
+Everyone who lives in or near Colusa County and agrees with this approach is welcome to join our group. We’re an all-volunteer group and we have no dues or membership obligations. To connect with us, come to a meeting, message us via Facebook or [email us](mailto:indivisiblecolusa@gmail.com).
 
 There are thousands of independent Indivisible groups across the country. [Find one near you](https://www.indivisible.org/act-locally/). 
