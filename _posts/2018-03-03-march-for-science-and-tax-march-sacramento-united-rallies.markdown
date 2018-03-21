@@ -1,6 +1,6 @@
 ---
 title: March for Science and Tax March Sacramento - United Rallies
-date: 2018-03-03 15:15:00 -08:00
+date: 2018-03-03 14:45:00 -08:00
 categories:
 - event
 tags:
