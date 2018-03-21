@@ -1,11 +1,11 @@
 ---
 title: Arbuckle Weekly Action Coffee
-date: 2018-03-20 14:45:00 -07:00
+date: 2018-03-02 14:45:00 -08:00
 categories:
 - event
 tags:
 - arbuckle
-main-image: "/uploads/event-icon.png"
+main-image: "/uploads/map_of_arbuckle_ca-ed2f3b.jpg"
 event-start-date: 2018-04-05 09:00:00 -07:00
 event-end-date: 2018-04-05 10:00:00 -07:00
 Location: Rise & Grind, 208 5th St., Arbuckle, CA
