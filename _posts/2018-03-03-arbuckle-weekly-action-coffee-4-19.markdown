@@ -5,7 +5,6 @@ categories:
 - event
 tags:
 - arbuckle
-main-image: "/uploads/map_of_arbuckle_ca-ed2f3b.jpg"
 event-start-date: 2018-04-19 09:00:00 -07:00
 event-end-date: 2018-04-19 10:00:00 -07:00
 Location: Rise & Grind, 208 5th St., Arbuckle, CA
