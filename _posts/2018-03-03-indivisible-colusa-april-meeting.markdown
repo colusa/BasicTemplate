@@ -1,5 +1,5 @@
 ---
-title: Indivisible Colusa April Meeting
+title: Indivisible Colusa April Meeting with Special Guest Dillon Horton
 date: 2018-03-03 15:00:00 -08:00
 categories:
 - event
