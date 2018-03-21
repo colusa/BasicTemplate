@@ -15,10 +15,4 @@ It's time to follow the lead of America's youth and take to the streets to deman
 
 Want to carpool with us from Colusa County to Chico? [Send us an email](mailto:indivisiblecolusa@gmail.com)!
 
-On March 24, the kids and families of March For Our Lives will take to the streets to demand that their lives and safety become a priority, and that we end gun violence in our schools and communities.
-
-
-
-
-[Join the March for Our Lives event near you](https://marchforourlives.com). 
-![march-for-our-lives-sac-wide-white.jpg](/uploads/march-for-our-lives-sac-wide-white.jpg)
+March for Our Lives is happening in hundreds of cities across the country. [Join the March for Our Lives event near you](https://marchforourlives.com). 
