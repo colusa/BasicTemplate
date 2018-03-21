@@ -7,7 +7,7 @@ tags:
 - gun control
 - schools
 - guns
-main-image: "/uploads/event-icon.png"
+main-image: "/uploads/event-icon2.png"
 event-start-date: 2018-03-24 11:00:00 -07:00
 Location: Chico and Nationwide
 ---
