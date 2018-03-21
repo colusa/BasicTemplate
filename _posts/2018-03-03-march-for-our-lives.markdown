@@ -1,6 +1,6 @@
 ---
 title: March for Our Lives
-date: 2018-03-04 18:02:00 -08:00
+date: 2018-03-03 16:00:00 -08:00
 categories:
 - event
 tags:
