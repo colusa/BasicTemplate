@@ -15,4 +15,4 @@ It's time to follow the lead of America's youth and take to the streets to deman
 
 Want to carpool with us from Colusa County to Chico? [Send us an email](mailto:indivisiblecolusa@gmail.com)!
 
-March for Our Lives is happening in hundreds of cities across the country. [Join the March for Our Lives event near you](https://marchforourlives.com). 
+March for Our Lives is happening in hundreds of cities across the country. [Join the March for Our Lives near you](https://marchforourlives.com). 
