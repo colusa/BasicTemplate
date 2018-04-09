@@ -9,6 +9,6 @@ tags:
 - central committee
 event-start-date: 2018-04-26 18:30:00 -07:00
 event-end-date: 2018-04-26 19:30:00 -07:00
-Location: Details to be announced
+Location: Roundtable Pizza, 1031 Bridge St., Colusa, CA
 ---
 
