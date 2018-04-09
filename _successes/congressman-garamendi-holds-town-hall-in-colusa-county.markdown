@@ -1,6 +1,6 @@
 ---
 title: Congressman Garamendi holds Town Hall in Colusa County
-date: 2017-01-21 14:32:00 -08:00
+date: 2017-01-21 14:00:00 -08:00
 tags:
 - Garamendi
 - town hall
