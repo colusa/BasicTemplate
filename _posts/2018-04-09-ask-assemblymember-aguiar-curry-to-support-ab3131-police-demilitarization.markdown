@@ -18,6 +18,7 @@ Ms. Aguiar-Curry represents Assembly District 4, which  includes Arbuckle and Wi
 
 **Assemblymember Aguiar-Curry's Sacramento office: (916) 319-2004**
 
+
 **Here's a simple call script:**
 
 Hi, my name is <YOUR NAME> and I am from <YOUR TOWN>. 
