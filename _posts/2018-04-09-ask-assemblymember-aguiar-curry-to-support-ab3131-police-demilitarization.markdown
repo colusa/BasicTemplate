@@ -16,7 +16,7 @@ call-script-text: "Hi, my name is <YOUR NAME> and I am from <YOUR TOWN>. \n\nI a
   arming our police with military equipment. \n\nThank you. "
 ---
 
-**Assemblymember Aguiar-Curry's Sacramento office: (916) 319-2004**
+**Assemblymember Aguiar-Curry's Sacramento office: [(916) 319-2004](tel:9163192004)**
 
 ## BACKGROUND
 **Call Assemblymember Cecilia Aguiar-Curry's office before April 18 to urge her to support Assembly Bill 3131.** This Police Demilitarization bill would require open hearings before local law enforcement can acquire tanks and other military equipment. 
