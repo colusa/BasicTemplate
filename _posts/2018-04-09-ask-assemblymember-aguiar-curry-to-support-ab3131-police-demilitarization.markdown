@@ -10,13 +10,13 @@ tags:
 is featured: true
 ---
 
-Call Assemblymember Cecilia Aguiar-Curry's office before April 18 to urge her to support Assembly Bill 3131. This Police Demilitarization bill would require open hearings before local law enforcement can acquire tanks and other military equipment. 
+**Call Assemblymember Cecilia Aguiar-Curry's office before April 18 to urge her to support Assembly Bill 3131.** This Police Demilitarization bill would require open hearings before local law enforcement can acquire tanks and other military equipment. 
 
 Ms. Aguiar-Curry represents Assembly District 4, which  includes Arbuckle and Williams. We're asking residents of District 4 to call her because she leads the Assembly's Local Government Committee, which will be hearing this bill on April 18. 
 
 [You can learn more about AB3131 here. ](https://www.aclunc.org/our-work/legislation/police-militarization-ab-3131)
 
-Assemblymember Aguiar-Curry's Sacramento office: (916) 319-2004
+**Assemblymember Aguiar-Curry's Sacramento office: (916) 319-2004**
 
 **Here's a simple call script:**
 
