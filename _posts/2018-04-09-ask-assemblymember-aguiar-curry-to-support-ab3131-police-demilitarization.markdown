@@ -7,7 +7,7 @@ tags:
 - ab3131
 - aguiar-curry
 - police demilitarization
-is featured: true
+is featured: false
 call-script-text: "Hi, my name is [YOUR NAME] and I am from [YOUR TOWN]. \n\nI am
   calling to ask Assemblymember Aguiar-Curry to support the Police Demilitarization
   bill, AB3131. \n\nThis bill would require law enforcement to hold open hearings
