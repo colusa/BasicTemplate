@@ -4,6 +4,7 @@ date: 2017-01-21 14:32:00 -08:00
 tags:
 - Garamendi
 - town hall
+main-image: "/uploads/SM-Garamendi--696x464-983703.png"
 ---
 
-[![SM-Garamendi--696x464-614735.png](/uploads/SM-Garamendi--696x464-614735.png)](http://williamspioneer.com/article/86193)
+Representative Garamendi held a Town Hall meeting in Williams on March 29, 2018. 
