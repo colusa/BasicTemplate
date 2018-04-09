@@ -27,7 +27,7 @@ Ms. Aguiar-Curry represents Assembly District 4, which  includes Arbuckle and Wi
 
 **Here's a simple call script:**
 
-Hi, my name is <YOUR NAME> and I am from <YOUR TOWN>. 
+Hi, my name is [YOUR NAME] and I am from [YOUR TOWN]. 
 
 I am calling to ask Assemblymember Aguiar-Curry to support the Police Demilitarization bill, AB3131. 
 
