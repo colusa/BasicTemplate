@@ -14,6 +14,10 @@ Jen Roberts, [indivisiblecolusa@gmail.com](mailto:indivisiblecolusa@gmail.com)
 
 ### Indivisible Colusa in the News
 
+[![SM-Garamendi--696x464.png](/uploads/SM-Garamendi--696x464.png)](http://williamspioneer.com/article/86193)
+
+[Garamendi spends day in the district](http://williamspioneer.com/article/86193), Pioneer Review, 4/4/2018
+
 ["Indivisible Colusa joins massive crowd at Sacramento Women's March,"](http://williamspioneer.com/article/85232) Pioneer Review, 1/24/18
  
 ["Indivisible Colusa members join Women's March in Sacramento," ](http://www.appeal-democrat.com/colusa_sun_herald/news/indivisible-colusa-members-join-women-s-march-in-sacramento/article_c0f1d440-00d0-11e8-a2e8-cbd515fe69d9.html)Colusa-Sun Herald, 1/23/18 
