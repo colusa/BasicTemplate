@@ -16,6 +16,7 @@ RSVP-link: https://www.facebook.com/events/592332697808397/
 ---
 
 ![SB54 postcard announcement small.jpg](/uploads/SB54%20postcard%20announcement%20small.jpg)
+
 STAND UP FOR SAFER COMMUNITIES FOR ALL!
 
 California's "sanctuary state" law is under attack by anti-immigrant groups and politicians. Write postcards with us on Tuesday night to tell our local elected officials we support this humane law that helps make our communities safer.
