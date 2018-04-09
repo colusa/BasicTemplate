@@ -8,6 +8,12 @@ tags:
 - aguiar-curry
 - police demilitarization
 is featured: true
+call-script-text: "Hi, my name is <YOUR NAME> and I am from <YOUR TOWN>. \n\nI am
+  calling to ask Assemblymember Aguiar-Curry to support the Police Demilitarization
+  bill, AB3131. \n\nThis bill would require law enforcement to hold open hearings
+  anytime they want to acquire military equipment like tanks. \n\nOur neighborhoods
+  are not war zones, and communities have a right to be involved in decisions about
+  arming our police with military equipment. \n\nThank you. "
 ---
 
 **Call Assemblymember Cecilia Aguiar-Curry's office before April 18 to urge her to support Assembly Bill 3131.** This Police Demilitarization bill would require open hearings before local law enforcement can acquire tanks and other military equipment. 
