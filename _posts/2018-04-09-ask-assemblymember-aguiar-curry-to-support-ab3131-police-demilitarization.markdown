@@ -16,7 +16,6 @@ call-script-text: "Hi, my name is [YOUR NAME] and I am from [YOUR TOWN]. \n\nI a
   arming our police with military equipment. \n\nThank you. "
 ---
 
-### BACKGROUND
 **Call Assemblymember Cecilia Aguiar-Curry's office before April 18 to urge her to support Assembly Bill 3131.** This Police Demilitarization bill would require open hearings before local law enforcement can acquire tanks and other military equipment. 
 
 Ms. Aguiar-Curry represents Assembly District 4, which  includes Arbuckle and Williams. We're asking residents of District 4 to call her because she leads the Assembly's Local Government Committee, which will be hearing this bill on April 18. 
