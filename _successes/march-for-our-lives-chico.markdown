@@ -1,6 +1,6 @@
 ---
 title: March for Our Lives Chico
-date: 2018-04-09 14:17:00 -07:00
+date: 2017-01-21 14:17:00 -08:00
 tags:
 - guns
 - gun reform
