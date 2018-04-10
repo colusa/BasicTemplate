@@ -20,7 +20,7 @@ call-script-text: "Hi, my name is [YOUR NAME] and I am from [YOUR TOWN]. \n\nI a
 
 Ms. Aguiar-Curry represents Assembly District 4, which  includes Arbuckle and Williams. We're asking residents of District 4 to call her because she leads the Assembly's Local Government Committee, which will be hearing this bill on April 18. 
 
-[You can learn more about AB3131 here. ](https://www.aclunc.org/our-work/legislation/police-militarization-ab-3131)
+You can learn more about AB3131 here: [www.aclunc.org/our-work/legislation/police-militarization-ab-3131](https://www.aclunc.org/our-work/legislation/police-militarization-ab-3131)
 
 **Assemblymember Aguiar-Curry's Sacramento office: [(916) 319-2004](tel:916-319-2004)**
 
