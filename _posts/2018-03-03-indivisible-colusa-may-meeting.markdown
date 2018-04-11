@@ -1,5 +1,6 @@
 ---
-title: Indivisible Colusa May Meeting with special guests from Sister District-CA3
+title: Indivisible Colusa May Meeting -including a conversation with leaders from
+  the Sister District Project
 date: 2018-03-03 13:00:00 -08:00
 categories:
 - event
@@ -7,6 +8,10 @@ event-start-date: 2018-05-07 18:30:00 -07:00
 event-end-date: 2018-05-07 20:00:00 -07:00
 Location: The Lodge, 528 7th St. (upstairs), Williams, CA
 ---
+
+At our May meeting, we'll be joined by leaders of Sister District-CA3 for a conversation about how our group might work together to support progressive policies and candidates in our region. 
+
+Learn more about the [Sister District Project](https://www.sisterdistrict.com/).
 
 Indivisible Colusa’s monthly meetings are always free and open to the public. Typically we spend about half the meeting in an informal conversation with a local community leader, and the other half discussing recent accomplishments, upcoming activities and developments in the Indivisible movement. 
 
