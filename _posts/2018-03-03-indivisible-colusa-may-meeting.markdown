@@ -4,6 +4,8 @@ title: Indivisible Colusa May Meeting -including a conversation with leaders fro
 date: 2018-03-03 13:00:00 -08:00
 categories:
 - event
+tags:
+- sister district
 event-start-date: 2018-05-07 18:30:00 -07:00
 event-end-date: 2018-05-07 20:00:00 -07:00
 Location: The Lodge, 528 7th St. (upstairs), Williams, CA
