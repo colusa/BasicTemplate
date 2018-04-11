@@ -1,5 +1,5 @@
 ---
-title: Indivisible Colusa May Meeting
+title: Indivisible Colusa May Meeting with special guests from Sister District-CA3
 date: 2018-03-03 13:00:00 -08:00
 categories:
 - event
