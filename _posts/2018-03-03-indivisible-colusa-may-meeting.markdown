@@ -9,7 +9,7 @@ event-end-date: 2018-05-07 20:00:00 -07:00
 Location: The Lodge, 528 7th St. (upstairs), Williams, CA
 ---
 
-At our May meeting, we'll be joined by leaders of Sister District-CA3 for a conversation about how our group might work together to support progressive policies and candidates in our region. 
+At our May meeting, we'll be joined by leaders of the local volunteer group, Sister District-CA3. We'll hear about their efforts to unseat Representative Tom McClintock (Congressional District 4). And we'll share ideas about how our groups might work together to support progressive policies and candidates in our region. 
 
 Learn more about the [Sister District Project](https://www.sisterdistrict.com/).
 
