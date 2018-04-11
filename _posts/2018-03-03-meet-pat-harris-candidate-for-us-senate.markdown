@@ -15,4 +15,6 @@ Meet U.S. Senate Candidate Pat Harris in Colusa County!
 
 Join Pat Harris at a meet and greet hosted by Indivisible Colusa and the Colusa County Democratic Central Committee. 
 
+This is a free informational event open to the public. Neither of the host group has endorsed any candidate.
+
 [Information about Pat Harris. ](https://patharrisforsenate.com/)
