@@ -1,6 +1,7 @@
 ---
 title: National School Walkout
 date: 2018-03-03 14:30:00 -08:00
+published: false
 categories:
 - event
 tags:
