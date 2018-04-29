@@ -14,12 +14,8 @@ Location: 'NEW LOCATION: Colusa Main Library, Morse Conference Room, 738 Market 
 
 NEW LOCATION: COLUSA MAIN LIBRARY, Morse Conference Room, 738 Market St., Colusa
 
-At our May meeting, we'll be joined by leaders of a local volunteer group, Sister District-CA3. We'll hear about their efforts to unseat Representative Tom McClintock (Congressional District 4). And we'll share ideas about how our groups might work together to support progressive policies and candidates in our region. 
+At our May meeting, we'll hear from leaders of the resistance group, Sister District-CA3, about their efforts to unseat Representative Tom McClintock. And we'll share ideas about how our groups might work together to support progressive policies and candidates in our region. 
 
-Learn more about the [Sister District Project](https://www.sisterdistrict.com/).
+We'll also provide a brief voter registration training. There's an election coming up on June 5 - you can make a difference by registering voters, reminding people to vote, and sending postcards to voters. It's easy! Come to our meeting and we'll walk you through it. 
 
-Indivisible Colusa’s monthly meetings are always free and open to the public. Typically we spend about half the meeting in an informal conversation with a local community leader, and the other half discussing recent accomplishments, upcoming activities and developments in the Indivisible movement. 
-
-The guest speaker for our May meeting will be announced shortly. 
-
-Indivisible Colusa County is a nonpartisan grassroots group of neighbors who embrace the American values of compassion, decency, diversity, tolerance, equality and democracy.
+Indivisible Colusa’s monthly meetings are always free and open to the public. Indivisible Colusa County is a nonpartisan grassroots group of neighbors who embrace the American values of compassion, decency, diversity, tolerance, equality and democracy. 
