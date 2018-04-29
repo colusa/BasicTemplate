@@ -1,6 +1,6 @@
 ---
-title: Indivisible Colusa May Meeting -including a conversation with the Sister District
-  Project
+title: Indivisible Colusa May Meeting -  Sister District Project, voter registration
+  training & more
 date: 2018-03-03 13:00:00 -08:00
 categories:
 - event
@@ -8,8 +8,11 @@ tags:
 - sister district
 event-start-date: 2018-05-07 18:30:00 -07:00
 event-end-date: 2018-05-07 20:00:00 -07:00
-Location: The Lodge, 528 7th St. (upstairs), Williams, CA
+Location: 'NEW LOCATION: Colusa Main Library, Morse Conference Room, 738 Market St.,
+  Colusa'
 ---
+
+NEW LOCATION: COLUSA MAIN LIBRARY, Morse Conference Room, 738 Market St., Colusa
 
 At our May meeting, we'll be joined by leaders of a local volunteer group, Sister District-CA3. We'll hear about their efforts to unseat Representative Tom McClintock (Congressional District 4). And we'll share ideas about how our groups might work together to support progressive policies and candidates in our region. 
 
