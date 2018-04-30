@@ -1,6 +1,6 @@
 ---
 title: Postcards to Voters Parties
-date: 2018-04-29 21:55:00 -07:00
+date: 2018-01-21 14:15:00 -08:00
 tags:
 - postcards
 - conor lamb
