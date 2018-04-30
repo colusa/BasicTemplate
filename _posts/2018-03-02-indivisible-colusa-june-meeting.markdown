@@ -5,7 +5,7 @@ categories:
 - event
 event-start-date: 2018-06-04 18:30:00 -07:00
 event-end-date: 2018-03-04 20:00:00 -08:00
-Location: 'New location : Colusa Main Library, Morse Conference Room, 738 Market St.,
+Location: 'NEW LOCATION: Colusa Main Library, Morse Conference Room, 738 Market St.,
   Colusa, CA '
 ---
 
