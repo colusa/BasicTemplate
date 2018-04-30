@@ -5,7 +5,8 @@ categories:
 - event
 event-start-date: 2018-06-04 18:30:00 -07:00
 event-end-date: 2018-03-04 20:00:00 -08:00
-Location: The Lodge, 528 7th St. (upstairs), Williams, CA
+Location: 'New location : Colusa Main Library, Morse Conference Room, 738 Market St.,
+  Colusa, CA '
 ---
 
 We need all hands on deck, folks! The next five months will be critical for growing the blue wave in California and nationwide. Come learn about the Indivisible movement, meet other progressive-leaning locals, and find out how you can get involved. 
