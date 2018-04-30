@@ -1,5 +1,5 @@
 ---
-title: Urge Senators Feinstein and Harris to oppose Haspel's nomination
+title: 'Week of April 30: Urge Your Senators to oppose Haspel''s nomination'
 date: 2018-04-29 20:46:00 -07:00
 categories:
 - action
