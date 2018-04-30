@@ -1,6 +1,6 @@
 ---
 title: Postcards to Voters Party - Janz for Congress
-date: 2018-04-29 09:00:00 -07:00
+date: 2018-04-29 09:30:00 -07:00
 categories:
 - event
 tags:
