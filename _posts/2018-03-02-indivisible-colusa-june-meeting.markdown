@@ -8,8 +8,6 @@ event-end-date: 2018-03-04 20:00:00 -08:00
 Location: The Lodge, 528 7th St. (upstairs), Williams, CA
 ---
 
-Indivisible Colusa’s monthly meetings are always free and open to the public. Typically we spend about half the meeting in an informal conversation with a local community leader, and the other half discussing recent accomplishments, upcoming activities and developments in the Indivisible movement. 
+We need all hands on deck, folks! The next five months will be critical for growing the blue wave in California and nationwide. Come learn about the Indivisible movement, meet other progressive-leaning locals, and find out how you can get involved. 
 
-The guest speaker for our June meeting will be announced shortly. 
-
-Indivisible Colusa County is a nonpartisan grassroots group of neighbors who embrace the American values of compassion, decency, diversity, tolerance, equality and democracy.
+Indivisible Colusa’s monthly meetings are always free and open to the public. Indivisible Colusa County is a nonpartisan grassroots group of neighbors who embrace the American values of compassion, decency, diversity, tolerance, equality and democracy.
