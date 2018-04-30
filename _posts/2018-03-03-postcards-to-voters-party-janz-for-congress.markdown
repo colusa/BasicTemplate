@@ -1,6 +1,6 @@
 ---
 title: Postcards to Voters Party - Janz for Congress
-date: 2018-04-29 17:32:00 -07:00
+date: 2018-03-03 12:55:00 -08:00
 categories:
 - event
 tags:
@@ -8,6 +8,8 @@ tags:
 - devin nunes
 - vote
 - GOTV
+event-start-date: 2018-05-14 18:00:00 -07:00
+event-end-date: 2018-05-14 20:00:00 -07:00
 Location: Roundtable Pizza's party room, 1031 Bridge St., Colusa, CA
 ---
 
