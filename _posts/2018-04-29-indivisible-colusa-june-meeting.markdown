@@ -1,6 +1,6 @@
 ---
 title: Indivisible Colusa June Meeting
-date: 2018-03-02 17:30:00 -08:00
+date: 2018-04-29 03:00:00 -07:00
 categories:
 - event
 event-start-date: 2018-06-04 18:30:00 -07:00
