@@ -12,6 +12,6 @@ Location: Rise & Grind, 208 5th St., Arbuckle, CA
 
 Join Indivisible Colusa County members for a weekly coffee meetup in Arbuckle. We write postcards to get out the vote for progressive candidates, offer help, resources and connections for our activism activities, and share ideas for promoting a healthier democracy.
 
-Can’t make Thursday mornings? We also have a coffee meetup on the third Saturday of the month at Caffeinated in Colusa. And we have our regular open meetings with guest speakers on the first Monday night of the month in Williams.
+Can’t make Thursday mornings? We also have a coffee meetup on the third Saturday of the month at Caffeinated in Colusa. And we have our regular open meetings with guest speakers on the first Monday night of the month (location varies).
 
 Indivisible Colusa County is a grassroots group of neighbors who embrace the American principles of compassion, decency, diversity, tolerance, equality and democracy. If this describes you, please join us!
