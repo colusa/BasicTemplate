@@ -17,4 +17,10 @@ call-script-text: "Hi. My name is {name} and I'm calling from {town} about Gina 
   her? "
 ---
 
-Read [more about Gina Haspel and her history of torture.](http://haspel.indivisible.org) 
+[Read Indivisible's explainer about Gina Haspel and her history of torture.](http://haspel.indivisible.org) 
+
+[This open letter](https://www.humanrightsfirst.org/sites/default/files/RMLSenateLetterOnHaspelNomination.pdf) to the Senate signed by scores of military officials states the problem with Haspel in no uncertain terms: 
+
+"We devoted our lives to the defense of our country. We know that fidelity to our most cherished ideals as a nation is the foundation of our security. **The torture and cruel treatment of prisoners undermines our national security by increasing the risks to our troops, hindering cooperation with allies, alienating populations whose support the United States needs in the struggle against terrorism, and providing a propaganda tool for extremists who wish to do us harm.** It would send a
+terrible signal to confirm as the next Director of the CIA someone who was so intimately involved in this dark chapter of our nation’s history."
+
