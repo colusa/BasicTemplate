@@ -1,6 +1,6 @@
 ---
 title: Indivisible Colusa July Meeting - with special guest Sean Elsbernd
-date: 2018-04-29 16:53:00 -07:00
+date: 2018-03-01 12:25:00 -08:00
 categories:
 - event
 tags:
