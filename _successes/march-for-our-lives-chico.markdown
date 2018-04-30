@@ -9,4 +9,4 @@ is featured: true
 main-image: "/uploads/March%20for%20Our%20Lives%20Chico.jpg"
 ---
 
-Indivisible Colusa members and Sonia Aery, Democratic candidate for State Assembly District 3, participating in the student-organized March for Our Lives in Chico on March 25, 2018.
+MARCH 2018. Indivisible Colusa members and Sonia Aery, Democratic candidate for State Assembly District 3, participating in the student-organized March for Our Lives in Chico on March 25, 2018.
