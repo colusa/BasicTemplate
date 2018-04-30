@@ -17,7 +17,8 @@ call-script-text: "Hi. My name is {name} and I'm calling from {town} about Gina 
   her? "
 ---
 
-[**Click her for an explainer from Indivisible about Gina Haspel and her history of torture.**](http://haspel.indivisible.org) 
+[**Read Indivisible's explainer about Gina Haspel and her history of torture.**](http://haspel.indivisible.org) 
+
 
 Opposition to Haspel's nomination is widespread inside and outside the intelligence and military communities and cuts across party lines. Here's an excerpt from an [open letter to the Senate](https://www.humanrightsfirst.org/sites/default/files/RMLSenateLetterOnHaspelNomination.pdf) signed by scores of retired military officials, where they make the case for why Haspel is unfit to lead the CIA: 
 
