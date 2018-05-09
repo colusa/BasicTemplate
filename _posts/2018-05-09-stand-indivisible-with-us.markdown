@@ -1,5 +1,5 @@
 ---
-title: Stand Indivisible with Us
+title: Sign up for our action and event updates
 date: 2018-05-09 12:10:00 -07:00
 categories:
 - action
