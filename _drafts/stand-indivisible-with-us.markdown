@@ -8,6 +8,7 @@ tags:
 - events
 - actions
 - signup
+is featured: true
 ---
 
 Every part of the progressive ecosystem is under threat by this President and Congress. The only way to win is by standing together, indivisible. 
