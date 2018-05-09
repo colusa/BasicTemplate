@@ -1,5 +1,5 @@
 ---
-title: Sign up for our action and event updates
+title: Sign up for our action updates
 date: 2018-05-09 12:10:00 -07:00
 categories:
 - action
@@ -11,9 +11,9 @@ tags:
 is featured: true
 ---
 
-Every part of the progressive ecosystem is under threat by this President and Congress. The only way to win is by standing together, indivisible. 
+Every part of the progressive ecosystem is under threat by this President and Congress. In every Congressional district across the country, people like you are joining Indivisible groups and leading local actions. The only way to win is by standing together, indivisible. 
 
-Sign up for Indivisible Colusa's event and action updates.
+Join the movement. Sign up for Indivisible Colusa's action updates.
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
