@@ -1,11 +1,12 @@
 ---
 title: Sonia Aery for Assembly - Campaign Kick-off Party
-date: 2018-05-19 22:45:00 -07:00
+date: 2018-04-29 02:30:00 -07:00
 categories:
 - event
 tags:
 - sonia aery
 - AD-3
+- colusa
 event-start-date: 2018-06-14 17:00:00 -07:00
 event-end-date: 2018-06-14 19:00:00 -07:00
 Location: The Tap Room at Colusa Made, 121 Eighth St., Colusa, CA
