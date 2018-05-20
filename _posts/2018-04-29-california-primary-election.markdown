@@ -6,7 +6,7 @@ categories:
 tags:
 - vote
 - electoral
-is featured: true
+is featured: false
 event-start-date: 2018-06-05 07:00:00 -07:00
 event-end-date: 2018-06-05 20:00:00 -07:00
 ---
