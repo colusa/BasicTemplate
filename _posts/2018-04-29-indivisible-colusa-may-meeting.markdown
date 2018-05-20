@@ -2,6 +2,7 @@
 title: Indivisible Colusa May Meeting -  Sister District Project, voter registration
   training & more
 date: 2018-04-29 10:00:00 -07:00
+published: false
 categories:
 - event
 tags:
