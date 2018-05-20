@@ -2,11 +2,11 @@
 title: California Primary Election
 date: 2018-04-29 02:45:00 -07:00
 categories:
-- event
+- action
 tags:
 - vote
 - electoral
-is featured: false
+is featured: true
 event-start-date: 2018-06-05 07:00:00 -07:00
 event-end-date: 2018-06-05 20:00:00 -07:00
 Location: 'Vote by mail or at your local polling place. '
