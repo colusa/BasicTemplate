@@ -9,6 +9,7 @@ tags:
 is featured: false
 event-start-date: 2018-06-05 07:00:00 -07:00
 event-end-date: 2018-06-05 20:00:00 -07:00
+Location: 'Vote by mail or at your local polling place. '
 ---
 
 **Your vote is your voice. Use it or lose it.**
