@@ -1,6 +1,6 @@
 ---
 title: California Primary Election
-date: 2018-04-29 03:30:00 -07:00
+date: 2018-04-29 02:45:00 -07:00
 categories:
 - event
 tags:
