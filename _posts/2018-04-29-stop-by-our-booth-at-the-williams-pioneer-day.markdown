@@ -6,9 +6,12 @@ categories:
 tags:
 - pioneer day
 - williams
+event-start-date: 2018-06-02 09:00:00 -07:00
+event-end-date: 2018-06-02 12:30:00 -07:00
+Location: Redinger Park, F and 9th St., Williams, CA
 ---
 
-The Williams Pioneer Day is a popular family-friendly day of fun, including a street fair, parade and fireworks. 
+The Williams Pioneer Day is a fun family-friendly day that includes a street fair, parade and fireworks. 
 
 Come on out and enjoy historic downtown Williams. And be sure to stop by Indivisible Colusa's booth - we'll be registering voters and letting people know what the Indivisible movement is all about. 
 
