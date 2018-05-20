@@ -1,5 +1,5 @@
 ---
-title: California Primary Election
+title: California Primary Election - Tuesday, June 5
 date: 2018-04-29 02:45:00 -07:00
 categories:
 - action
