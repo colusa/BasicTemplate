@@ -14,5 +14,3 @@ event-end-date: 2018-06-05 20:00:00 -07:00
 **Your vote is your voice. Use it or lose it.**
 
 Don't be a primary skipper! There's an important primary election in California on Tuesday, June 5.  Take the time to learn about the issues and candidates, and then vote by mail or on election day at your local polling place.
-
-[June 5 primary.jpg](/uploads/June%205%20primary.jpg)
