@@ -1,5 +1,5 @@
 ---
-title: Stop by our booth at the Williams Pioneer Day
+title: Say hey at Williams Pioneer Day!
 date: 2018-04-29 03:45:00 -07:00
 categories:
 - event
