@@ -6,7 +6,7 @@ categories:
 tags:
 - immigrant
 - immigration
-is featured: true
+is featured: false
 call-script-text: "Hi, my name is _______ and I’m a constituent from zip code______
   and a member of Indivisible Colusa. \n\nI’m calling to ask [Congressman Garamendi/Senator
   Feinstein/Senator Harris] to do everything in their power to get the Trump Administration
