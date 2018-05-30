@@ -1,6 +1,6 @@
 ---
-title: Sign up for our action updates
-date: 2018-05-09 12:10:00 -07:00
+title: Sign up for our newsletter
+date: 2018-05-30 13:10:00 -07:00
 categories:
 - action
 tags:
