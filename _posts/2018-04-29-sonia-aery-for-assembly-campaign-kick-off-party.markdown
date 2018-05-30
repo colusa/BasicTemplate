@@ -13,8 +13,4 @@ Location: The Tap Room at Colusa Made, 121 Eighth St., Colusa, CA
 RSVP-link: https://www.facebook.com/events/2082871335294606/
 ---
 
-We're gathering at the Tap Room in downtown Colusa to kick off Democrat Sonia Aery's campaign efforts in Colusa & Glenn Counties!
-
-All are welcome to this family friendly event. Meet your progressive candidate for the California Assembly and learn more about her plans for the future of the 3rd District.
-
-Can't make it to the party but want to contribute? [Donate here.](https://secure.actblue.com/donate/friends-of-sonia-1) 
+Democrat Sonia Aery is hosting a party at the Tap Room in downtown Colusa to kick off her Assembly District 3 campaign efforts in Colusa & Glenn Counties. Meet your progressive candidate for the California Assembly and learn more about her plans for the future of the 3rd District.
