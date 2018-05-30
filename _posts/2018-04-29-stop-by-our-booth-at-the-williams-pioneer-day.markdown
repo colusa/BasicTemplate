@@ -7,7 +7,7 @@ tags:
 - pioneer day
 - williams
 event-start-date: 2018-06-02 09:00:00 -07:00
-event-end-date: 2018-06-02 12:30:00 -07:00
+event-end-date: 2018-06-02 14:00:00 -07:00
 Location: Redinger Park, F and 9th St., Williams, CA
 ---
 
