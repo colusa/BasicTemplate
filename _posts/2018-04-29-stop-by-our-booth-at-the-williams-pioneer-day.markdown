@@ -11,8 +11,6 @@ event-end-date: 2018-06-02 14:00:00 -07:00
 Location: Redinger Park, F and 9th St., Williams, CA
 ---
 
-The Williams Pioneer Day is a fun family-friendly day that includes a street fair, parade and fireworks. 
-
-Come on out and enjoy historic downtown Williams. And be sure to stop by Indivisible Colusa's booth - we'll be registering voters and giving out free Trump Survival Kits (while supplies last). 
+Come on out and enjoy historic downtown Williams on its annual Pioneer Day, which includes a street fair, parade and fireworks. Be sure to stop by Indivisible Colusa's booth - we'll be registering voters and giving out free Trump Survival Kits (while supplies last). 
 
 Check with [Citizens for a Better Williams](https://www.facebook.com/Citizensforabetterwilliams/), the organizer of Pioneer Day, for the event details. 
