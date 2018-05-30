@@ -1,6 +1,6 @@
 ---
 title: Join us on AMPLIFY
-date: 2018-05-30 12:58:00 -07:00
+date: 2018-05-30 13:14:00 -07:00
 categories:
 - action
 tags:
