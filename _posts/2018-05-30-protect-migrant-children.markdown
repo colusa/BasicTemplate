@@ -20,6 +20,6 @@ Call your Members of Congress and urge them to do everything in their power to g
 
 If you live in Colusa County, your Members of Congress are Senator Dianne Feinstein, Senator Kamala Harris and Congressman John Garamendi. 
 
-Calling them to let them know about the issues that matter to you is faster and more effective than writing a letter or email. If you call during office hours, you can give your comment to the staff person who answers the phone. They are used to taking constituent comments. If you get voice mail during office hours or call after hours or on weekends, just leave your comment on voice mail. And be sure to say what zip code you're calling from. 
+Calling them is faster and more effective than writing a letter or email. If you call during office hours, you can give your comment to the staff person who answers the phone. It's their job to take constituent comments. If you get voice mail during office hours or call after hours or on weekends, just leave your comment on voice mail. And be sure to say what zip code you're calling from. 
 
-Every call and voice mail from constituents is tallied daily according to the issue. Your voice can make a difference - but only if you speak up.  
+All the calls and voice mails from constituents are tallied daily. Your voice will make a difference - but only if you speak up.  
