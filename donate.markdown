@@ -10,7 +10,8 @@ main-image: "/uploads/IMG_2711.JPG"
 
 As we head into the midterms, the national Indivisible project wants to make sure all the local Indivisible groups have the necessary resources to continue building the blue wave. 
 
-**Now through July, every dollar Indivisible Colusa receives through our ActBlue donation account will be matched one-for-one, up to $500!**
+[**Now through July, every dollar Indivisible Colusa receives through our ActBlue donation account will be matched one-for-one, up to $500!**](https://secure.actblue.com/donate/indivisiblecol413728470#)
+
 Every part of our country is under threat by this President and Congress. The only way to win is by standing together, Indivisible.
 
 Indivisible Colusa is one of 6,000 grassroots Indivisible groups across the country taking action to restore checks and balances in Washington, D.C., elect progressive leaders, and realize bold progressive policies.
