@@ -12,6 +12,6 @@ Every part of our country is under threat by this President and Congress. The on
 
 Indivisible Colusa is one of 6,000 grassroots Indivisible groups across the country taking action to restore checks and balances in Washington, D.C., elect progressive leaders, and realize bold progressive policies.
 
-Indivisible Colusa is completely volunteer run. Your donation will support the direct costs of our activism in Colusa County, CA -- things like meeting room rental, printing buttons and flyers, stamps, postcards and art supplies for our Postcards to Voters events, clipboards and pens for our voter registration canvassing, transportation, and more!
+Indivisible Colusa is completely volunteer run. Your donation will support the direct costs of our activism in Colusa County, CA -- things like meeting room rental, button and flyer printing, postcards, stamps and art supplies for our Postcards to Voters events, clipboards and pens for our Get Out the Vote canvassing, and more!
 
 **[Contribute today to Indivisible Colusa. Together, we will win.](https://secure.actblue.com/donate/indivisiblecol413728470#)**
