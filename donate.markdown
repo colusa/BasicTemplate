@@ -3,7 +3,7 @@ title: Donate
 date: 2018-06-13 10:57:00 -07:00
 ---
 
-[IMG_2711.JPG](/uploads/IMG_2711.JPG)## Stand with Indivisible Colusa
+(/uploads/IMG_2711.JPG)## Stand with Indivisible Colusa
 
 [**Click here to donate now**](https://secure.actblue.com/donate/indivisiblecol413728470#)
 
