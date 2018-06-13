@@ -16,4 +16,4 @@ Indivisible Colusa is completely volunteer run. Your donation will support the d
 
 **[Contribute today to Indivisible Colusa. Together, we will win.](https://secure.actblue.com/donate/indivisiblecol413728470#)**
 
-*Online donations to Indivisible Colusa are secure and are made through the ActBlue donation platform used by hundreds of progressive grassroots groups and Democratic campaigns. Donations to Indivisible Colusa are not tax-deductible. *
+*Online donations to Indivisible Colusa are secure and are made through the ActBlue donation platform used by hundreds of progressive grassroots groups and Democratic campaigns. Donations to Indivisible Colusa are not tax-deductible.*
