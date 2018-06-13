@@ -1,6 +1,7 @@
 ---
 title: Donate
 date: 2018-06-13 10:57:00 -07:00
+main-image: "/uploads/IMG_2711.JPG"
 ---
 
 (/uploads/IMG_2711.JPG)## Stand with Indivisible Colusa
