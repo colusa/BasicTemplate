@@ -6,7 +6,7 @@ main-image: "/uploads/IMG_2711.JPG"
 
 ## Stand with Indivisible Colusa
 
-[**Click here to donate now**](https://secure.actblue.com/donate/indivisiblecol413728470#)
+[### Click here to donate now](https://secure.actblue.com/donate/indivisiblecol413728470#)
 
 Every part of our country is under threat by this President and Congress. The only way to win is by standing together, Indivisible.
 
