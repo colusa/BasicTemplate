@@ -15,7 +15,7 @@ is featured: true
 
 As we head into the midterms, the national Indivisible project wants to make sure all the local Indivisible groups have the necessary resources to continue building the blue wave. 
 
-[**Now through July, every dollar Indivisible Colusa receives through our ActBlue donation account will be matched one-for-one, up to $500!**](https://secure.actblue.com/donate/indivisiblecol413728470#)
+[**This month, every dollar Indivisible Colusa receives through our ActBlue donation account will be matched one-for-one, up to $500!**](https://secure.actblue.com/donate/indivisiblecol413728470#)
 
 Indivisible Colusa is completely volunteer run. Your donation will support the direct costs of our activism in Colusa County, CA – things like meeting room rental, button and flyer printing, postcards, stamps and art supplies for our Postcards to Voters events, clipboards and pens for our Get Out the Vote canvassing, and more!
 
