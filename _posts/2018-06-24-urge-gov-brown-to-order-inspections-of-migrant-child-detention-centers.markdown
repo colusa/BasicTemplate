@@ -7,6 +7,7 @@ tags:
 - immigration
 - gov. brown
 - jerry brown
+is featured: true
 call-script-text: "Hi, my name is ___. I live in (town). I'm also a member of Indivisible
   Colusa.\n\nI’m calling to leave a comment for Governor Brown about the humanitarian
   crisis created by the President Trump's \"zero tolerance\" immigration policy. \n\nMany
