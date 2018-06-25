@@ -1,5 +1,5 @@
 ---
-title: Thank Rep. Garamendi for his advocacy for immigrant families
+title: Thank Rep. Garamendi for standing up for immigrant families
 date: 2018-06-24 18:01:00 -07:00
 categories:
 - action
