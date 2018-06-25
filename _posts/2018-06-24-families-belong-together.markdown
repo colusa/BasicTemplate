@@ -1,5 +1,5 @@
 ---
-title: Families Belong Together
+title: Families Belong Together Protest
 date: 2018-06-24 22:30:00 -07:00
 categories:
 - event
