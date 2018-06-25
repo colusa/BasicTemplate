@@ -15,4 +15,6 @@ RSVP-link: www.familiesbelongtogether.org
 
 Stand up to Trump's cruelty. Join a #FamiliesBelongTogether protest on Saturday, June 30. 
 
+Las familias merecen estar unidas.
+
 [Find an event.](http://familiesbelongtogether.org)
