@@ -7,4 +7,4 @@ is featured: true
 main-image: "/uploads/Pioneer%20Day%20booth.jpg"
 ---
 
-Handing out Trump Survival Kits and voter information at the Williams Pioneer Day Festival. 
+Handing out Trump Survival Kits and voter information at the Williams Pioneer Day Festival, June 2018.
