@@ -1,5 +1,6 @@
 ---
-title: Urge Gov. Brown to order inspections of migrant children detention centers
+title: Urge Gov. Brown to order detention center inspections & expedite reuniting
+  families
 date: 2018-06-24 17:32:00 -07:00
 categories:
 - action
