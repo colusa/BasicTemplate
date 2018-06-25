@@ -1,5 +1,5 @@
 ---
-title: Urge Gov. Brown to order inspections of migrant child detention centers
+title: Urge Gov. Brown to order inspections of migrant children detention centers
 date: 2018-06-24 17:32:00 -07:00
 categories:
 - action
@@ -16,7 +16,8 @@ call-script-text: "Hi, my name is ___. I live in (town). I'm also a member of In
   centers to make sure they are following state licensing standards. \n\nI also urge
   the Governor to use his power and resources to make sure these children are swiftly
   and safely reunited with their families. \n\nEven though this is a crisis manufactured
-  by Trump, it's our responsibility as Californians to make sure these children are
-  not further traumatized. \n\nThank you. "
+  by Trump, it's our duty as Californians to make sure these children are not further
+  traumatized. \n\nThank you. "
 ---
 
+President Trump manufactured this humanitarian crisis, but it's our duty to make sure these children are not further traumatized. 
