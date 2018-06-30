@@ -8,8 +8,7 @@ tags:
 - sean elsbernd
 event-start-date: 2018-07-09 18:30:00 -07:00
 event-end-date: 2018-07-09 20:00:00 -07:00
-Location: 'NEW LOCATION: Colusa Main Library, Morse Conference Room, 738 Market St.,
-  Colusa'
+Location: Colusa Main Library, Morse Conference Room, 738 Market St., Colusa
 ---
 
 NEW LOCATION: COLUSA MAIN LIBRARY, Morse Conference Room, 738 Market St., Colusa
