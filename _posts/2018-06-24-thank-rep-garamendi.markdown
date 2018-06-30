@@ -1,6 +1,6 @@
 ---
-title: Thank Rep. Garamendi for standing up for immigrant families & encourage him
-  to take care of himself
+title: Witnessing trauma takes a toll. Thank Rep. Garamendi for advocating for separated
+  families & encourage self-care.
 date: 2018-06-24 18:01:00 -07:00
 categories:
 - action
