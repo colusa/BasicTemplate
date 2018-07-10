@@ -2,6 +2,7 @@
 title: Urge Gov. Brown to order detention center inspections & expedite reuniting
   families
 date: 2018-06-24 17:32:00 -07:00
+published: false
 categories:
 - action
 tags:
