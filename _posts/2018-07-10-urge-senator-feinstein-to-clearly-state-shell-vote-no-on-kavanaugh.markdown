@@ -7,6 +7,7 @@ tags:
 - Supreme Court
 - kavanaugh
 - Feinstein
+is featured: true
 call-script-text: "Hello! My name is ___ and I’m calling from [city or zip code].
   I'm also a member of Indivisible Colusa County \n\nI’m calling about Trump's nomination
   of Brett Kavanaugh to the Supreme Court. \n\nI'm glad that Senator Feinstein is
