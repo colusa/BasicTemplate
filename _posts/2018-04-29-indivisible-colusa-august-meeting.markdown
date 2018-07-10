@@ -1,8 +1,8 @@
 ---
 title: Indivisible Colusa August Meeting
-date: 2018-04-29 01:00:00 -07:00
+date: 2018-04-29 00:45:00 -07:00
 categories:
-- eent
+- event
 tags:
 - meeting
 event-start-date: 2018-08-06 18:30:00 -07:00
