@@ -1,6 +1,6 @@
 ---
 title: Urge Senator Feinstein to clearly state she'll vote NO on Kavanaugh
-date: 2018-07-10 14:15:00 -07:00
+date: 2018-07-10 13:30:00 -07:00
 categories:
 - action
 tags:
