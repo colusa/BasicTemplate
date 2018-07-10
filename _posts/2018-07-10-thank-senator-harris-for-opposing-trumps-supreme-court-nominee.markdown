@@ -1,6 +1,11 @@
 ---
 title: Thank Senator Harris for opposing Trump's Supreme Court nominee
 date: 2018-07-10 13:07:00 -07:00
+categories:
+- action
+tags:
+- Supreme Court
+- kavanaugh
 is featured: true
 call-script-text: "Hello! My name is ___ and I’m calling from [city or zip code].
   I'm also a member of Indivisible Colusa County. \n\nI’m very glad to hear that Senator
