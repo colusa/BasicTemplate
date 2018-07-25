@@ -1,6 +1,10 @@
 ---
-title: Sonia for Assembly Fundraiser
+title: Meet Sonia Aery, the progressive candidate for State Assembly District 3
 date: 2018-04-29 00:15:00 -07:00
+categories:
+- event
+tags:
+- sonia aery
 event-start-date: 2018-08-09 16:30:00 -07:00
 event-end-date: 2018-08-09 18:30:00 -07:00
 Location: Chef Colus, 611 Fremont St., Colusa
