@@ -7,7 +7,7 @@ tags:
 - arbuckle
 event-start-date: 2018-08-02 09:00:00 -07:00
 event-end-date: 2018-08-02 10:00:00 -07:00
-Location: 208 5th St., Arbuckle, CA
+Location: Rise & Grind, 208 5th St., Arbuckle, CA
 ---
 
 **Join Indivisible Colusa County members for a weekly coffee meetup in Arbuckle.** We write postcards to get out the vote for progressive candidates, offer help, resources and connections for our activism activities, and share ideas for promoting a healthier democracy.
