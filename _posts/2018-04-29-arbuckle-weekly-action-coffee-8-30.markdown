@@ -1,6 +1,6 @@
 ---
 title: Arbuckle Weekly Action Coffee
-date: 2018-04-29 12:36:00 -07:00
+date: 2018-04-29 00:36:00 -07:00
 categories:
 - event
 event-start-date: 2018-08-30 09:00:00 -07:00
