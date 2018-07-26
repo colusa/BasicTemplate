@@ -16,7 +16,7 @@ description: "We are a grassroots group of Colusa County, CA neighbors who embra
 layout: calendar
 ---
 
-**Indivisible Colusa's main meetings are the first Monday night of every month.** Since our Williams meeting place doesn't have air conditioning, starting in May 2018, we'll be meeting at the Colusa Main Library in Colusa. 
+**Indivisible Colusa's main meetings are the first Monday night of every month in Colusa.**  
 
 If the first Monday is a holiday, we meet the second Monday. We typically spend the first half of the meeting in an informal conversation with a local community leader, and the second half discussing what's been happening recently and what's coming up in the local and national Indivisible movement. 
 
