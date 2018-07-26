@@ -24,4 +24,4 @@ We have a real opportunity this November to take back the reins of our governmen
 
 [**Contribute today to Indivisible Colusa. Together, we will win.**](https://secure.actblue.com/donate/indivisiblecol413728470#)
 
-*Online donations to Indivisible Colusa are secure and are made through the ActBlue donation platform used by hundreds of progressive grassroots groups and Democratic campaigns. Donations to Indivisible Colusa are not tax-deductible.*
+*[Online donations to Indivisible Colusa](https://secure.actblue.com/donate/indivisiblecol413728470#) are secure and are made through the ActBlue donation platform used by hundreds of progressive grassroots groups and Democratic campaigns. Donations to Indivisible Colusa are not tax-deductible.*
