@@ -16,7 +16,7 @@ Friendly, handwritten postcards from volunteers is a great way to motivate voter
 
 **Indivisible Colusa will provide pizza, soft drinks, postcards, stamps, pens and even the script. No experience necessary. Newcomers welcome!**
 
-We'll also be sharing our plans for more Get Out the Vote activities between now and Election Day, including door-to-door canvassing in Colusa County and beyond.
+We'll also be sharing our plans for more Get Out the Vote activities between now and Election Day, including more postcarding events and door-to-door canvassing in Colusa County and beyond.
 
 ## About Indivisible Colusa
 **Our vision:** Liberty and justice for all. 
