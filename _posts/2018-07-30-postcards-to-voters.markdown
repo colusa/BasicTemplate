@@ -1,5 +1,5 @@
 ---
-title: Postcards to Voters
+title: Postcards to Voters Party
 date: 2018-07-30 11:00:00 -07:00
 categories:
 - event
