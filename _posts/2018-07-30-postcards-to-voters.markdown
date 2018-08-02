@@ -14,7 +14,7 @@ Location: El Mex-Kal Restaurant, 301 5th St., Arbuckle, CA
 
 **Please join us for a fun evening of writing postcards to registered Democrats in Colusa County. Our postcard parties are popular and productive - and they do a lot more good for our Democracy than yelling at the TV!**
 
-Friendly, handwritten postcards from volunteers is a great way to motivate voters who might normally sit out a midterm election.
+Friendly, handwritten postcards from volunteers is a great way to motivate voters who normally sit out a midterm election.
 
 Indivisible Colusa provides the postcards, stamps, pens and even the script. No experience necessary. Newcomers welcome!
 
