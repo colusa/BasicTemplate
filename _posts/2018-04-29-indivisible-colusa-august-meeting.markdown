@@ -21,7 +21,7 @@ We'll also be sharing our plans for more Get Out the Vote activities between now
 ## About Indivisible Colusa
 **Our vision:** Liberty and justice for all. 
 
-**Who we are:** We’re an independent group informally affiliated with a national network of thousands of Indivisible groups that formed in the wake of the 2016 presidential election. 
+**Who we are:** We’re a local, independent group informally affiliated with a national network of thousands of Indivisible groups that formed in the wake of the 2016 presidential election. 
 
 We meet monthly on the first Monday of the month. Our meetings are free and open to the public. There are no membership dues and no membership obligations other than to treat each other with kindness and respect.
 
