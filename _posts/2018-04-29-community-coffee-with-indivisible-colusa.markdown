@@ -5,7 +5,7 @@ categories:
 - event
 event-start-date: 2018-08-18 10:00:00 -07:00
 event-end-date: 2018-08-18 11:30:00 -07:00
-Location: 'NEW LOCATION & TIME: Granzella''s, 451 6th St., Williams, CA'
+Location: 'NEW LOCATION & TIME: La Fortuna Bakery, 669 F St., Williams, CA'
 ---
 
 **NEW LOCATION & TIME: Our August 18 coffee meetup will be at LA FORTUNA BAKERY, 669 F St., Williams at 10:00 AM.** Look for folks wearing Indivisible Colusa shirts or buttons! 
