@@ -1,6 +1,6 @@
 ---
 title: Postcards & Pizza Party + General Membership Meeting
-date: 2018-04-29 00:45:00 -07:00
+date: 2018-08-01 00:45:00 -07:00
 categories:
 - event
 tags:
