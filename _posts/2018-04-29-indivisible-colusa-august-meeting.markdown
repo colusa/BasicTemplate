@@ -14,7 +14,7 @@ Location: Colusa Main Library, Morse Conference Room, 738 Market St., Colusa
 
 Friendly, handwritten postcards from volunteers is a great way to motivate voters who might normally sit out a midterm election.
 
-**We'll provide pizza, soft drinks, postcards, stamps, pens and even the script. No experience necessary. Newcomers welcome!**
+**Indivisible Colusa will provide pizza, soft drinks, postcards, stamps, pens and even the script. No experience necessary. Newcomers welcome!**
 
 We'll also be sharing our plans for more Get Out the Vote activities between now and Election Day, including door-to-door canvassing in Colusa County and beyond.
 
