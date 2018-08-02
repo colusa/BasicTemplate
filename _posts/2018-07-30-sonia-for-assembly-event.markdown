@@ -1,6 +1,6 @@
 ---
 title: Meet Sonia Aery, the progressive candidate for State Assembly District 3
-date: 2018-07-29 00:39:00 -07:00
+date: 2018-07-30 00:00:00 -07:00
 categories:
 - event
 tags:
