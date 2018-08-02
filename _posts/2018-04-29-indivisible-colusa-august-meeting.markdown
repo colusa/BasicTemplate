@@ -1,5 +1,5 @@
 ---
-title: Indivisible Colusa August Meeting
+title: Postcards & Pizza Party + General Membership Meeting
 date: 2018-04-29 00:45:00 -07:00
 categories:
 - event
@@ -10,6 +10,15 @@ event-end-date: 2018-08-06 20:00:00 -07:00
 Location: Colusa Main Library, Morse Conference Room, 738 Market St., Colusa
 ---
 
+**For our August 6 general meeting, we're throwing a Pizza & Postcard Party! We'll be writing postcards to encourage registered Democrats in Colusa County to vote on Nov. 6.**
+
+Friendly, handwritten postcards from volunteers is a great way to motivate voters who might normally sit out a midterm election.
+
+**We'll provide pizza, soft drinks, postcards, stamps, pens and even the script. No experience necessary. Newcomers welcome!**
+
+We'll also be sharing our plans for more Get Out the Vote activities between now and Election Day, including door-to-door canvassing in Colusa County and beyond.
+
+## About Indivisible Colusa
 **Our vision:** Liberty and justice for all. 
 
 **Who we are:** We’re an independent group informally affiliated with a national network of thousands of Indivisible groups that formed in the wake of the 2016 presidential election. 
