@@ -5,6 +5,7 @@ categories:
 - event
 tags:
 - meeting
+- postcards
 event-start-date: 2018-08-06 18:30:00 -07:00
 event-end-date: 2018-08-06 20:00:00 -07:00
 Location: Colusa Main Library, Morse Conference Room, 738 Market St., Colusa
