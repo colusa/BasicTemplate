@@ -1,6 +1,6 @@
 ---
 title: Write Postcards to Voters with Us
-date: 2018-08-27 12:00:00 -07:00
+date: 2018-07-27 12:00:00 -07:00
 categories:
 - event
 tags:
