@@ -9,7 +9,7 @@ tags:
 event-start-date: 2018-08-21 18:00:00 -07:00
 event-end-date: 2018-08-21 20:00:00 -07:00
 Location: Mex-Kal Restaurant (also known as El Jalisience), 301 5th St., Arbuckle,
-  CA
+  CA -Find us in the back room!
 ---
 
 **Please join us for a fun evening of writing postcards to registered Democrats in Colusa County. Our postcard parties are popular and productive - and they do a lot more good for our Democracy than yelling at the TV!**
