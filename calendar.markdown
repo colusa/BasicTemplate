@@ -13,10 +13,6 @@ description: "We are a grassroots group of Colusa County, CA neighbors who embra
   lives in or near Colusa County and agrees with this approach is welcome to join
   our group. We’re an all-volunteer group and we have no dues or membership obligations.
   To connect with us, come to a meeting, message us via Facebook or email us at indivisiblecolusa@gmail.com."
-mailchimp-popup: '<script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/embed.js"
-  data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">require(["mojo/signup-forms/Loader"],
-  function(L) { L.start({"baseUrl":"mc.us15.list-manage.com","uuid":"c7ff6e4e1cb7f971de3d99bab","lid":"a4183041ab"})
-  })</script>'
 layout: calendar
 ---
 
