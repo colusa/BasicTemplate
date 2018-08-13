@@ -2,10 +2,15 @@
 title: Events
 date: 2017-02-15 16:36:00 -08:00
 position: 1
-embed-code: '<script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/embed.js"
-  data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">require(["mojo/signup-forms/Loader"],
-  function(L) { L.start({"baseUrl":"mc.us15.list-manage.com","uuid":"c7ff6e4e1cb7f971de3d99bab","lid":"a4183041ab"})
-  })</script>'
+embed-code: "<!-- Begin MailChimp Signup Form -->\n<link href=\"//cdn-images.mailchimp.com/embedcode/classic-10_7.css\"
+  rel=\"stylesheet\" type=\"text/css\">\n<style type=\"text/css\">\n\t#mc_embed_signup{background:#fff;
+  clear:left; font:14px Helvetica,Arial,sans-serif; }\n\t/* Add your own MailChimp
+  form style overrides in your site stylesheet or in this style block.\n\t   We recommend
+  moving this block and the preceding CSS link to the HEAD of your HTML file. */\n</style>\n<script
+  type=\"text/javascript\" src=\"//downloads.mailchimp.com/js/signup-forms/popup/embed.js\"
+  data-dojo-config=\"usePlainJson: true, isDebug: false\"></script><script type=\"text/javascript\">require([\"mojo/signup-forms/Loader\"],
+  function(L) { L.start({\"baseUrl\":\"mc.us15.list-manage.com\",\"uuid\":\"c7ff6e4e1cb7f971de3d99bab\",\"lid\":\"a4183041ab\"})
+  })</script>\n<!--End mc_embed_signup-->"
 description: "We are a grassroots group of Colusa County, CA neighbors who embrace
   the American principles of compassion, decency, diversity, tolerance, equality and
   participation in our country's democratic processes. We are committed to countering
