@@ -1,64 +1,104 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
-<html><head><script></script>
-<meta name="google-site-verification" content="Roc3myKTQb3lRhwdsjrFyfyc8DnM2gtoQK9mQQmCCy0">
-<title>home.html</title></head><body>
-<script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us15.list-manage.com","uuid":"c7ff6e4e1cb7f971de3d99bab","lid":"a4183041ab"}) })</script>
 ---
 layout: default
 ---
-<div class="home"><!-- HOMEPAGE HEADER -->
-<div class="clearfix home-header-wrap" if="" site.background-image="" %}style="background-image: url('{{ site.background-image }}')" {="" endif="" %=""> {% if
-site.background-image %}
-<div class="onionskin absolute"></div>
-{% endif %}
-<div class="clearfix home-header container relative"><!-- SUBTITLE -->
-<div class="row">
-<div class="col-md-12">
-<h1 class="mt-0 mb-0 {% if site.background-image %}text-white{% endif %}">{{
-site.subtitle | escape }}</h1>
+
+<div class="home">
+
+  <!-- HOMEPAGE HEADER -->
+  <div class="clearfix home-header-wrap" {% if site.background-image %}style="background-image: url('{{ site.background-image }}')"{% endif %}>
+
+    {% if site.background-image %}<div class="onionskin absolute"></div>{% endif %}
+
+    <div class="clearfix home-header container relative">
+
+      <!-- SUBTITLE -->
+      <div class="row">
+        <div class="col-md-12">
+          <h1 class="mt-0 mb-0 {% if site.background-image %}text-white{% endif %}">{{ site.subtitle | escape }}</h1>
+        </div>
+      </div>
+
+      {% if page.content %}
+        <div class="spacer clearfix visible-sm-up"></div>
+        {{ content }}
+      {% endif %}
+
+    </div><meta name="google-site-verification" content="Roc3myKTQb3lRhwdsjrFyfyc8DnM2gtoQK9mQQmCCy0" /><!-- END HOME HEADER -->
+  </div><!-- END HOME HEADER WRAP -->
+
+  <!-- HOMEPAGE BODY -->
+  <div class="container">
+
+    
+      <div class="hidden-sm-up mt-3 mb-3">
+      
+       </div>
+   
+
+      <div class="row">
+
+      <div class="col-sm-8">
+
+        <!-- Blog Posts -->
+        <div class="post-list">
+
+          {% assign featured_posts = (site.posts|where_exp:"post","post['is featured'] == true") %}
+          {% assign not_featured_posts = (site.posts|where_exp:"post","post['is featured'] == false") %}
+
+          {% for post in featured_posts %}
+            <hr class="mt-0 mb-2">
+            <span class="badge badge-danger">PINNED</span>
+            <!-- POST TEMPLATE -->
+            {% include post-list.html %}
+          {% endfor %}
+
+          {% for post in not_featured_posts limit:10 %}
+            <hr class="mt-0 mb-2">
+            <!-- POST TEMPLATE -->
+            {% include post-list.html %}
+          {% endfor %}
+
+        </div><!-- END BLOG POSTS -->
+
+        <!-- Pagination links -->
+        <hr class="mt-2 mb-4">
+        <div class="pagination">
+ <a href="/calendar.html" class="btn btn-link btn-flush mr-auto">More events &rarr;</a>
+          </div>
+             <div class="spacer clearfix"></div>
+        <div class="spacer clearfix"></div>
+
+      </div>
+
+      <!-- SUCCESSES -->
+      <div class="col-sm-4">
+
+        <!-- SUCCESSES -->
+        {% if site.successes %}
+          <hr class="mt-4 mb-3">
+          <h5 class="mb-2">Successes</h5>
+
+        {% assign featured_successes = (site.successes|where_exp:"successes","successes['is featured'] == true") %}
+         {% for successes in featured_successes %}
+            <span class="badge badge-danger mb-2">PINNED</span>
+            {% include success-blurb.html %}
+          {% endfor %}
+
+          {% for successes in not_featured_successes %}
+            {% include success-blurb.html %}
+          {% endfor %}
+
+  <div class="pagination">
+            <a href="/successes.html" class="btn btn-link btn-flush ml-auto">More successes &rarr;</a>
+          </div>
+
+        {% endif %}
+
+      </div><!-- END TEAM MEDIA -->
+
+    </div>
+
+  <div class="spacer clearfix"></div>
+  <div class="spacer clearfix"></div>
+
 </div>
-</div>
-{% if page.content %}
-<div class="spacer clearfix visible-sm-up"></div>
-{{ content }} {% endif %} </div>
-<!-- END HOME HEADER --> </div>
-<!-- END HOME HEADER WRAP --><!-- HOMEPAGE BODY -->
-<div class="container">
-<div class="hidden-sm-up mt-3 mb-3"> </div>
-<div class="row">
-<div class="col-sm-8"><!-- Blog Posts -->
-<div class="post-list"> {% assign featured_posts =
-(site.posts|where_exp:"post","post['is featured'] == true") %} {%
-assign not_featured_posts = (site.posts|where_exp:"post","post['is
-featured'] == false") %} {% for post in featured_posts %}
-<hr class="mt-0 mb-2"> <span class="badge badge-danger">PINNED</span>
-<!-- POST TEMPLATE --> {% include post-list.html %} {%
-endfor %} {% for post in not_featured_posts limit:10 %}
-<hr class="mt-0 mb-2"><!-- POST TEMPLATE -->
-{% include post-list.html %} {% endfor %} </div>
-<!-- END BLOG POSTS --><!-- Pagination links -->
-<hr class="mt-2 mb-4">
-<div class="pagination"> <a href="/calendar.html" class="btn btn-link btn-flush mr-auto">More events &#8594;</a>
-</div>
-<div class="spacer clearfix"></div>
-<div class="spacer clearfix"></div>
-</div>
-<!-- SUCCESSES -->
-<div class="col-sm-4"><!-- SUCCESSES --> {%
-if site.successes %}
-<hr class="mt-4 mb-3">
-<h5 class="mb-2">Successes</h5>
-{% assign featured_successes =
-(site.successes|where_exp:"successes","successes['is featured'] ==
-true") %} {% for successes in featured_successes %} <span class="badge badge-danger mb-2">PINNED</span> {%
-include success-blurb.html %} {% endfor %} {% for successes in
-not_featured_successes %} {% include success-blurb.html %} {% endfor %}
-<div class="pagination"> <a href="/successes.html" class="btn btn-link btn-flush ml-auto">More successes &#8594;</a>
-</div>
-{% endif %} </div>
-<!-- END TEAM MEDIA --> </div>
-<div class="spacer clearfix"></div>
-<div class="spacer clearfix"></div>
-</div>
-</div>
-</body></html>
