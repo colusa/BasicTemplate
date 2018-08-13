@@ -2,7 +2,10 @@
 title: Events
 date: 2017-02-15 16:36:00 -08:00
 position: 1
-embed-code: 
+embed-code: '<script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/embed.js"
+  data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">require(["mojo/signup-forms/Loader"],
+  function(L) { L.start({"baseUrl":"mc.us15.list-manage.com","uuid":"c7ff6e4e1cb7f971de3d99bab","lid":"a4183041ab"})
+  })</script>'
 description: "We are a grassroots group of Colusa County, CA neighbors who embrace
   the American principles of compassion, decency, diversity, tolerance, equality and
   participation in our country's democratic processes. We are committed to countering
