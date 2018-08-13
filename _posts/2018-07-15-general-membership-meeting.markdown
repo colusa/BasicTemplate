@@ -1,6 +1,6 @@
 ---
-title: General Membership Meeting
-date: 2018-08-13 13:32:00 -07:00
+title: September General Membership Meeting
+date: 2018-07-15 13:32:00 -07:00
 categories:
 - event
 event-start-date: 2018-09-10 18:30:00 -07:00
