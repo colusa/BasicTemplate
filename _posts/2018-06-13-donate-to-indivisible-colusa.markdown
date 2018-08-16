@@ -13,7 +13,7 @@ is featured: true
 
 [Can you chip in $5 or $25 to help fuel Indivisible Colusa's local activism?](https://secure.actblue.com/donate/indivisiblecol413728470) 
 
-Our amazing volunteers donate countless hours of their time, but we need help to pay for +2,000 postcards and stamps for our postcard-writing sessions, plus flyers and supplies for our door-to-door canvassing.
+Our amazing volunteers contribute countless hours of their time, but we need help to pay for +2,000 postcards and stamps for our postcard-writing sessions, plus flyers and supplies for our door-to-door canvassing.
 
 Your support means we can reach more Democratic voters. Thank you!
 
