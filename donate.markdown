@@ -6,7 +6,7 @@ main-image: "/uploads/IMG_2711.JPG"
 
 ## Stand Indivisible
 
-[**Donate now to help fuel Indivisible Colusa County's local activism. Click here to donate easily and securely.**](https://secure.actblue.com/donate/indivisiblecol413728470#)
+[**You can help fuel Indivisible Colusa County's local activism. Click here to donate easily and securely.**](https://secure.actblue.com/donate/indivisiblecol413728470#)
 
 Indivisible Colusa is completely volunteer run. This summer and fall, we're putting our energy into getting Democrats and progressives to vote in November - here in rural, conservative Colusa County and in neighboring districts where there's a real shot at flipping Congressional seats from red to blue.
 
