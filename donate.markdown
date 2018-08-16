@@ -12,6 +12,8 @@ Indivisible Colusa is completely volunteer run. This summer and fall, we're putt
 
 We're asking for your help because so much is at stake. If we don't manage to take back Congress in November, we're sure to see an escalation of Trump's war on immigrants, civil rights, women's rights, LGBTQ+ rights, working people and the environment.
 
+[**Can you chip in $5 or $25?** ](https://secure.actblue.com/donate/indivisiblecol413728470)
+
 Your donation will support the direct costs of our activism in Colusa County and in neighboring Congressional districts. Our costs include door-to-door canvassing supplies including flyers, pledge-to-vote cards, and buttons as well as postcards, postage and other supplies to send Get Out the Vote postcards to Democratic voters.
 
 We have a real opportunity this November to take back the reins of our government and stop Trump's and the GOP's hateful agenda. 
