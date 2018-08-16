@@ -4,7 +4,7 @@ date: 2018-06-13 10:57:00 -07:00
 main-image: "/uploads/IMG_2711.JPG"
 ---
 
-# Stand with Indivisible Colusa 
+# Stand Indivisible
 
 [**Donate now to help fuel Indivisible Colusa County's local activism. Click here to donate easily and securely.**](https://secure.actblue.com/donate/indivisiblecol413728470#)
 
