@@ -17,4 +17,4 @@ Our amazing volunteers contribute countless hours of their time, but we need hel
 
 Your support means we can reach more Democratic voters. Thank you!
 
-[Click here to donate easily and securely to Indivisible Colusa County.](https://secure.actblue.com/donate/indivisiblecol413728470)
+[**Click here to donate easily and securely to Indivisible Colusa County.**](https://secure.actblue.com/donate/indivisiblecol413728470)
