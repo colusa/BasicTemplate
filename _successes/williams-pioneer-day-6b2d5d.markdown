@@ -7,4 +7,4 @@ is featured: true
 main-image: "/uploads/Pioneer%20Day%20booth.jpg"
 ---
 
-We met great people and handed out a lot of Trump Survival Kits at the Williams Pioneer Day Festival, June 2018.
+JUNE 2018. We met great people and handed out a lot of our popular Trump Survival Kits at the Williams Pioneer Day festival.
