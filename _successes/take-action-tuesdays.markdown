@@ -1,6 +1,6 @@
 ---
 title: Take Action Tuesdays
-date: 2018-08-16 15:12:00 -07:00
+date: 2017-01-21 13:00:00 -08:00
 tags:
 - election
 - postcards
