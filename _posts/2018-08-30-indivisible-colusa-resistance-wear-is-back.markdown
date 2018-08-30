@@ -1,5 +1,5 @@
 ---
-title: Indivisible Colusa Resistance Gear Is Back!
+title: Get your Indivisible Colusa Resistance Gear Now!
 date: 2018-08-30 15:38:00 -07:00
 categories:
 - action
@@ -7,10 +7,11 @@ tags:
 - tshirts
 - clothes
 - shop
+- donate
 is featured: true
 ---
 
-#### Each tshirt, sweatshirt or hoodie you buy directly funds our efforts to boost the local Democratic vote in the November midterm election.
+#### Order by Sept. 5. Each tshirt, sweatshirt or hoodie you buy directly funds our efforts to boost the local Democratic vote in the November midterm election.
 
 **We've got six styles - classic tees, crew sweatshirts and hoodies - in three great colors.**
 
@@ -20,4 +21,4 @@ Our amazing volunteers are putting in countless hours to boost the Democratic vo
 
 Our local progressive activism is fueled by our volunteers' passion and your support. Thank you! 
 
-[#### Click here to go Indivisible Colusa gear.](https://www.bonfire.com/indivisiblecolusa/) 
+[#### Click here to order Indivisible Colusa gear.](https://www.bonfire.com/indivisiblecolusa/)
