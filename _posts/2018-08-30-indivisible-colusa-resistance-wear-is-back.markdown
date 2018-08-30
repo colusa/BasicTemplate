@@ -1,5 +1,5 @@
 ---
-title: Indivisible Colusa Resistance-Wear Is Back!
+title: Indivisible Colusa Resistance Gear Is Back!
 date: 2018-08-30 15:38:00 -07:00
 categories:
 - action
