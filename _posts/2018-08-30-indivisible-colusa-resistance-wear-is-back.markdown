@@ -21,4 +21,4 @@ Our amazing volunteers are putting in countless hours to boost the Democratic vo
 
 Our local progressive activism is fueled by our volunteers' passion and your support. Thank you! 
 
-[**Click here to order Indivisible Colusa gear.**](https://www.bonfire.com/indivisiblecolusa/)
+[**Click here to view styles and order by September 5.**](https://www.bonfire.com/indivisiblecolusa/)
