@@ -11,7 +11,7 @@ is featured: true
 main-image: "/uploads/Women's%20fitted.JPG"
 ---
 
-### Place your orders by September 5! Each tshirt, sweatshirt or hoodie you buy directly funds our efforts to boost the local Democratic vote in the November midterm election.
+### Orders must be placed by September 5! Each tshirt, sweatshirt or hoodie you buy directly funds our efforts to boost the local Democratic vote in the November midterm election.
 
 **We've got six styles - long and short tees, crew sweatshirts and hoodies - in three great colors.**
 
