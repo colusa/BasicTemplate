@@ -10,9 +10,9 @@ tags:
 is featured: true
 ---
 
-Place your orders by September 5! Each tshirt, sweatshirt or hoodie you buy directly funds our efforts to boost the local Democratic vote in the November midterm election.
+## Place your orders by September 5! Each tshirt, sweatshirt or hoodie you buy directly funds our efforts to boost the local Democratic vote in the November midterm election.
 
-[Blue tshirt back-4828b5.JPG](/uploads/Blue%20tshirt%20back-4828b5.JPG)[Women's fitted.JPG](/uploads/Women's%20fitted.JPG)[Women's fitted purple front.JPG](/uploads/Women's%20fitted%20purple%20front.JPG)[Hoodie.JPG](/uploads/Hoodie.JPG)[Gray crew sweatshirt front.JPG](/uploads/Gray%20crew%20sweatshirt%20front.JPG)
+**We've got six styles - long and short tees, crew sweatshirts and hoodies - in three great colors.**
 
 Our amazing volunteers are putting in countless hours to boost the Democratic vote in Colusa County and flip neighboring Congressional districts from red to blue. We need your help to pay for +2,000 postcards and stamps for our postcards to voters events, plus flyers and supplies for our door-to-door canvassing. 
 
