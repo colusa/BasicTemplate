@@ -13,7 +13,7 @@ main-image: "/uploads/Women's%20fitted.JPG"
 
 #### Each tshirt, sweatshirt or hoodie you buy directly funds our efforts to boost the local Democratic vote in the November midterm election.
 
-**We've got six styles - long and short tees, crew sweatshirts and hoodies - in three great colors.**
+**We've got six styles - classic tees, crew sweatshirts and hoodies - in three great colors.**
 
 [Women's fitted.JPG](/uploads/Women's%20fitted.JPG)
 
