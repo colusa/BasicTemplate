@@ -9,6 +9,7 @@ tags:
 - shop
 - donate
 is featured: true
+main-image: "/uploads/Women's%20fitted%20purple%20front.JPG"
 ---
 
 #### Order by Sept. 5. Each tshirt, sweatshirt or hoodie you buy directly funds our efforts to boost the local Democratic vote in the November midterm election.
