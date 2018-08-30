@@ -10,7 +10,6 @@ tags:
 - donate
 is featured: true
 main-image: "/uploads/Blue%20tshirt%20back-4828b5.JPG"
-RSVP-link: "/uploads/Women's%20fitted%20purple%20front.JPG"
 ---
 
 #### Order by Sept. 5. Each tshirt, sweatshirt or hoodie you buy directly funds our efforts to boost the local Democratic vote in the November midterm election.
