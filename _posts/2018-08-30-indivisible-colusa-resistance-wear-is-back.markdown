@@ -7,6 +7,7 @@ tags:
 - tshirts
 - clothes
 - shop
+is featured: true
 ---
 
 [Blue tshirt back-4828b5.JPG](/uploads/Blue%20tshirt%20back-4828b5.JPG)[Women's fitted.JPG](/uploads/Women's%20fitted.JPG)[Women's fitted purple front.JPG](/uploads/Women's%20fitted%20purple%20front.JPG)[Hoodie.JPG](/uploads/Hoodie.JPG)[Gray crew sweatshirt front.JPG](/uploads/Gray%20crew%20sweatshirt%20front.JPG)
