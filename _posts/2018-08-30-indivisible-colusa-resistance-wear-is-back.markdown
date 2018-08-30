@@ -8,8 +8,6 @@ tags:
 - clothes
 - shop
 is featured: true
-main-image: "/uploads/Women's%20fitted.JPG"
-call-script-text: "[Women's fitted.JPG](/uploads/Women's%20fitted.JPG)"
 ---
 
 #### Each tshirt, sweatshirt or hoodie you buy directly funds our efforts to boost the local Democratic vote in the November midterm election.
@@ -22,4 +20,4 @@ Our amazing volunteers are putting in countless hours to boost the Democratic vo
 
 Our local progressive activism is fueled by our volunteers' passion and your support. Thank you! 
 
-[Click here to go order Indivisible Colusa gear.](https://www.bonfire.com/indivisiblecolusa/) 
+[#### Click here to go Indivisible Colusa gear.](https://www.bonfire.com/indivisiblecolusa/) 
