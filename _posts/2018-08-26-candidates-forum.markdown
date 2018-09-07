@@ -1,6 +1,6 @@
 ---
 title: Candidates' Forum - State Assembly District 3 and State Senate District 4
-date: 2018-08-30 08:00:00 -07:00
+date: 2018-08-26 08:00:00 -07:00
 categories:
 - event
 tags:
