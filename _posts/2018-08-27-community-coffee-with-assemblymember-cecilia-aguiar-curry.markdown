@@ -1,6 +1,6 @@
 ---
 title: Community Coffee with Assemblymember Cecilia Aguiar-Curry
-date: 2018-08-29 08:00:00 -07:00
+date: 2018-08-27 08:00:00 -07:00
 categories:
 - event
 tags:
