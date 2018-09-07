@@ -1,6 +1,6 @@
 ---
 title: Candidate Forum on Healthcare
-date: 2018-09-07 16:09:00 -07:00
+date: 2018-09-01 00:00:00 -07:00
 categories:
 - event
 tags:
