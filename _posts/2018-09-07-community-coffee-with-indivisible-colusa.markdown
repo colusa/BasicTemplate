@@ -6,8 +6,8 @@ categories:
 tags:
 - williams
 - coffee
-event-start-date: 2018-09-15 00:00:00 -07:00
-event-end-date: 2018-09-15 00:00:00 -07:00
+event-start-date: 2018-09-15 10:00:00 -07:00
+event-end-date: 2018-09-15 11:30:00 -07:00
 Location: Our monthly 3rd Saturday coffee in Williams is CANCELLED IN SEPTEMBER. We'll
   be out knocking on voters' doors instead!
 ---
