@@ -1,6 +1,6 @@
 ---
 title: Community Coffee with Indivisible Colusa
-date: 2018-08-26 08:00:00 -07:00
+date: 2018-08-30 08:00:00 -07:00
 categories:
 - event
 tags:
