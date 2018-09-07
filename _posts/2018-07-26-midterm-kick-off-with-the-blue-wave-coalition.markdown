@@ -1,6 +1,7 @@
 ---
 title: Midterm Kick-Off with the Blue Wave Coalition
 date: 2018-07-26 14:46:00 -07:00
+published: false
 categories:
 - event
 tags:
