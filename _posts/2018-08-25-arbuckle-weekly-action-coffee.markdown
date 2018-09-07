@@ -1,6 +1,6 @@
 ---
 title: Arbuckle Weekly Action Coffee
-date: 2018-08-31 08:00:00 -07:00
+date: 2018-08-25 08:00:00 -07:00
 published: false
 categories:
 - event
@@ -8,7 +8,7 @@ tags:
 - coffee
 - arbuckle
 event-start-date: 2018-09-27 09:00:00 -07:00
-event-end-date: 2018-09-07 10:00:00 -07:00
+event-end-date: 2018-09-27 10:00:00 -07:00
 Location: Rise & Grind, 208 5th St., Arbuckle
 ---
 
