@@ -11,7 +11,7 @@ tags:
 - Feinstein
 - harris
 call-script-text: |-
-  Hello. My name is [_____]. I'm a constituent from zip code [___]. I'm also a member of Indivisible Colusa.
+  Hello. My name is [    ]. I'm a constituent from zip code [    ]. I'm also a member of Indivisible Colusa.
 
   I'd like to thank Senator [Feinstein/Harris] for her strenuous efforts to bring Brett Kavanaugh's record to light.
 
