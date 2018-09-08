@@ -18,4 +18,4 @@ call-script-text: |-
   Please urge her to keep up the pressure, and use all means at her disposal to block Kavanaugh's confirmation to the Supreme Court. Thank you.
 ---
 
-Need more infor? [Read Indivisible's #SaveSCOTUS explainer](https://www.indivisible.org/resource/must-stop-kavanaugh-becoming-trumps-next-supreme-court-justice/) about why we must stop Kavanaugh from becoming Trump's next Supreme Court justice. 
+Need more info? [Read Indivisible's explainer](https://www.indivisible.org/resource/must-stop-kavanaugh-becoming-trumps-next-supreme-court-justice/) about why we must stop Kavanaugh from becoming Trump's next Supreme Court justice. 
