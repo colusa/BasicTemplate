@@ -9,7 +9,10 @@ description: We are residents of Colusa County, CA working together to advocate 
 
 ### Media Contact
 Jen Roberts, [indivisiblecolusa@gmail.com](mailto:indivisiblecolusa@gmail.com)
- 
+
+### Press Releases
+
+[Indivisible Colusa endorses Sonia Aery for California State Assembly, 3rd District](https://drive.google.com/open?id=1w550IRm0oUKPCt8EyrZIdTRudYt8XGTF), 9/7/2018
  
 
 ### Indivisible Colusa in the News
