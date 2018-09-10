@@ -8,7 +8,7 @@ tags:
 - donation
 - contribute
 - contribution
-is featured: true
+is featured: false
 ---
 
 [**Can you chip in $5 or $25 to help fuel Indivisible Colusa's local activism?**](https://secure.actblue.com/donate/indivisiblecol413728470) 
