@@ -15,3 +15,5 @@ Indivisible Colusa County enthusiastically endorses Sonia Aery, the Democratic c
 Born and raised in the district and the daughter of Indian immigrants, Sonia Aery is a Chico-based business owner and affordable housing advocate. Her priorities include Medicare for all, economic policies that are fair to working families, and just and humane immigration laws.
 
 The 3rd District includes the Colusa County communities of Colusa, Lodoga, Maxwell, Princeton and Stonyford.
+
+[**Get to know Sonia.**](https://www.soniaforassembly.org/)
