@@ -1,6 +1,7 @@
 ---
 title: GOTV Colusa County - Canvassing Training + Pizza
 date: 2018-09-01 08:00:00 -07:00
+published: false
 categories:
 - event
 tags:
