@@ -21,7 +21,7 @@ This may be the most important election of our lifetimes. Now is the time to #sh
 
 For our nine GOTV dates, you can join us for either door-to-door canvassing or writing postcards.
 
-**[Click here to sign up.](https://www.signupgenius.com/go/60b0e4fafac2cabf49-getout)**
+[**Click here to sign up.**](https://www.signupgenius.com/go/60b0e4fafac2cabf49-getout)
 
 ### About canvassing
 
