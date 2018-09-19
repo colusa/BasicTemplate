@@ -1,6 +1,6 @@
 ---
 title: Door knocking and postcard writing with Indivisible Colusa
-date: 2018-08-23 08:00:00 -07:00
+date: 2018-08-24 07:00:00 -07:00
 categories:
 - event
 tags:
