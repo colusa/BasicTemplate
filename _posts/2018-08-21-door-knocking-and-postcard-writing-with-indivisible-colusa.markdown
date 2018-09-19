@@ -33,4 +33,4 @@ No canvassing experience necessary. We'll provide training at the start of each 
 
 If door-to-door canvassing isn't your thing, we'd love it if you would help us write postcards to local voters. We'll provide the postcards, addresses, scripts and pens. We'll have some stamps available but you can help stretch our budget by providing your own stamps.
 
-[Click here to sign up.](https://www.signupgenius.com/go/60b0e4fafac2cabf49-getout)
+**[Click here to sign up.](https://www.signupgenius.com/go/60b0e4fafac2cabf49-getout)**
