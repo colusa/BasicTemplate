@@ -1,6 +1,6 @@
 ---
 title: Indivisible Colusa October Meeting
-date: 2018-09-18 22:27:00 -07:00
+date: 2018-08-25 08:00:00 -07:00
 categories:
 - event
 tags:
