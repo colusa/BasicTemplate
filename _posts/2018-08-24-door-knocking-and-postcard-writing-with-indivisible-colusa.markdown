@@ -18,6 +18,7 @@ Location: Colusa Public Library, Morse Conference Room, 738 Market St., Colusa, 
 RSVP-link: https://www.signupgenius.com/go/60b0e4fafac2cabf49-getout
 ---
 
+[DoTheWork_GOTV.JPG](/uploads/DoTheWork_GOTV.JPG)
 ## Help us get out the vote
 This may be the most important election of our lifetimes. Now is the time to #showup and #dothework. Join Indivisible Colusa volunteers as we knock on Democrats' doors in Colusa and send postcards to voters to Get Out the Vote (GOTV).
 
