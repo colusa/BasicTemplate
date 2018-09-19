@@ -25,13 +25,13 @@ For our nine GOTV dates, you can join us for either door-to-door canvassing or w
 
 **[Click here to sign up.](https://www.signupgenius.com/go/60b0e4fafac2cabf49-getout)**
 
-### About Canvassing
+### About canvassing
 
 Face-to-face conversations are THE most effective way to Get Out the Vote. Join us for our community block walking events in Colusa this fall. We'll be knocking on doors of registered Democrats to boost the local vote for the midterm election.
 
 No canvassing experience necessary. We'll provide training at the start of each session, mapped out addresses, and an Indivisible Colusa tote bag with flyers to give out and our popular Trump Survival Kits to give away. Come with a friend or come on your own and we'll pair you up with one of our awesome volunteers.
 
-### About Postcarding
+### About postcarding
 
 If door-to-door canvassing isn't your thing, we'd love it if you would help us write postcards to local voters. We'll provide the postcards, addresses, scripts and pens. We'll have some stamps available but you can help stretch our budget by providing your own stamps.
 
