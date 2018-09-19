@@ -10,6 +10,8 @@ tags:
 - postcards
 - canvass
 - door knocking
+- midterm
+- election
 event-start-date: 2018-10-10 17:00:00 -07:00
 event-end-date: 2018-10-10 19:00:00 -07:00
 Location: Colusa Public Library, Morse Conference Room, 738 Market St., Colusa, CA
