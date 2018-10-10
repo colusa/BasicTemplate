@@ -1,6 +1,6 @@
 ---
 title: Election Watch Potluck Party
-date: 2018-10-09 20:32:00 -07:00
+date: 2018-08-16 20:32:00 -07:00
 categories:
 - event
 tags:
