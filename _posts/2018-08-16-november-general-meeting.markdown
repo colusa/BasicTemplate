@@ -1,6 +1,6 @@
 ---
 title: November General Meeting
-date: 2018-08-18 20:30:00 -07:00
+date: 2018-08-16 20:30:00 -07:00
 categories:
 - event
 tags:
