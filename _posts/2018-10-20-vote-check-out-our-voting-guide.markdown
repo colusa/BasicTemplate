@@ -7,6 +7,7 @@ tags:
 - vote
 - election
 - propositions
+is featured: true
 ---
 
 # Important dates for Californians
