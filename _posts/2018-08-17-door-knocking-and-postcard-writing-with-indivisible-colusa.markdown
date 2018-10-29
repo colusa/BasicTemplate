@@ -9,11 +9,13 @@ tags:
 - GOTV
 - get out the vote
 - canvass
-event-start-date: 2018-10-30 17:00:00 -07:00
-event-end-date: 2018-10-30 19:00:00 -07:00
-Location: Colusa Public Library, Morse Conference Room, 738 Market St., Colusa, CA
+event-start-date: 2018-10-30 16:00:00 -07:00
+event-end-date: 2018-10-30 18:30:00 -07:00
+Location: Maxwell Little League Field, 141-151 S. Pacific St., Maxwell, CA
 RSVP-link: https://www.signupgenius.com/go/60b0e4fafac2cabf49-getout
 ---
+
+LOCATION & TIME CHANGE: On Tuesday, 10/30 we are canvassing in Maxwell (NOT Colusa). Please meet at 4:00 PM at the Maxwell Little League Field, 141-151 S. Pacific St., Maxwell. 
 
 Face-to-face conversations are THE most effective way to Get Out the Vote. Join us for our community block walking events in Colusa this fall. We'll be knocking on doors of registered Democrats to boost the local vote for the midterm election.
 
