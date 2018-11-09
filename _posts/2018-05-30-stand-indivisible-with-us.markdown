@@ -1,7 +1,6 @@
 ---
 title: Sign up for our newsletter
 date: 2018-05-30 13:10:00 -07:00
-published: false
 categories:
 - action
 tags:
