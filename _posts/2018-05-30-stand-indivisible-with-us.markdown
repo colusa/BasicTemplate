@@ -12,9 +12,7 @@ tags:
 is featured: true
 ---
 
-Every part of the progressive ecosystem is under threat by this President and Congress. In every Congressional district across the country, people like you are joining Indivisible groups and leading local actions. The only way to win is by standing together, indivisible. 
-
-Join the movement. Sign up for Indivisible Colusa's email updates.
+Don't miss out! Sign up for Indivisible Colusa's email updates.
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
