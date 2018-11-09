@@ -8,7 +8,7 @@ tags:
 - events
 - actions
 - signup
-is featured: true
+is featured: false
 ---
 
 Sign up for Indivisible Colusa's email newsletter.
