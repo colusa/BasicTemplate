@@ -1,5 +1,5 @@
 ---
-title: Sign up for our newsletter
+title: Don't miss out!
 date: 2018-05-30 13:10:00 -07:00
 categories:
 - action
@@ -11,7 +11,9 @@ tags:
 is featured: true
 ---
 
-Don't miss out! Sign up for Indivisible Colusa's email updates.
+Sign up for Indivisible Colusa's email newsletter.
+
+
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
